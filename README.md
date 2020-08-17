@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Meetings
 
-### TAOCP #8 - Chapter 2, Information Structures
+### TAOCP #9 - Chapter 2, Information Structures, Sequential Allocation
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -30,10 +30,46 @@ Google Meet link will be sent to attendees before the meeting.
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
-- *2.1 Introduction* (pp.232-236) (with *MMIX Supplement*, pp.49-51)
+- *2.2 Linear Lists* (pp.244-251)
+  - *2.2.2 Sequential Allocation* (pp.244-251)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.236-237), shoot the breeze<br>
+**3:10 - 4:00** *Exercises* (pp.251-254), shoot the breeze<br>
+
+Arrays!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #8 - Chapter 2, Information Structures, Introduction
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- Skim *MMIX Supplement* (pp.7-25)
+  - *Foreword* (pp.7-8)
+  - *Preface* (pp.9-11)
+  - *Style Guide* (pp.12-25)
+- *2.1 Introduction* (pp.232-236) (with *MMIX Supplement*, pp.49-51)
+- *2.2 Linear Lists* (pp.238-242)
+  - *2.2.1 Stacks, Queues, and Deques* (pp.238-242)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.236-237, pp.242-243), shoot the breeze<br>
 
 Data structures - Yay!
 
@@ -136,7 +172,7 @@ Google Meet link will be sent to attendees before the meeting.
   - *Program M (Find the maximum)* (pp.28-30)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.24-28, 43-45), shoot the breeze<br>
+**3:10 - 4:00** *Exercises* (pp.24-28, pp.43-45), shoot the breeze<br>
 
 We learn how to program an **MMIX** computer!
 
