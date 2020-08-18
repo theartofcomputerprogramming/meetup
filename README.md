@@ -16,7 +16,383 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Meetings
 
-### TAOCP #9 - Chapter 2, Information Structures, Sequential Allocation
+### TAOCP #21 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *5.2 Internal Sorting* (pp.399-404)
+  - *5.2.1 Sorting by Insertion* (pp.399-404)
+    - *Shell's method* (pp.399-404)
+    - *Algorithm D (Shellsort)* (pp.399-404)
+    - *Program D (Shellsort)* (pp.399-404)
+    - *List insertion* (pp.399-404)
+    - *Algorithm L (List insertion)* (pp.399-404)
+    - *Program L (List insertion)* (pp.399-404)
+    - *Address calculation sorting* (pp.399-404)
+    - *Program M (Multiple list insertion* (pp.399-404)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
+
+Binary Trees!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+
+### TAOCP #20 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *5.2 Internal Sorting* (pp.399-404)
+  - *5.2.1 Sorting by Insertion* (pp.399-404)
+    - *Straight insertion* (pp.399-404)
+    - *Algorithm S (Straight insertion sort)* (pp.399-404)
+    - *Program S (Straight insertion sort)* (pp.399-404)
+    - *Binary insertion and two-way insertion* (pp.399-404)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
+
+Binary Trees!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #19 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *5.2 Internal Sorting* (pp.399-404)
+  - *Sorting by counting* (pp.399-404)
+  - *Algorithm C (Comparison counting)* (pp.399-404)
+  - *Program C (Comparison counting)* (pp.399-404)
+  - *Algorithm D (Distribution counting)* (pp.399-404)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
+
+Binary Trees!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #18 - Path Length In Trees (Chapter 2, Information Structures: Section 2.3.4.5)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3 Trees* (pp.399-404)
+  - *2.3.4.5 Path Length* (pp.399-404)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
+
+Binary Trees!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #17 - Other Representations Of Trees (Chapter 2, Information Structures: Section 2.3.3) 
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3 Trees* (pp.348-359)
+  - *2.3.3 Other Representations of Trees* (pp.348-359)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.359-362), shoot the breeze<br>
+
+Binary Trees!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #16 - Binary Tree Representation Of Trees (Chapter 2, Information Structures: Section 2.3.2)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3 Trees* (pp.334-346)
+  - *2.3.2 Binary Tree Representation of Trees* (pp.334-346)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.346-348), shoot the breeze<br>
+
+Binary Trees!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #15 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3 Trees* (pp.308-330)
+  - *2.3.1 Traversing Binary Trees* (pp.318-330)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.330-334), shoot the breeze<br>
+
+Binary Trees!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #14 - Trees (Chapter 2, Information Structures: Section 2.3)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3 Trees* (pp.308-316)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.316-318), shoot the breeze<br>
+
+Trees!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #13 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.2 Linear Lists* (pp.298-305)
+  - *2.2.6 Arrays and Orthogonal Lists* (pp.298-305)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.305-307), shoot the breeze<br>
+
+Matrices!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #12 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.2 Linear Lists* (pp.280-296)
+  - *2.2.5 Doubly Linked Lists* (pp.280-296)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.297-298), shoot the breeze<br>
+
+Linked lists!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #11 - Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.2 Linear Lists* (pp.273-278)
+  - *2.2.4 Circular Lists* (pp.273-278)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.278-280), shoot the breeze<br>
+
+Linked lists!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #10 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
+
+**Date:** TBD<br>
+**Time:** TBD
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Google Meet link will be sent to attendees before the meeting.
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet<br>
+**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.2 Linear Lists* (pp.254-261)
+  - *2.2.3 Linked Allocation* (pp.254-261)
+
+**3:00 - 3:10** Break<br>
+**3:10 - 4:00** *Exercises* (pp.268-273), shoot the breeze<br>
+
+Linked lists!
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+
+### TAOCP #9 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -46,7 +422,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #8 - Chapter 2, Information Structures, Introduction
+### TAOCP #8 - Stacks, Queues, and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -81,7 +457,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #7 - Fascicle 1, 1.3' MMIX, Last Program And Wrap-up, (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #7 - MMIX Wrap-up (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -115,7 +491,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #6 - Fascicle 1, 1.3' MMIX, Simulator, (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #6 - Running MMIX Programs (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -148,7 +524,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #5 - Fascicle 1, 1.3' MMIX, Assembly Language, (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #5 - MMIX Assembly Language (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -186,7 +562,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #4 - Fascicle 1, 1.3' MMIX, More Instruction Set, (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #4 - More MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -222,7 +598,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #3 - Fascicle 1, 1.3' MMIX, Instruction Set, (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #3 - Introduction to MMIX (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -258,7 +634,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #2 - Chapter 1, Basic Concepts: 1.1 Algorithms
+### TAOCP #2 - Algorithms (Chapter 1, Basic Concepts: Section 1.1)
 
 **Date:** TBD<br>
 **Time:** TBD
