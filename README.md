@@ -14,8 +14,13 @@ If you feel the same way or would like to know why the ACM Turing Award cited Kn
 
 Anyone may join from anywhere. No programming knowledge is required.
 
-## Meetings
+## Next Meetup
 
+[TAOCP #1](#taocp-1---inaugural-meeting)
+
+## All Meetups
+
+Past and future meetups in reverse chronological order
 
 ### TAOCP #21 - Path Length In Trees (Chapter 2, Information Structures: Section 2.3.4.5)
 
@@ -254,7 +259,7 @@ Google Meet link will be sent to attendees before the meeting.
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
 
-Binary Trees!
+Sorting!
 
 **Note on MMIX and MIX**
 
@@ -288,7 +293,7 @@ Google Meet link will be sent to attendees before the meeting.
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
 
-Binary Trees!
+Sorting!
 
 **Note on MMIX and MIX**
 
@@ -321,7 +326,7 @@ Google Meet link will be sent to attendees before the meeting.
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
 
-Binary Trees!
+Sorting!
 
 **Note on MMIX and MIX**
 
@@ -422,7 +427,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #8 - Stacks, Queues, and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
+### TAOCP #8 - Stacks, Queues and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -448,6 +453,10 @@ Google Meet link will be sent to attendees before the meeting.
 **3:10 - 4:00** *Exercises* (pp.236-237, pp.242-243), shoot the breeze<br>
 
 Data structures - Yay!
+
+We begin with sequential arrangements of data known as lists or arrays. Three simple and pervasive data structures - stacks, queues and deques - are introduced.
+
+We'll need to start using *The MMIX Supplement*. It will remain a companion to TAOCP Volumes 1-3 in all future meetups. It has **MMIX** variants of code in TAOCP.
 
 **Note on MMIX and MIX**
 
@@ -696,4 +705,3 @@ A shared Google Doc will be available during and for some time after the meeting
 A separate repo for member solutions to exercises is available at https://github.com/theartofcomputerprogramming/exercises
 
 It is my hope to build a permanent resource of our meeting recordings, notes and exercise solutions to help anyone who'd like to study TAOCP. More immediately it's meant to aid members who miss a meeting to catch up on their own.
-
