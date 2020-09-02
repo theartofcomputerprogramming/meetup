@@ -14,22 +14,27 @@ If you feel the same way or would like to know why the ACM Turing Award cited Kn
 
 Anyone may join from anywhere. No programming knowledge is required.
 
-## Meetings
+## Next Meetup
 
+[TAOCP #4](#taocp-4---basic-mmix-instructions-fascicle-1-13-mmix-chapter-1-basic-concepts-13-mix)
 
-### TAOCP #21 - Path Length In Trees (Chapter 2, Information Structures: Section 2.3.4.5)
+## All Meetups
+
+Past and future meetups in reverse chronological order
+
+### TAOCP #20 - Path Length In Trees (Chapter 2, Information Structures: Section 2.3.4.5)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.399-404)
   - *2.3.4.5 Path Length* (pp.399-404)
@@ -47,19 +52,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #20 - Other Representations Of Trees (Chapter 2, Information Structures: Section 2.3.3) 
+### TAOCP #19 - Other Representations Of Trees (Chapter 2, Information Structures: Section 2.3.3) 
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.348-359)
   - *2.3.3 Other Representations of Trees* (pp.348-359)
@@ -77,19 +82,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #19 - Binary Tree Representation Of Trees (Chapter 2, Information Structures: Section 2.3.2)
+### TAOCP #18 - Binary Tree Representation Of Trees (Chapter 2, Information Structures: Section 2.3.2)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.334-346)
   - *2.3.2 Binary Tree Representation of Trees* (pp.334-346)
@@ -107,19 +112,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #18 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
+### TAOCP #17 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.308-330)
   - *2.3.1 Traversing Binary Trees* (pp.318-330)
@@ -137,19 +142,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #17 - Trees (Chapter 2, Information Structures: Section 2.3)
+### TAOCP #16 - Trees (Chapter 2, Information Structures: Section 2.3)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.308-316)
 
@@ -166,19 +171,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #16 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
+### TAOCP #15 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.298-305)
   - *2.2.6 Arrays and Orthogonal Lists* (pp.298-305)
@@ -196,19 +201,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #15 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
+### TAOCP #14 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.280-296)
   - *2.2.5 Doubly Linked Lists* (pp.280-296)
@@ -226,19 +231,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #14 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #13 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
   - *5.2.1 Sorting by Insertion* (pp.399-404)
@@ -254,7 +259,7 @@ Google Meet link will be sent to attendees before the meeting.
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
 
-Binary Trees!
+Sorting!
 
 **Note on MMIX and MIX**
 
@@ -264,19 +269,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #13 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #12 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
   - *5.2.1 Sorting by Insertion* (pp.399-404)
@@ -288,7 +293,7 @@ Google Meet link will be sent to attendees before the meeting.
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
 
-Binary Trees!
+Sorting!
 
 **Note on MMIX and MIX**
 
@@ -298,19 +303,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #12 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
+### TAOCP #11 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
   - *Sorting by counting* (pp.399-404)
@@ -321,7 +326,7 @@ Google Meet link will be sent to attendees before the meeting.
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
 
-Binary Trees!
+Sorting!
 
 **Note on MMIX and MIX**
 
@@ -331,19 +336,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #11 - Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
+### TAOCP #10 - Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.273-278)
   - *2.2.4 Circular Lists* (pp.273-278)
@@ -361,19 +366,19 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #10 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
+### TAOCP #9 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
 
 **Date:** TBD<br>
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.254-261)
   - *2.2.3 Linked Allocation* (pp.254-261)
@@ -392,21 +397,22 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
 
-### TAOCP #9 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
+### TAOCP #8 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 24 October 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.244-251)
+
   - *2.2.2 Sequential Allocation* (pp.244-251)
 
 **3:00 - 3:10** Break<br>
@@ -422,26 +428,29 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #8 - Stacks, Queues, and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
+### TAOCP #7 - Stacks, Queues and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 17 October 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - Skim *MMIX Supplement* (pp.7-25)
+
   - *Foreword* (pp.7-8)
   - *Preface* (pp.9-11)
   - *Style Guide* (pp.12-25)
+  
 - *2.1 Introduction* (pp.232-236) (with *MMIX Supplement*, pp.49-51)
 - *2.2 Linear Lists* (pp.238-242)
+
   - *2.2.1 Stacks, Queues, and Deques* (pp.238-242)
 
 **3:00 - 3:10** Break<br>
@@ -449,6 +458,10 @@ Google Meet link will be sent to attendees before the meeting.
 
 Data structures - Yay!
 
+We begin with sequential arrangements of data known as lists or arrays. Three simple and pervasive data structures - stacks, queues and deques - are introduced.
+
+We'll need to start using *The MMIX Supplement*. It will remain a companion to TAOCP Volumes 1-3 in all future meetups. It has **MMIX** variants of code in TAOCP.
+
 **Note on MMIX and MIX**
 
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
@@ -457,31 +470,41 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #7 - MMIX Wrap-up (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #6 - MMIX I/O (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 10 October 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
-- *1.3.2' The MMIX Assembly Language* (pp.32-40)
+- *1.3.2' The MMIX Assembly Language* (pp.30-43)
+
+  - *Program H (Hail the world)* (pp.30-32)
   - *Algorithm P (Print table of 500 primes)* (p.32)
   - *Program P (Print table of 500 primes)* (pp.32-37)
   - *Language summary* (pp.37-40)
-
+  - *Primitive input and output* (pp.40-43)
+  
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.43-51), shoot the breeze<br>
+**3:10 - 4:00**
+  - Hands-on MMIX Visual Debugger
+  - *Exercises* (pp.24-28, pp.43-51)
+  - Shoot the breeze<br>
 
 We wrap up **MMIX**!
 
-One last program completes the introduction to **MMIX**. After this we'll be ready to tackle most algorithms in TAOCP.
+Two programs that print output complete our introduction to **MMIX**. This lets us tackle basic algorithms and data structures from Chapters 2 and 5 right away. We'll swing back at some point to cover the few remaining **MMIX** features like subroutines and coroutines as needed.
+
+We first look at the requisite "Hello World" program. It's short and sweet. Then there's a program to compute small primes and print them in a table. It introduces some interesting features of **MMIX** assembly like local symbols and symbolic expressions.
+
+After the break, we'll do some exercises and step through the programs in the free and open source MMIX Visual Debugger (https://mmix.cs.hm.edu/mmixvd)
 
 **Note on MMIX and MIX**
 
@@ -491,68 +514,52 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #6 - Running MMIX Programs (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #5 - MMIX Programming (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 3 October 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
-- *1.3.2' The MMIX Assembly Language* (pp.30-32)
-  - *Program H (Hail the world)* (pp.30-32)
-  - Demo of `mmixal`, the **MMIX** assembler and `mmix`, the **MMIX** simulator
+- *1.3.1' Description of MMIX* (pp.13-24)
 
-**3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.43-51), shoot the breeze<br>
-
-We run our first **MMIX** program!
-
-Thanks to a fantastic volunteer effort and open source, **MMIX** has full-blown development environments. We look at a simple `Hello World` program. And demonstrate how to run it with open source tools.
-
-**Note on MMIX and MIX**
-
-The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
-
-The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
-
-The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
-
-### TAOCP #5 - MMIX Assembly Language (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
-
-**Date:** TBD<br>
-**Time:** TBD
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Google Meet link will be sent to attendees before the meeting.
-
-#### Agenda
-
-**2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
-- *1.3.1' Description of MMIX* (pp.19-24)
+  - *Immediate constants* (pp.13-14)
+  - *Jumps and branches* (pp.15-16)
   - *The complete instruction set* (pp.19-21)
   - *Timing* (pp.21-23)
   - *MMIX versus reality* (p.23)
   - *Summary* (p.24)
-- *1.2.10 Analysis of an algorithm* (p.96 of TAOCP Vol.1, not *Fascicle 1, MMIX*)
-  - *Algorithm M (Find the maximum)* (p.96 of TAOCP Vol.1, not *Fascicle 1, MMIX*)
+  
+- *1.2.10 Analysis of an algorithm* (p.96 of *TAOCP Vol.1*, not *Fascicle 1, MMIX*)
+
+  - *Algorithm M (Find the maximum)* (p.96 of *TAOCP Vol.1*, not *Fascicle 1, MMIX*)
+  
 - *1.3.2' The MMIX Assembly Language* (pp.28-30)
+
   - *Program M (Find the maximum)* (pp.28-30)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.24-28, pp.43-45), shoot the breeze<br>
+**3:10 - 4:00**
+  - Hands-on MMIX Visual Debugger
+  - MMIX Simulator and Assembler
+  - Shoot the breeze<br>
 
-We learn how to program an **MMIX** computer!
+We begin to program the **MMIX** computer!
 
-Today we introduce the assembly language of **MMIX**. We examine the first program - it finds the maximum of some numbers. We'll need to look up its algorithm from TAOCP but everything else is still from *Fascicle 1, MMIX*.
+We begin with instructions that let us directly use constants to set a register to any value. Then we learn instructions to branch and jump. These are the basis of essential programming control constructs like **if-else** conditions and **while** loops. This will allow us to finally study a complete program for an **MMIX** computer.
+
+Programs for **MMIX** are written in assembly language. An assembly language program is made up of a sequence of **MMIX** instructions plus directives for the assembly language processing program called the assembler. The output of the assembler is an object file that can actually run on the **MMIX**.
+
+The first program we'll study finds the maximum of some numbers. Its code is in *Fascicle 1, MMIX* but the algorithm is in *TAOCP Volume 1, Fundamental Algorithms*.
+
+After the break, we'll step through the program in the MMIX Visual Debugger (https://mmix.cs.hm.edu/mmixvd). We'll also learn to use the **MMIX** simulator `mmix` and the **MMIX** assembler `mmixal` (https://mmix.cs.hm.edu/src) to work with **MMIX** programs on the commandline. All these tools are free and open source.
 
 **Note on MMIX and MIX**
 
@@ -562,33 +569,41 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #4 - More MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #4 - Basic MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 26 September 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
-- *1.3.1' Description of MMIX* (pp.10-16)
+- *1.2.4 Integer Functions and Elementary Number Theory* (pp.39-40 of *TAOCP Chapter 1*, not *Fascicle 1, MMIX*)
+- *1.3.1' Description of MMIX* (pp.8-12)
+
+  - *Arithmetic operators* (pp.8-9)
   - *Conditional instructions* (p.10)
   - *Bitwise operations* (pp.10-11)
   - *Bytewise operations* (pp.11-12)
-  - *Immediate constants* (pp.13-14)
-  - *Jumps and branches* (pp.15-16)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.24-28), shoot the breeze<br>
+**3:10 - 4:00**
+  - Hands-on MMIX Visual Debugger
+  - *Exercises* (pp.24-28)
+  - Shoot the breeze<br>
 
 We continue to learn more about **MMIX** - the TAOCP computer!
 
-We cover more of the instruction set architecture of **MMIX**.
+We cover more of the instruction set architecture of **MMIX** from *Fascicle 1, MMIX*. We'll also need to consult *TAOCP, Chapter 1* for a little section on the mathematical basis for the `DIV` instruction.
+
+We'll start with instructions for simple arithmetic. We'll learn how to compare values. We'll see instructions for working with the bits and bytes in registers.
+
+After the break, we'll use the free and open source MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #3 for hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
 
 **Note on MMIX and MIX**
 
@@ -600,31 +615,39 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #3 - Introduction to MMIX (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 19 September 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *Preface* (pp.iii-v)
 - *1.3' MMIX* (p.2)
-- *1.3.1' Description of MMIX* (pp.2-9)
+- *1.3.1' Description of MMIX* (pp.2-8)
+
   - *Bits and bytes* (pp.2-4)
   - *Memory and registers* (pp.4-5)
   - *Instructions* (pp.5-6)
   - *Loading and storing* (pp.6-8)
-  - *Arithmetic operators* (pp.8-9)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.24-28), shoot the breeze<br>
+**3:10 - 4:00** MMIX Visual Debugger, shoot the breeze<br>
 
-We introduce the computer used throughout TAOCP!
+We introduce the MMIX computer used throughout TAOCP!
+
+Algorithms in TAOCP are described in pseudocode and implemented as programs written in assembly language for the MMIX computer. But an MMIX computer has never been manufactured. It can only be used in simulator programs. Outside of TAOCP, there are almost no code examples, guides, tutorials or videos. This can be a dealbreaker for many people used to an abundance of information for other programming languages readily available at popular websites.
+
+The next few TAOCP meetups will cover enough of MMIX to attain a working knowledge sufficient to read and write simple programs. Side by side we will learn to use tools to run and debug our programs. Hopefully by the time we're done, our meetup notes, discussions and videos will lower the barrier to learning and working with MMIX.
+
+In this first meetup on MMIX, we learn how data is represented and stored in MMIX memory. Data is operated upon using instructions from the MMIX instruction set. We'll start with instructions for moving data between memory and registers where data may be manipulated. We'll continue with more instructions in the following meetups.
+
+We'll begin to use some invaluable tools for working with MMIX in the second half of the meetup. We'll see how to use the MMIX Visual Debugger GUI https://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler https://mmix.cs.hm.edu/src are commandline tools that will be demoed in upcoming meetups. All these tools are free and open source and available for Linux, Windows and Mac.
 
 **Note on MMIX and MIX**
 
@@ -636,17 +659,17 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #2 - Algorithms (Chapter 1, Basic Concepts: Section 1.1)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 12 September 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Volume 1, Fundamental Algorithms*: *Chapter 1, Basic Concepts*
+**2:10 - 3:00** Read and discuss couple pages at a time from *Volume 1, Fundamental Algorithms*: *Chapter 1, Basic Concepts*
 
 -  *1.1 Algorithms* (pp.1-9)
 -  Skim *Appendix A*, *B*, and *C* (pp.619-629)
@@ -665,12 +688,12 @@ As its title suggests, TAOCP is about three things - "Art", "Computers" and "Pro
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time of *Volume 1, Fundamental Algorithms*
+**2:10 - 3:00** Read and discuss couple pages at a time of *Volume 1, Fundamental Algorithms*
 
 -  *Preface* (pp.v-xi)
 -  *Procedure for Reading* (pp.xii-xiv)
@@ -696,4 +719,3 @@ A shared Google Doc will be available during and for some time after the meeting
 A separate repo for member solutions to exercises is available at https://github.com/theartofcomputerprogramming/exercises
 
 It is my hope to build a permanent resource of our meeting recordings, notes and exercise solutions to help anyone who'd like to study TAOCP. More immediately it's meant to aid members who miss a meeting to catch up on their own.
-
