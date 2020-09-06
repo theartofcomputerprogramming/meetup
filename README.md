@@ -29,7 +29,7 @@ Past and future meetups in reverse chronological order
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -59,7 +59,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -89,7 +89,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -119,7 +119,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -149,7 +149,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -178,7 +178,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -208,7 +208,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -238,7 +238,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -276,7 +276,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -310,7 +310,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -343,7 +343,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -373,7 +373,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -404,7 +404,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -412,6 +412,7 @@ Google Meet link will be sent to attendees before the meeting.
 **2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.244-251)
+
   - *2.2.2 Sequential Allocation* (pp.244-251)
 
 **3:00 - 3:10** Break<br>
@@ -434,7 +435,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -442,11 +443,14 @@ Google Meet link will be sent to attendees before the meeting.
 **2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - Skim *MMIX Supplement* (pp.7-25)
+
   - *Foreword* (pp.7-8)
   - *Preface* (pp.9-11)
   - *Style Guide* (pp.12-25)
+  
 - *2.1 Introduction* (pp.232-236) (with *MMIX Supplement*, pp.49-51)
 - *2.2 Linear Lists* (pp.238-242)
+
   - *2.2.1 Stacks, Queues, and Deques* (pp.238-242)
 
 **3:00 - 3:10** Break<br>
@@ -473,7 +477,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -481,6 +485,7 @@ Google Meet link will be sent to attendees before the meeting.
 **2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *1.3.2' The MMIX Assembly Language* (pp.32-40)
+
   - *Algorithm P (Print table of 500 primes)* (p.32)
   - *Program P (Print table of 500 primes)* (pp.32-37)
   - *Language summary* (pp.37-40)
@@ -507,7 +512,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -515,6 +520,7 @@ Google Meet link will be sent to attendees before the meeting.
 **2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *1.3.2' The MMIX Assembly Language* (pp.30-32)
+
   - *Program H (Hail the world)* (pp.30-32)
   - Demo of `mmixal`, the **MMIX** assembler and `mmix`, the **MMIX** simulator
 
@@ -540,20 +546,26 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+
 - *1.3.1' Description of MMIX* (pp.19-24)
+
   - *The complete instruction set* (pp.19-21)
   - *Timing* (pp.21-23)
   - *MMIX versus reality* (p.23)
   - *Summary* (p.24)
+  
 - *1.2.10 Analysis of an algorithm* (p.96 of TAOCP Vol.1, not *Fascicle 1, MMIX*)
+
   - *Algorithm M (Find the maximum)* (p.96 of TAOCP Vol.1, not *Fascicle 1, MMIX*)
+  
 - *1.3.2' The MMIX Assembly Language* (pp.28-30)
+
   - *Program M (Find the maximum)* (pp.28-30)
 
 **3:00 - 3:10** Break<br>
@@ -578,7 +590,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -586,6 +598,7 @@ Google Meet link will be sent to attendees before the meeting.
 **2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *1.3.1' Description of MMIX* (pp.10-16)
+
   - *Conditional instructions* (p.10)
   - *Bitwise operations* (pp.10-11)
   - *Bytewise operations* (pp.11-12)
@@ -609,12 +622,12 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #3 - Introduction to MMIX (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 19 September 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -624,6 +637,7 @@ Google Meet link will be sent to attendees before the meeting.
 - *Preface* (pp.iii-v)
 - *1.3' MMIX* (p.2)
 - *1.3.1' Description of MMIX* (pp.2-9)
+
   - *Bits and bytes* (pp.2-4)
   - *Memory and registers* (pp.4-5)
   - *Instructions* (pp.5-6)
@@ -633,7 +647,15 @@ Google Meet link will be sent to attendees before the meeting.
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Exercises* (pp.24-28), shoot the breeze<br>
 
-We introduce the computer used throughout TAOCP!
+We introduce the MMIX computer used throughout TAOCP!
+
+We learn how data is represented and stored in MMIX memory. Data is operated upon using instructions from the MMIX instruction set.
+
+We'll start with instructions for moving data between memory and registers where data may be manipulated.
+
+We'll end with instructions for basic arithmetic on data.
+
+The next few meetups will cover enough of MMIX to attain a working knowledge sufficient to read and write simple programs.
 
 **Note on MMIX and MIX**
 
@@ -645,12 +667,12 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #2 - Algorithms (Chapter 1, Basic Concepts: Section 1.1)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 12 September 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -674,7 +696,7 @@ As its title suggests, TAOCP is about three things - "Art", "Computers" and "Pro
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be sent to attendees before the meeting.
+Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
