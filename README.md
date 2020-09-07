@@ -34,7 +34,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.399-404)
   - *2.3.4.5 Path Length* (pp.399-404)
@@ -64,7 +64,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.348-359)
   - *2.3.3 Other Representations of Trees* (pp.348-359)
@@ -94,7 +94,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.334-346)
   - *2.3.2 Binary Tree Representation of Trees* (pp.334-346)
@@ -124,7 +124,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.308-330)
   - *2.3.1 Traversing Binary Trees* (pp.318-330)
@@ -154,7 +154,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3 Trees* (pp.308-316)
 
@@ -183,7 +183,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.298-305)
   - *2.2.6 Arrays and Orthogonal Lists* (pp.298-305)
@@ -213,7 +213,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.280-296)
   - *2.2.5 Doubly Linked Lists* (pp.280-296)
@@ -243,7 +243,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
   - *5.2.1 Sorting by Insertion* (pp.399-404)
@@ -281,7 +281,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
   - *5.2.1 Sorting by Insertion* (pp.399-404)
@@ -315,7 +315,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
   - *Sorting by counting* (pp.399-404)
@@ -348,7 +348,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.273-278)
   - *2.2.4 Circular Lists* (pp.273-278)
@@ -378,7 +378,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.254-261)
   - *2.2.3 Linked Allocation* (pp.254-261)
@@ -409,7 +409,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.244-251)
 
@@ -440,7 +440,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - Skim *MMIX Supplement* (pp.7-25)
 
@@ -482,7 +482,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *1.3.2' The MMIX Assembly Language* (pp.32-40)
 
@@ -517,7 +517,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *1.3.2' The MMIX Assembly Language* (pp.30-32)
 
@@ -551,7 +551,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *1.3.1' Description of MMIX* (pp.19-24)
 
@@ -595,7 +595,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *1.3.1' Description of MMIX* (pp.10-16)
 
@@ -632,7 +632,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *Preface* (pp.iii-v)
 - *1.3' MMIX* (p.2)
@@ -677,7 +677,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time from *Volume 1, Fundamental Algorithms*: *Chapter 1, Basic Concepts*
+**2:10 - 3:00** Read and discuss couple pages at a time from *Volume 1, Fundamental Algorithms*: *Chapter 1, Basic Concepts*
 
 -  *1.1 Algorithms* (pp.1-9)
 -  Skim *Appendix A*, *B*, and *C* (pp.619-629)
@@ -701,7 +701,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages a time of *Volume 1, Fundamental Algorithms*
+**2:10 - 3:00** Read and discuss couple pages at a time of *Volume 1, Fundamental Algorithms*
 
 -  *Preface* (pp.v-xi)
 -  *Procedure for Reading* (pp.xii-xiv)
