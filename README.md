@@ -645,15 +645,15 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *Arithmetic operators* (pp.8-9)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.24-28), shoot the breeze<br>
+**3:10 - 4:00** *Tools and Exercises* (pp.24-28), shoot the breeze<br>
 
 We introduce the MMIX computer used throughout TAOCP!
 
 We learn how data is represented and stored in MMIX memory. Data is operated upon using instructions from the MMIX instruction set.
 
-We'll start with instructions for moving data between memory and registers where data may be manipulated.
+We'll start with instructions for moving data between memory and registers where data may be manipulated. We'll end with instructions for basic arithmetic on data.
 
-We'll end with instructions for basic arithmetic on data.
+We'll begin to use some invaluable tools for working with MMIX. The MMIX Visual Debugger http://mmix.cs.hm.edu/mmixvd has a GUI for editing and running MMIX assembly language programs. The MMIX simulator and assembler http://mmix.cs.hm.edu/src are commandline tools with binaries for Linux, Windows and Mac.
 
 The next few meetups will cover enough of MMIX to attain a working knowledge sufficient to read and write simple programs.
 
