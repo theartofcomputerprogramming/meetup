@@ -553,8 +553,9 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
-- *1.3.1' Description of MMIX* (pp.19-24)
+- *1.3.1' Description of MMIX* (pp.15-24)
 
+  - *Jumps and branches* (pp.15-16)
   - *The complete instruction set* (pp.19-21)
   - *Timing* (pp.21-23)
   - *MMIX versus reality* (p.23)
@@ -597,8 +598,9 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
-- *1.3.1' Description of MMIX* (pp.10-16)
+- *1.3.1' Description of MMIX* (pp.8-14)
 
+  - *Arithmetic operators* (pp.8-9)
   - *Conditional instructions* (p.10)
   - *Bitwise operations* (pp.10-11)
   - *Bytewise operations* (pp.11-12)
@@ -642,21 +644,19 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *Memory and registers* (pp.4-5)
   - *Instructions* (pp.5-6)
   - *Loading and storing* (pp.6-8)
-  - *Arithmetic operators* (pp.8-9)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Tools and Exercises* (pp.24-28), shoot the breeze<br>
+**3:10 - 4:00** MMIX Visual Debugger, shoot the breeze<br>
 
 We introduce the MMIX computer used throughout TAOCP!
 
 Algorithms in TAOCP are described in pseudocode and implemented as programs written in assembly language for the MMIX computer. But an MMIX computer has never been manufactured. It can only be used in simulator programs. Outside of TAOCP, there are almost no code examples, guides, tutorials or videos. This can be a dealbreaker for many people used to an abundance of information for other programming languages readily available at popular websites.
 
-The next few TAOCP meetups will cover enough of MMIX to attain a working knowledge sufficient to read and write simple programs. Also side by side we will learn to use tools to run and debug our programs. Hopefully by the time we're done, our meetup notes, discussions and videos will lower the barrier to learning and working with MMIX.
+The next few TAOCP meetups will cover enough of MMIX to attain a working knowledge sufficient to read and write simple programs. Side by side we will learn to use tools to run and debug our programs. Hopefully by the time we're done, our meetup notes, discussions and videos will lower the barrier to learning and working with MMIX.
 
-In this first meetup on MMIX, we learn how data is represented and stored in MMIX memory. Data is operated upon using instructions from the MMIX instruction set. We'll start with instructions for moving data between memory and registers where data may be manipulated. We'll end with instructions for basic arithmetic on data.
+In this first meetup on MMIX, we learn how data is represented and stored in MMIX memory. Data is operated upon using instructions from the MMIX instruction set. We'll start with instructions for moving data between memory and registers where data may be manipulated. We'll continue with more instructions in the following meetups.
 
-We'll begin to use some invaluable tools for working with MMIX. The MMIX Visual Debugger http://mmix.cs.hm.edu/mmixvd has a GUI for editing and running MMIX assembly language programs. The MMIX simulator and assembler http://mmix.cs.hm.edu/src are commandline tools with binaries for Linux, Windows and Mac.
-
+We'll begin to use some invaluable tools for working with MMIX. We'll see how to use MMIX Visual Debugger GUI http://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler http://mmix.cs.hm.edu/src are commandline tools with binaries for Linux, Windows and Mac.
 
 **Note on MMIX and MIX**
 
