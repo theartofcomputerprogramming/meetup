@@ -605,7 +605,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *Bitwise operations* (pp.10-11)
   - *Bytewise operations* (pp.11-12)
   - *Immediate constants* (pp.13-14)
-  - *Jumps and branches* (pp.15-16)
 
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Tools and Exercises* (pp.24-28), shoot the breeze<br>
@@ -638,7 +637,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 - *Preface* (pp.iii-v)
 - *1.3' MMIX* (p.2)
-- *1.3.1' Description of MMIX* (pp.2-9)
+- *1.3.1' Description of MMIX* (pp.2-8)
 
   - *Bits and bytes* (pp.2-4)
   - *Memory and registers* (pp.4-5)
@@ -656,7 +655,7 @@ The next few TAOCP meetups will cover enough of MMIX to attain a working knowled
 
 In this first meetup on MMIX, we learn how data is represented and stored in MMIX memory. Data is operated upon using instructions from the MMIX instruction set. We'll start with instructions for moving data between memory and registers where data may be manipulated. We'll continue with more instructions in the following meetups.
 
-We'll begin to use some invaluable tools for working with MMIX. We'll see how to use MMIX Visual Debugger GUI http://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler http://mmix.cs.hm.edu/src are commandline tools with binaries for Linux, Windows and Mac.
+We'll begin to use some invaluable tools for working with MMIX in the second half of the meetup. We'll see how to use MMIX Visual Debugger GUI https://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler https://mmix.cs.hm.edu/src are commandline tools that will be demoed in upcoming meetups. All these tools are available for Linux, Windows and Mac.
 
 **Note on MMIX and MIX**
 
