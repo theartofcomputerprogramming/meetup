@@ -619,7 +619,7 @@ We continue to learn more about **MMIX** - the TAOCP computer!
 
 We cover more of the instruction set architecture of **MMIX**. We'll start with instructions for simple arithmetic. We'll learn how to compare values. We'll see instructions for working with the bits and bytes in registers. We'll see how to directly use constant values to set parts of a register.
 
-After the break, we'll use the MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #2 to get hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
+After the break, we'll use the MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #2 for hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
 
 **Note on MMIX and MIX**
 
