@@ -539,7 +539,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #5 - MMIX Assembly Language (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #5 - MMIX Programming (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 3 October 2020<br>
 **Time:** 2-4pm America/New_York
@@ -590,7 +590,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #4 - More MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #4 - Basic MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 26 September 2020<br>
 **Time:** 2-4pm America/New_York
