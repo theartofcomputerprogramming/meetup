@@ -580,7 +580,7 @@ Programs for **MMIX** are written in assembly language. An assembly language pro
 
 The first program we'll study finds the maximum of some numbers. Its code is in *Fascicle 1, MMIX* but we will also look up the corresponding algorithm in *TAOCP Volume 1, Fundamental Algorithms*.
 
-After the break, we'll step through the program in the MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd. We'll also learn to use the **MMIX** simulator `mmmix` and the **MMIX** assembler `mmixal` https://mmix.cs.hm.edu/src to work with **MMIX** programs on the commandline.
+After the break, we'll step through the program in the MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd. We'll also learn to use the **MMIX** simulator `mmmix` and the **MMIX** assembler `mmixal` https://mmix.cs.hm.edu/src to work with **MMIX** programs on the commandline. All these tools are free and open source.
 
 **Note on MMIX and MIX**
 
@@ -619,7 +619,7 @@ We continue to learn more about **MMIX** - the TAOCP computer!
 
 We cover more of the instruction set architecture of **MMIX**. We'll start with instructions for simple arithmetic. We'll learn how to compare values. We'll see instructions for working with the bits and bytes in registers. We'll see how to directly use constant values to set parts of a register.
 
-After the break, we'll use the MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #2 for hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
+After the break, we'll use the free and open source MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #2 for hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
 
 **Note on MMIX and MIX**
 
@@ -663,7 +663,7 @@ The next few TAOCP meetups will cover enough of MMIX to attain a working knowled
 
 In this first meetup on MMIX, we learn how data is represented and stored in MMIX memory. Data is operated upon using instructions from the MMIX instruction set. We'll start with instructions for moving data between memory and registers where data may be manipulated. We'll continue with more instructions in the following meetups.
 
-We'll begin to use some invaluable tools for working with MMIX in the second half of the meetup. We'll see how to use the MMIX Visual Debugger GUI https://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler https://mmix.cs.hm.edu/src are commandline tools that will be demoed in upcoming meetups. All these tools are available for Linux, Windows and Mac.
+We'll begin to use some invaluable tools for working with MMIX in the second half of the meetup. We'll see how to use the MMIX Visual Debugger GUI https://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler https://mmix.cs.hm.edu/src are commandline tools that will be demoed in upcoming meetups. All these tools are free and open source and available for Linux, Windows and Mac.
 
 **Note on MMIX and MIX**
 
