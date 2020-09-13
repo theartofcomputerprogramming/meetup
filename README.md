@@ -525,7 +525,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - Demo of `mmixal`, the **MMIX** assembler and `mmix`, the **MMIX** simulator
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.43-51), shoot the breeze<br>
+**3:10 - 4:00** *Exercises* (pp.24-28, pp.43-51), shoot the breeze<br>
 
 We run our first **MMIX** program!
 
@@ -541,8 +541,8 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #5 - MMIX Assembly Language (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 3 October 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -561,20 +561,26 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *MMIX versus reality* (p.23)
   - *Summary* (p.24)
   
-- *1.2.10 Analysis of an algorithm* (p.96 of TAOCP Vol.1, not *Fascicle 1, MMIX*)
+- *1.2.10 Analysis of an algorithm* (p.96 of *TAOCP Vol.1*, not *Fascicle 1, MMIX*)
 
-  - *Algorithm M (Find the maximum)* (p.96 of TAOCP Vol.1, not *Fascicle 1, MMIX*)
+  - *Algorithm M (Find the maximum)* (p.96 of *TAOCP Vol.1*, not *Fascicle 1, MMIX*)
   
 - *1.3.2' The MMIX Assembly Language* (pp.28-30)
 
   - *Program M (Find the maximum)* (pp.28-30)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Tools and Exercises* (pp.24-28, pp.43-45), shoot the breeze<br>
+**3:10 - 4:00** MMIX Visual Debugger, MMIX Simulator and Assembler, shoot the breeze<br>
 
-We learn how to program an **MMIX** computer!
+We begin to program the **MMIX** computer!
 
-Today we introduce the assembly language of **MMIX**. We examine the first program - it finds the maximum of some numbers. We'll need to look up its algorithm from TAOCP but everything else is still from *Fascicle 1, MMIX*.
+We'll begin with learning instructions to branch and jump. These are the basis of essential programming control constructs like **if-else** conditions and **while** loops. This will allow us to finally study a complete program for an **MMIX** computer.
+
+Programs for **MMIX** are written in assembly language. An assembly language program is made up of a sequence of **MMIX** instructions plus directives for the assembly language processing program called the assembler. The output of the assembler is an object file that can actually run on the **MMIX**.
+
+The first program we'll study finds the maximum of some numbers. Its code is in *Fascicle 1, MMIX* but we will also look up the corresponding algorithm in *TAOCP Volume 1, Fundamental Algorithms*.
+
+After the break, we'll step through the program in the MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd. We'll also learn to use the **MMIX** simulator `mmmix` and the **MMIX** assembler `mmixal` https://mmix.cs.hm.edu/src to work with **MMIX** programs on the commandline.
 
 **Note on MMIX and MIX**
 
@@ -586,8 +592,8 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #4 - More MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 26 September 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -607,11 +613,13 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *Immediate constants* (pp.13-14)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Tools and Exercises* (pp.24-28), shoot the breeze<br>
+**3:10 - 4:00** MMIX Visual Debugger, *Exercises* (pp.24-28), shoot the breeze<br>
 
 We continue to learn more about **MMIX** - the TAOCP computer!
 
-We cover more of the instruction set architecture of **MMIX**.
+We cover more of the instruction set architecture of **MMIX**. We'll start with instructions for simple arithmetic. We'll learn how to compare values. We'll see instructions for working with the bits and bytes in registers. We'll see how to directly use constant values to set parts of a register.
+
+After the break, we'll use the MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #2 to get hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
 
 **Note on MMIX and MIX**
 
@@ -655,7 +663,7 @@ The next few TAOCP meetups will cover enough of MMIX to attain a working knowled
 
 In this first meetup on MMIX, we learn how data is represented and stored in MMIX memory. Data is operated upon using instructions from the MMIX instruction set. We'll start with instructions for moving data between memory and registers where data may be manipulated. We'll continue with more instructions in the following meetups.
 
-We'll begin to use some invaluable tools for working with MMIX in the second half of the meetup. We'll see how to use MMIX Visual Debugger GUI https://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler https://mmix.cs.hm.edu/src are commandline tools that will be demoed in upcoming meetups. All these tools are available for Linux, Windows and Mac.
+We'll begin to use some invaluable tools for working with MMIX in the second half of the meetup. We'll see how to use the MMIX Visual Debugger GUI https://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler https://mmix.cs.hm.edu/src are commandline tools that will be demoed in upcoming meetups. All these tools are available for Linux, Windows and Mac.
 
 **Note on MMIX and MIX**
 
