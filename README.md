@@ -578,9 +578,9 @@ We'll begin with learning instructions to branch and jump. These are the basis o
 
 Programs for **MMIX** are written in assembly language. An assembly language program is made up of a sequence of **MMIX** instructions plus directives for the assembly language processing program called the assembler. The output of the assembler is an object file that can actually run on the **MMIX**.
 
-The first program we'll study finds the maximum of some numbers. Its code is in *Fascicle 1, MMIX* but we will also look up the corresponding algorithm in *TAOCP Volume 1, Fundamental Algorithms*.
+The first program we'll study finds the maximum of some numbers. Its code is in *Fascicle 1, MMIX* but the algorithm is in *TAOCP Volume 1, Fundamental Algorithms*.
 
-After the break, we'll step through the program in the MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd. We'll also learn to use the **MMIX** simulator `mmmix` and the **MMIX** assembler `mmixal` https://mmix.cs.hm.edu/src to work with **MMIX** programs on the commandline. All these tools are free and open source.
+After the break, we'll step through the program in the MMIX Visual Debugger (https://mmix.cs.hm.edu/mmixvd). We'll also learn to use the **MMIX** simulator `mmix` and the **MMIX** assembler `mmixal` (https://mmix.cs.hm.edu/src) to work with **MMIX** programs on the commandline. All these tools are free and open source.
 
 **Note on MMIX and MIX**
 
@@ -619,7 +619,7 @@ We continue to learn more about **MMIX** - the TAOCP computer!
 
 We cover more of the instruction set architecture of **MMIX**. We'll start with instructions for simple arithmetic. We'll learn how to compare values. We'll see instructions for working with the bits and bytes in registers. We'll see how to directly use constant values to set parts of a register.
 
-After the break, we'll use the free and open source MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #2 for hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
+After the break, we'll use the free and open source MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #3 for hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
 
 **Note on MMIX and MIX**
 
