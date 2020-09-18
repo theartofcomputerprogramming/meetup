@@ -493,13 +493,18 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *Primitive input and output* (pp.40-43)
   
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.24-28, pp.43-51), shoot the breeze<br>
+**3:10 - 4:00**
+  - Hands-on MMIX Visual Debugger
+  - *Exercises* (pp.24-28, pp.43-51)
+  - Shoot the breeze<br>
 
 We wrap up **MMIX**!
 
-One last program completes the introduction to **MMIX**. After this we'll be ready to tackle most algorithms in TAOCP.
+Two programs that print output complete our introduction to **MMIX**. This lets us tackle some early sections in Chapters 2 and 5 right away. We'll swing back to cover the few remaining **MMIX** features like subroutines and coroutines as needed.
 
-Thanks to a fantastic volunteer effort and open source, **MMIX** has full-blown development environments. We look at a simple `Hello World` program. And demonstrate how to run it with open source tools.
+We'll first look at the requisite "Hello World" program. It's short and sweet. Then there's a program to compute some small primes and print them in a table.
+
+After the break, we'll do some exercises and step through the programs in the MMIX Visual Dbeugger (https://mmix.cs.hm.edu/mmixvd)
 
 **Note on MMIX and MIX**
 
@@ -540,7 +545,10 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *Program M (Find the maximum)* (pp.28-30)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** MMIX Visual Debugger, MMIX Simulator and Assembler, shoot the breeze<br>
+**3:10 - 4:00**
+  - Hands-on MMIX Visual Debugger
+  - MMIX Simulator and Assembler
+  - Shoot the breeze<br>
 
 We begin to program the **MMIX** computer!
 
@@ -583,7 +591,10 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *Immediate constants* (pp.13-14)
 
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** MMIX Visual Debugger, *Exercises* (pp.24-28), shoot the breeze<br>
+**3:10 - 4:00**
+  - Hands-on MMIX Visual Debugger
+  - *Exercises* (pp.24-28)
+  - Shoot the breeze<br>
 
 We continue to learn more about **MMIX** - the TAOCP computer!
 
