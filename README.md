@@ -399,8 +399,8 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #8 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 24 October 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -430,8 +430,8 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #7 - Stacks, Queues and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 17 October 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -500,9 +500,9 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 We wrap up **MMIX**!
 
-Two programs that print output complete our introduction to **MMIX**. This lets us tackle some early sections in Chapters 2 and 5 right away. We'll swing back to cover the few remaining **MMIX** features like subroutines and coroutines as needed.
+Two programs that print output complete our introduction to **MMIX**. This lets us tackle basic algorithms and data structures from Chapters 2 and 5 right away. We'll swing back at some point to cover the few remaining **MMIX** features like subroutines and coroutines as needed.
 
-We'll first look at the requisite "Hello World" program. It's short and sweet. Then there's a program to compute some small primes and print them in a table.
+We'll first look at the requisite "Hello World" program. It's short and sweet. Then there's a program to compute some small primes and print them in a table. It introduces some interesting features of **MMIX** assembly like local symbols and symbolic expressions.
 
 After the break, we'll do some exercises and step through the programs in the MMIX Visual Dbeugger (https://mmix.cs.hm.edu/mmixvd)
 
