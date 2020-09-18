@@ -336,7 +336,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #11 - Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
+### TAOCP #10 - Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -366,7 +366,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #10 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
+### TAOCP #9 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -397,7 +397,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
 
-### TAOCP #9 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
+### TAOCP #8 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -428,7 +428,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #8 - Stacks, Queues and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
+### TAOCP #7 - Stacks, Queues and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -470,10 +470,10 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #7 - MMIX Wrap-up (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #6 - MMIX I/O (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
-**Date:** TBD<br>
-**Time:** TBD
+**Date:** Saturday, 10 October 2020<br>
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -484,50 +484,20 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
-- *1.3.2' The MMIX Assembly Language* (pp.32-40)
+- *1.3.2' The MMIX Assembly Language* (pp.30-43)
 
+  - *Program H (Hail the world)* (pp.30-32)
   - *Algorithm P (Print table of 500 primes)* (p.32)
   - *Program P (Print table of 500 primes)* (pp.32-37)
   - *Language summary* (pp.37-40)
-
+  - *Primitive input and output* (pp.40-43)
+  
 **3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.43-51), shoot the breeze<br>
+**3:10 - 4:00** *Exercises* (pp.24-28, pp.43-51), shoot the breeze<br>
 
 We wrap up **MMIX**!
 
 One last program completes the introduction to **MMIX**. After this we'll be ready to tackle most algorithms in TAOCP.
-
-**Note on MMIX and MIX**
-
-The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
-
-The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
-
-The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
-
-### TAOCP #6 - Running MMIX Programs (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
-
-**Date:** TBD<br>
-**Time:** TBD
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Google Meet link will be updated here and sent to attendees before the meeting.
-
-#### Agenda
-
-**2:00 - 2:10** Meet and greet<br>
-**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
-
-- *1.3.2' The MMIX Assembly Language* (pp.30-32)
-
-  - *Program H (Hail the world)* (pp.30-32)
-  - Demo of `mmixal`, the **MMIX** assembler and `mmix`, the **MMIX** simulator
-
-**3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.24-28, pp.43-51), shoot the breeze<br>
-
-We run our first **MMIX** program!
 
 Thanks to a fantastic volunteer effort and open source, **MMIX** has full-blown development environments. We look at a simple `Hello World` program. And demonstrate how to run it with open source tools.
 
