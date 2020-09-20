@@ -346,3 +346,56 @@ Thanks a lot! Very nice presentation.
 
 Zartaj's notes
 
+Expanding on topics that came up in meetup
+
+### MMIX is Big-endian
+
+MMIX is bigendian or MSB or Most Significant Bit memory layout order
+
+Why?
+
+Endianness only makes a difference when storing (writing) or loading (reading) a value that takes up more than 1 byte in memory
+
+Suppose we use a 2-byte hex value 0x1234 which is decimal 4660
+
+This is where Miguel's comment above about appreciating the use of hex in computers makes sense
+
+In hex it's really easy to see the bits and bytes in memory for any value. Something you can't do with the decimal value or even in binary because it's very hard to count so many bits individually and keep them separated in groups of 8
+
+anyway 0x1234 needs 2 bytes 12 34
+
+when MMIX stores 0x1234 at memory address say 0 - it places the bytes as follows:
+
+address 0: 12
+address 1: 34
+
+this means the address of the full value which is address 0 is the address of the high-order or most significant or the big-end byte
+
+similarly when MMIX reads this 2 byte value from address 0 it loads it into a register as 0x1234 meaning it takes the first byte at address 0 to be the high byte and the second byte as the low byte
+
+the alternative is little-endian that I won't explain and people can look up in wikipedia
+
+### What is $0 and $1 at program startup?
+
+So $0 is what we call register 0 and $1 is register 1
+
+When a program starts $0 is set to argc - the number of program arguments on the commandline
+
+and $1 is set to the **address** of argv - the argument vector or the array of argument strings - so $1 is an address of an address
+
+When I ran the `loadstore.mms` program for the debugger demo, I did not set a commandline for the program - it's actually an option in the Run menu
+
+Since the commandline was empty, argc was zero, and argv pointed to an empty array
+
+This is highly abnormal - it happened only because `loadstore.mms` is a very artificially constructed program to try out individual instructions
+
+A normal program would run as a command and its commandline would have at least the program executable name as the first argument
+
+So a normal program would have argc >= 1 and $0 would not be zero. Also argv would not be empty and the address obtained from the address in $1 would have at least one string in memory
+
+### Why did the debugger highlight $2 after the first instruction?
+
+I believe the debugger only highlights fields that change after an instruction runs. The first instruction was `LDB $4,$3,$2`. This only changes $4 but the debugger highlighted $2 as well but not $3. This is because $2 was actually not zero when the program starts. However the simulator sets it to zero before running the first instruction. This is why $2 was highlighted after the instruction ran.
+
+I need to figure out what is in $2 before the program starts and why does the simulator overwrite it to zero before running the first instruction. I think $2 holds the number of parameters to the main program i.e. 2 for argc and argv. This is related to the register stack used for function calls that I don't yet fully understand.
+
