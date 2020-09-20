@@ -366,7 +366,7 @@ anyway 0x1234 needs 2 bytes 12 34
 
 when MMIX stores 0x1234 at memory address say 0 - it places the bytes as follows:
 
-address 0: 12
+address 0: 12\
 address 1: 34
 
 this means the address of the full value which is address 0 is the address of the high-order or most significant or the big-end byte
@@ -395,7 +395,7 @@ So a normal program would have argc >= 1 and $0 would not be zero. Also argv wou
 
 ### Why did the debugger highlight $2 after the first instruction?
 
-I believe the debugger only highlights fields that change after an instruction runs. The first instruction was `LDB $4,$3,$2`. This only changes $4 but the debugger highlighted $2 as well but not $3. This is because $2 was actually not zero when the program starts. However the simulator sets it to zero before running the first instruction. This is why $2 was highlighted after the instruction ran.
+I believe the debugger only highlights fields that change after an instruction runs. The first instruction was `LDB $4,$2,$3`. This only changes $4 but the debugger highlighted $2 as well but not $3. This is because $2 was actually not zero when the program starts. However the simulator sets it to zero before running the first instruction. This is why $2 was highlighted after the instruction ran.
 
 I need to figure out what is in $2 before the program starts and why does the simulator overwrite it to zero before running the first instruction. I think $2 holds the number of parameters to the main program i.e. 2 for argc and argv. This is related to the register stack used for function calls that I don't yet fully understand.
 
