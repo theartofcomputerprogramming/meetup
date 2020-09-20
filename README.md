@@ -502,9 +502,9 @@ We wrap up **MMIX**!
 
 Two programs that print output complete our introduction to **MMIX**. This lets us tackle basic algorithms and data structures from Chapters 2 and 5 right away. We'll swing back at some point to cover the few remaining **MMIX** features like subroutines and coroutines as needed.
 
-We'll first look at the requisite "Hello World" program. It's short and sweet. Then there's a program to compute some small primes and print them in a table. It introduces some interesting features of **MMIX** assembly like local symbols and symbolic expressions.
+We'll first look at the requisite "Hello World" program. It's short and sweet. Then there's a program to compute small primes and print them in a table. It introduces some interesting features of **MMIX** assembly like local symbols and symbolic expressions.
 
-After the break, we'll do some exercises and step through the programs in the MMIX Visual Dbeugger (https://mmix.cs.hm.edu/mmixvd)
+After the break, we'll do some exercises and step through the programs in the MMIX Visual Debugger (https://mmix.cs.hm.edu/mmixvd)
 
 **Note on MMIX and MIX**
 
