@@ -350,7 +350,7 @@ Expanding on topics that came up in meetup
 
 ### MMIX is Big-endian
 
-MMIX is bigendian or MSB or Most Significant Bit memory layout order
+MMIX is bigendian or MSB or Most Significant Byte memory layout order
 
 Why?
 
