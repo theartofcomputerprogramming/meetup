@@ -414,3 +414,4 @@ A register becomes local when it is set by an instruction. Not just that but all
 The demo program `loadstore.mms` uses a new destination register for nearly all instructions. This is why rL kept changing and being highlighted as we stepped through the program.
 
 Local registers are important to understand the register stack used for function/subroutine calls but knowing or using rL does not seem important for applications.
+
