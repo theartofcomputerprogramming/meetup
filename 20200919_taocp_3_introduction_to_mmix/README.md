@@ -381,21 +381,37 @@ So $0 is what we call register 0 and $1 is register 1
 
 When a program starts $0 is set to argc - the number of program arguments on the commandline
 
-and $1 is set to the **address** of argv - the argument vector or the array of argument strings - so $1 is an address of an address
+and $1 is set to the **address** of argv - the argument vector or the array of argument strings - so $1 is an address of an array of addresses
 
 When I ran the `loadstore.mms` program for the debugger demo, I did not set a commandline for the program - it's actually an option in the Run menu
 
 Since the commandline was empty, argc was zero, and argv pointed to an empty array
 
-This is highly abnormal - it happened only because `loadstore.mms` is a very artificially constructed program to try out individual instructions
+This is highly abnormal - it only happened because `loadstore.mms` is an artificially constructed program to try out individual instructions
 
 A normal program would run as a command and its commandline would have at least the program executable name as the first argument
 
-So a normal program would have argc >= 1 and $0 would not be zero. Also argv would not be empty and the address obtained from the address in $1 would have at least one string in memory
+So a normal program would have argc >= 1 and $0 would not be zero. Also argv would not be empty and the address in $1 would be of an array with at least one address - that of the first argument.
 
 ### Why did the debugger highlight $2 after the first instruction?
 
 I believe the debugger only highlights fields that change after an instruction runs. The first instruction was `LDB $4,$2,$3`. This only changes $4 but the debugger highlighted $2 as well but not $3. This is because $2 was actually not zero when the program starts. However the simulator sets it to zero before running the first instruction. This is why $2 was highlighted after the instruction ran.
 
-I need to figure out what is in $2 before the program starts and why does the simulator overwrite it to zero before running the first instruction. I think $2 holds the number of parameters to the main program i.e. 2 for argc and argv. This is related to the register stack used for function calls that I don't yet fully understand.
+The status window for the demo program `loadstore.mms` shows $2 as a local register before Main starts. Its value is 2. So $2 is being used by the simulator before Main starts. I don't know why it is 2 and what the 2 means.
+
+Anyway when Main starts, rL - explained below - is 2. This is because Main starts out with 2 local registers $0 and $1, for argc and argv. And I think this means that all other previously local registers numbered 2 and above are zeroed out when Main starts. This is why $2 got highlighted after the first instruction ran even though the instruction itself did not change it.
+
+All this has to do with the register stack and function calls but because Main is called by the simulator and not our code it is difficult to see what happened before Main runs.
+
+We could look at the simulator code or ask Martin Ruckert about this.
+
+### Why did rL keep changing?
+
+rL is the local threshold register - it has the count of local registers. This is the number of registers designated local for the current function.
+
+A register becomes local when it is set by an instruction. Not just that but all lower-numbered registers become local - and rL changes to show the new count. So in a way the value of rL is the lowest-numbered non-local register. Knuth calls the non-local registers marginal registers, excluding global registers.
+
+The demo program `loadstore.mms` uses a new destination register for nearly all instructions. This is why rL kept changing and being highlighted as we stepped through the program.
+
+Local registers are important to understand the register stack used for function/subroutine calls but knowing or using rL does not seem important for applications.
 
