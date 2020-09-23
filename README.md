@@ -582,6 +582,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
+- *1.2.4 Integer Functions and Elementary Number Theory* (pp.39-40 of *TAOCP Chapter 1*, not *Fascicle 1, MMIX*)
 - *1.3.1' Description of MMIX* (pp.8-14)
 
   - *Arithmetic operators* (pp.8-9)
@@ -598,7 +599,9 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 We continue to learn more about **MMIX** - the TAOCP computer!
 
-We cover more of the instruction set architecture of **MMIX**. We'll start with instructions for simple arithmetic. We'll learn how to compare values. We'll see instructions for working with the bits and bytes in registers. We'll see how to directly use constant values to set parts of a register.
+We cover more of the instruction set architecture of **MMIX** from *Fascicle 1, MMIX*. We'll also need to consult *TAOCP, Chapter 1* for a little section on the mathematical basis for the `DIV` instruction.
+
+We'll start with instructions for simple arithmetic. We'll learn how to compare values. We'll see instructions for working with the bits and bytes in registers. We'll see how to directly use constant values to set a register to any value.
 
 After the break, we'll use the free and open source MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #3 for hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
 
