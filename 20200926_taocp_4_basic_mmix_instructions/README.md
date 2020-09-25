@@ -1,7 +1,8 @@
 # TAOCP #4 - Basic MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 26 September 2020\
-**Time:** 2-4pm America/New_York
+**Time:** 2-4pm America/New_York\
+**Location:** Google Meet online
 
 ## Agenda
 
@@ -32,6 +33,8 @@ After the break, we'll use the free and open source MMIX Visual Debugger https:/
 
 ## Chat Copy
 
+**Zartaj Majeed** 2:00PM\
+What's your favorite bit hack?
 
 **Arthur O'Dwyer** 2:02 PM\
 (x & (x-1)) to remove the low-order set bit :)
@@ -44,7 +47,7 @@ I guess I
 'm wrong about that one. maybe it's just multiply by 2
 
 **Miguel Angel Iglesias** 2:05 PM\
-I came here to _learn_ what shit left means, I read it in the book, but did not get it :(
+I came here to _learn_ what shift left means, I read it in the book, but did not get it :(
 
 **Michael Zalewski** 2:05 PM\
 Swap two bytes using XOR instead of temp variable
@@ -104,7 +107,7 @@ got it!
 
 **Arthur O'Dwyer** 3:09 PM\
 https://pharr.org/matt/blog/2018/04/30/ispc-all.html
-"In general, the Intel hardware architects knew remarkably little about programming (that Forsyth fellow notwithstanding), and I’m sure those that thought that way really believed it. [... They] grew tired of the graphics people trying to tell them how they might improve their vector programming model and that their current one was insufficient for the kinds of programs we wanted to write."
+"In general, the Intel hardware architects knew remarkably little about programming (that Forsyth fellow notwithstanding), and Iâ€™m sure those that thought that way really believed it. [... They] grew tired of the graphics people trying to tell them how they might improve their vector programming model and that their current one was insufficient for the kinds of programs we wanted to write."
 
 **Zartaj T Majeed** 3:16 PM\
 we're back
@@ -120,7 +123,7 @@ because of the embedded inverse
 I notice that "SADD $X, $Y hardcoded-zero-register" is equivalent to "X <- popcount(Y)".
 
 **Arthur O'Dwyer** 3:28 PM\
-In the discussion of matrix operations, Knuth uses "×" but it would have been equally correct to use "&": 0×0=0, 0×1=0, 1×1=1; 0&0=0, 0&1=0, 1&1=1.
+In the discussion of matrix operations, Knuth uses "Ã—" but it would have been equally correct to use "&": 0Ã—0=0, 0Ã—1=0, 1Ã—1=1; 0&0=0, 0&1=0, 1&1=1.
 
 **Arthur O'Dwyer** 3:30 PM\
 Why "dot minus" but no "dot plus" or "dot times"?
