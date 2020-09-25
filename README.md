@@ -16,13 +16,13 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #1](#taocp-1---inaugural-meeting)
+[TAOCP #4](#taocp-4---basic-mmix-instructions)
 
 ## All Meetups
 
 Past and future meetups in reverse chronological order
 
-### TAOCP #21 - Path Length In Trees (Chapter 2, Information Structures: Section 2.3.4.5)
+### TAOCP #20 - Path Length In Trees (Chapter 2, Information Structures: Section 2.3.4.5)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -52,7 +52,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #20 - Other Representations Of Trees (Chapter 2, Information Structures: Section 2.3.3) 
+### TAOCP #19 - Other Representations Of Trees (Chapter 2, Information Structures: Section 2.3.3) 
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -82,7 +82,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #19 - Binary Tree Representation Of Trees (Chapter 2, Information Structures: Section 2.3.2)
+### TAOCP #18 - Binary Tree Representation Of Trees (Chapter 2, Information Structures: Section 2.3.2)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -112,7 +112,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #18 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
+### TAOCP #17 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -142,7 +142,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #17 - Trees (Chapter 2, Information Structures: Section 2.3)
+### TAOCP #16 - Trees (Chapter 2, Information Structures: Section 2.3)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -171,7 +171,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #16 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
+### TAOCP #15 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -201,7 +201,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #15 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
+### TAOCP #14 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -231,7 +231,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #14 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #13 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -269,7 +269,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #13 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #12 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
 
 **Date:** TBD<br>
 **Time:** TBD
@@ -303,7 +303,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #12 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
+### TAOCP #11 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
 
 **Date:** TBD<br>
 **Time:** TBD
