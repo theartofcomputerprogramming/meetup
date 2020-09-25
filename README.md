@@ -532,6 +532,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
   - *Immediate constants* (pp.13-14)
   - *Jumps and branches* (pp.15-16)
+
   - *The complete instruction set* (pp.19-21)
   - *Timing* (pp.21-23)
   - *MMIX versus reality* (p.23)
@@ -719,3 +720,4 @@ A shared Google Doc will be available during and for some time after the meeting
 A separate repo for member solutions to exercises is available at https://github.com/theartofcomputerprogramming/exercises
 
 It is my hope to build a permanent resource of our meeting recordings, notes and exercise solutions to help anyone who'd like to study TAOCP. More immediately it's meant to aid members who miss a meeting to catch up on their own.
+
