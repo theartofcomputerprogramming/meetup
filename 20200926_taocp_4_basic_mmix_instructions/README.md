@@ -1,7 +1,8 @@
 # TAOCP #4 - Basic MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 26 September 2020\
-**Time:** 2-4pm America/New_York
+**Time:** 2-4pm America/New_York\
+**Location:** Google Meet online
 
 ## Agenda
 
@@ -32,6 +33,8 @@ After the break, we'll use the free and open source MMIX Visual Debugger https:/
 
 ## Chat Copy
 
+**Zartaj Majeed** 2:00PM\
+What's your favorite bit hack?\
 
 **Arthur O'Dwyer** 2:02 PM\
 (x & (x-1)) to remove the low-order set bit :)
@@ -44,7 +47,7 @@ I guess I
 'm wrong about that one. maybe it's just multiply by 2
 
 **Miguel Angel Iglesias** 2:05 PM\
-I came here to _learn_ what shit left means, I read it in the book, but did not get it :(
+I came here to _learn_ what shift left means, I read it in the book, but did not get it :(
 
 **Michael Zalewski** 2:05 PM\
 Swap two bytes using XOR instead of temp variable
