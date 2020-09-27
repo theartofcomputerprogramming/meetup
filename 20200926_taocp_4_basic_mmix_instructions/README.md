@@ -34,7 +34,7 @@ After the break, we'll use the free and open source MMIX Visual Debugger https:/
 ## Chat Copy
 
 **Zartaj Majeed** 2:00PM\
-What's your favorite bit hack?\
+What's your favorite bit hack?
 
 **Arthur O'Dwyer** 2:02 PM\
 (x & (x-1)) to remove the low-order set bit :)
