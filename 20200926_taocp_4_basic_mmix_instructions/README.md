@@ -107,7 +107,7 @@ got it!
 
 **Arthur O'Dwyer** 3:09 PM\
 https://pharr.org/matt/blog/2018/04/30/ispc-all.html
-"In general, the Intel hardware architects knew remarkably little about programming (that Forsyth fellow notwithstanding), and I’m sure those that thought that way really believed it. [... They] grew tired of the graphics people trying to tell them how they might improve their vector programming model and that their current one was insufficient for the kinds of programs we wanted to write."
+"In general, the Intel hardware architects knew remarkably little about programming (that Forsyth fellow notwithstanding), and Iâ€™m sure those that thought that way really believed it. [... They] grew tired of the graphics people trying to tell them how they might improve their vector programming model and that their current one was insufficient for the kinds of programs we wanted to write."
 
 **Zartaj T Majeed** 3:16 PM\
 we're back
@@ -123,7 +123,7 @@ because of the embedded inverse
 I notice that "SADD $X, $Y hardcoded-zero-register" is equivalent to "X <- popcount(Y)".
 
 **Arthur O'Dwyer** 3:28 PM\
-In the discussion of matrix operations, Knuth uses "×" but it would have been equally correct to use "&": 0×0=0, 0×1=0, 1×1=1; 0&0=0, 0&1=0, 1&1=1.
+In the discussion of matrix operations, Knuth uses "Ã—" but it would have been equally correct to use "&": 0Ã—0=0, 0Ã—1=0, 1Ã—1=1; 0&0=0, 0&1=0, 1&1=1.
 
 **Arthur O'Dwyer** 3:30 PM\
 Why "dot minus" but no "dot plus" or "dot times"?
