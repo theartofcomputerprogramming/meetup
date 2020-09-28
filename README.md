@@ -601,11 +601,11 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 MMIX exercises galore!
 
-We've covered the bulk of instructions for the **MMIX** computer. We've tried out some examples in the MMIX Visual Debugger. But nothing like working on a lot of problems to truly strengthen our grasp of the material. This event is an opportunity to deepen our understanding of **MMIX**. Equally we want to share our work with the group and help others with any questions.  It's also a chance for anyone who missed a session on **MMIX** to catch up.
+We've covered the bulk of instructions for the **MMIX** computer. We've tried out examples in the MMIX Visual Debugger. But nothing like working on a lot of problems to truly strengthen our grasp of the material. This event is an opportunity to deepen our understanding of **MMIX**. Equally we want to share our work with the group and help others with any questions.  It's also a chance for anyone who missed a session on **MMIX** to catch up.
 
 We're dedicating the full two hours to solving exercises from *Fascicle 1, MMIX*. The format is rather free-form. A restricted Google Doc https://docs.google.com/document/d/1BUjM3CUOlHYBdgC7QOUENwP3IAk07tYx0GiFzO5cleo/edit?usp=sharing with many exercises is now available on request for members to work in and collaborate with the group. We'll work collectively and individually in parallel to attempt as many exercises as possible. And share solutions or partial work with everyone. Afterwards all our work will be posted to the meetup's Github repos for notes and exercises.
 
-It's better to not look at the answers to exercises. Instead members are encouraged to ask questions and enter comments into the shared doc or in the chat panel. Every note that reflects genuine individual thought could be useful to people who come across it in the future.
+It's better not to look at the answers to exercises. Instead members are encouraged to ask questions and enter comments into the shared doc or the chat panel. Every note that reflects genuine individual thought could be useful to people who come across it in the future.
 
 **Note on MMIX and MIX**
 
