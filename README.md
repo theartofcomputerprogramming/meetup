@@ -569,7 +569,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #5 - MMIX Exercises (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+### TAOCP #5 - MMIX Problem Fest (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 3 October 2020\
 **Time:** 2-4pm America/New_York
@@ -581,7 +581,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 #### Agenda
 
 **2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** *Exercises* (pp.24-28) for topics already covered from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+**2:10 - 3:00** Work on *Exercises* (pp.24-28) for topics from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
 
 - *1.3.1' Description of MMIX* (pp.8-12)
 
@@ -597,13 +597,15 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
 - Continue *Exercises* (pp.24-28)
-- Shoot the breeze\
+- Shoot the breeze
 
-MMIX problem fest!
+MMIX exercises galore!
 
-We've covered the bulk of instructions for the **MMIX** computer. We've tried out some examples in the MMIX Visual Debugger. But nothing like working on a lot of problems to truly strengthen our grasp of the material. It's also a great opportunity for anyone who may have missed one or both of the previous sessions on **MMIX** to catch up.
+We've covered the bulk of instructions for the **MMIX** computer. We've tried out some examples in the MMIX Visual Debugger. But nothing like working on a lot of problems to truly strengthen our grasp of the material. This event is an opportunity to deepen our understanding of **MMIX**. Equally we want to share our work with the group and help others with any questions.  It's also a chance for anyone who missed a session on **MMIX** to catch up.
 
-We're dedicating the full two hours to solving exercises from *Fascicle 1, MMIX*. We'll work collectively and individually in parallel to solve or attempt as many exercises as possible. And to share complete or partial solutions with everyone. Afterwards we should have all our work available in the meetup's Github repo for exercise solutions.
+We're dedicating the full two hours to solving exercises from *Fascicle 1, MMIX*. The format is rather free-form. A restricted Google Doc https://docs.google.com/document/d/1BUjM3CUOlHYBdgC7QOUENwP3IAk07tYx0GiFzO5cleo/edit?usp=sharing with many exercises is now available on request for members to work in and collaborate with the group. We'll work collectively and individually in parallel to attempt as many exercises as possible. And share solutions or partial work with everyone. Afterwards all our work will be posted to the meetup's Github repos for notes and exercises.
+
+It's better to not look at the answers to exercises. Instead members are encouraged to ask questions and enter comments into the shared doc or in the chat panel. Every note that reflects genuine individual thought could be useful to people who come across it in the future.
 
 **Note on MMIX and MIX**
 
@@ -639,7 +641,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:10 - 4:00**
 - Hands-on MMIX Visual Debugger
 - *Exercises* (pp.24-28)
-- Shoot the breeze\
+- Shoot the breeze
 
 We continue to learn more about **MMIX** - the TAOCP computer!
 
