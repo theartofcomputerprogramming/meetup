@@ -290,8 +290,8 @@ Google Meet link will be updated here and sent to attendees before the meeting.
     - *Program S (Straight insertion sort)* (pp.399-404)
     - *Binary insertion and two-way insertion* (pp.399-404)
 
-**3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
+**3:00 - 3:10** Break\
+**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze
 
 Sorting!
 
@@ -305,7 +305,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #12 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
 
-**Date:** TBD<br>
+**Date:** TBD\
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
@@ -314,7 +314,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
-**2:00 - 2:10** Meet and greet<br>
+**2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
@@ -323,8 +323,8 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *Program C (Comparison counting)* (pp.399-404)
   - *Algorithm D (Distribution counting)* (pp.399-404)
 
-**3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze<br>
+**3:00 - 3:10** Break\
+**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze
 
 Sorting!
 
@@ -338,7 +338,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #11 - Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
 
-**Date:** TBD<br>
+**Date:** TBD\
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
@@ -347,14 +347,14 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
-**2:00 - 2:10** Meet and greet<br>
+**2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.273-278)
   - *2.2.4 Circular Lists* (pp.273-278)
 
-**3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.278-280), shoot the breeze<br>
+**3:00 - 3:10** Break\
+**3:10 - 4:00** *Exercises* (pp.278-280), shoot the breeze
 
 Linked lists!
 
@@ -368,7 +368,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #10 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
 
-**Date:** TBD<br>
+**Date:** TBD\
 **Time:** TBD
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
@@ -377,14 +377,14 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
-**2:00 - 2:10** Meet and greet<br>
+**2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.254-261)
   - *2.2.3 Linked Allocation* (pp.254-261)
 
-**3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.268-273), shoot the breeze<br>
+**3:00 - 3:10** Break\
+**3:10 - 4:00** *Exercises* (pp.268-273), shoot the breeze
 
 Linked lists!
 
@@ -408,15 +408,15 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
-**2:00 - 2:10** Meet and greet<br>
+**2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.244-251)
 
   - *2.2.2 Sequential Allocation* (pp.244-251)
 
-**3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.251-254), shoot the breeze\
+**3:00 - 3:10** Break\
+**3:10 - 4:00** *Exercises* (pp.251-254), shoot the breeze
 
 Arrays!
 
@@ -439,7 +439,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
-**2:00 - 2:10** Meet and greet<br>
+**2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - Skim *MMIX Supplement* (pp.7-25)
@@ -454,7 +454,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *2.2.1 Stacks, Queues, and Deques* (pp.238-242)
 
 **3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.236-237, pp.242-243), shoot the breeze\
+**3:10 - 4:00** *Exercises* (pp.236-237, pp.242-243), shoot the breeze
 
 Data structures - Yay!
 
@@ -496,7 +496,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:10 - 4:00**
 - Hands-on MMIX Visual Debugger
 - *Exercises* (pp.24-28, pp.43-51)
-- Shoot the breeze\
+- Shoot the breeze
 
 We wrap up **MMIX**!
 
@@ -549,7 +549,7 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:10 - 4:00**
 - Hands-on MMIX Visual Debugger
 - MMIX Simulator and Assembler
-- Shoot the breeze\
+- Shoot the breeze
 
 We begin to program the **MMIX** computer!
 
