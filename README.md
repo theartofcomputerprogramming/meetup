@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #4](#taocp-4---basic-mmix-instructions-fascicle-1-13-mmix-chapter-1-basic-concepts-13-mix)
+[TAOCP #5](#taocp-5---mmix-problem-fest-fascicle-1-13-mmix-chapter-1-basic-concepts-13-mix)
 
 ## All Meetups
 
