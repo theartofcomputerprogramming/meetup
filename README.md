@@ -517,6 +517,8 @@ Then there's a program to compute small primes and print them in a table. It int
 
 After the break, we'll do some exercises.
 
+Exercises are posted at https://github.com/theartofcomputerprogramming/exercises/tree/master/fasc_1_mmix_chap_1_basic_concepts/sec_1.3.2_the_mmix_assembly_language - anyone may contribute solutions or partial work to the repo at any time.
+
 If there's time, we'll see a demo of the commandline **MMIX** simulator `mmix` and **MMIX** assembler `mmixal` tools (https://mmix.cs.hm.edu/src) that are very useful for practicing **MMIX** programming. Both tools are free and open source like the MMIX Visual Debugger seen in previous meetups.
 
 **Note on MMIX and MIX**
@@ -564,6 +566,8 @@ Then we learn instructions to branch and jump. These are the basis of essential 
 We'll go over the costs of the entire **MMIX** instruction set. This lets us estimate the performance of a program and compare the speed of two programs.
 
 After the break, we'll work on exercises on the new instructions and those from previous meetups on **MMIX**.
+
+Exercises are posted at https://github.com/theartofcomputerprogramming/exercises/tree/master/fasc_1_mmix_chap_1_basic_concepts/sec_1.3.1_description_of_mmix - anyone may contribute solutions or partial work to the repo at any time.
 
 **Note on MMIX and MIX**
 
