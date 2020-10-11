@@ -60,7 +60,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 I actually watched last week's video immediately before joining. One thing I feel like is adding friction to people's understanding is how Knuth code-switches between talking about "assembly-language mnemonics" and "machine-code opcodes" and "hex numbers" as if those are all the same thing.
 
 **Arthur O'Dwyer** 2:19 PM\
-Here's a quote from 1.3.1' about the weirdness of mnemonics:\
+Here's a quote from 1.3.1' about the weirdness of mnemonics:
 > Table 1 actually says ‘ADD[I]’, not ‘ADD’, because the symbol ADD really stands for two opcodes. [...]\
 When a distinction is necessary, we say that opcode #20 is ADD and opcode #21 is ADDI (“add immediate”); similarly, #F0 is JMP and #F1 is JMPB ("jump backward"). This gives every opcode a unique name. However, the extra I and B are generally dropped for convenience when we write MMIX programs.
 
@@ -87,11 +87,11 @@ SETMH: sets bytes 5 and 4
 **Arthur O'Dwyer** 2:34 PM\
 Oh, and LDHT/STHT ("load high tetra, store high tetra") use a similar notation. For any given octa, its "H tetra" comprises its "H wyde" and its "MH wyde".
 
-**Arthur O'Dwyer** 2:38 PM\
+**Arthur O'Dwyer** 2:38 PM
 > "We might in fact write ‘JMP #1008’; but then the value of XYZ would depend on the location jumped from."\
 This is another example of Knuth mixing up opcodes and mnemonics in a confusing way. He's saying that the _assembler_ won't always convert the mnemonic "JMP #1008" into the same four-byte machine code. The assembly-language mnemonic "JMP #..." produces a machine code that is dependent on _where that line appears_ in our assembly-language program.
 
-**Arthur O'Dwyer** 2:43 PM\
+**Arthur O'Dwyer** 2:43 PM
 > "The range of destination addresses RA is more limited than it was with JMP, because only two bytes are available..."\
 Knuth doesn't actually say this anywhere, but the implication ("obvious" to his target audience) is that for these branch instructions RA is computed as @+(4 * YZ).
 
