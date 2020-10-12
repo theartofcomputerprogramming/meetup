@@ -491,9 +491,12 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 - *1.3.2' The MMIX Assembly Language* (pp.28-43)
 
   - *Program M (Find the maximum)* (pp.28-30)
+  - Stepthru *Program M* in MMIX Visual Debugger
   - *Program H (Hail the world)* (pp.30-32)
+  - Stepthru *Program H* in MMIX Visual Debugger
   - *Algorithm P (Print table of 500 primes)* (p.32)
   - *Program P (Print table of 500 primes)* (pp.32-37)
+  - Stepthru *Program P* in MMIX Visual Debugger
   - *Language summary* (pp.37-40)
   - *Primitive input and output* (pp.40-43)
   
