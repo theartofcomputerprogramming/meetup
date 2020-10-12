@@ -500,7 +500,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
 - *Exercises* (pp.24-28, pp.43-51)
-- MMIX Simulator and Assembler
 - Shoot the breeze
 
 We begin to program the **MMIX** computer!
@@ -509,17 +508,17 @@ Programs for **MMIX** are written in assembly language. An assembly language pro
 
 The first program we'll study finds the maximum of some numbers. Its code is in *Fascicle 1, MMIX* but the algorithm is in *TAOCP Volume 1, Fundamental Algorithms*.
 
-Two programs that print output will follow, completing our introduction to **MMIX**. This lets us tackle basic algorithms and data structures from Chapters 2 and 5 right away. We'll swing back at some point to cover the few remaining **MMIX** features like subroutines, coroutines and interrupts as needed.
+Two programs that print output follow, completing our introduction to **MMIX**. This lets us tackle basic algorithms and data structures from Chapters 2 and 5 right away. We'll swing back at some point to cover the few remaining **MMIX** features like subroutines, coroutines and interrupts as needed.
 
-The first program with output is the requisite "Hello World" program. It's short and sweet.
+First is the requisite "Hello World" program. It's short and sweet.
 
 Then there's a program to compute small primes and print them in a table. It introduces some interesting features of **MMIX** assembly like local symbols and symbolic expressions.
+
+We'll step through each program in the MMIX Visual Debugger to see it in action.
 
 After the break, we'll do some exercises.
 
 Exercises are posted at https://github.com/theartofcomputerprogramming/exercises/tree/master/fasc_1_mmix_chap_1_basic_concepts/sec_1.3.2_the_mmix_assembly_language - anyone may contribute solutions or partial work to the repo at any time.
-
-If there's time, we'll see a demo of the commandline **MMIX** simulator `mmix` and **MMIX** assembler `mmixal` tools (https://mmix.cs.hm.edu/src) that are very useful for practicing **MMIX** programming. Both tools are free and open source like the MMIX Visual Debugger seen in previous meetups.
 
 **Note on MMIX and MIX**
 
