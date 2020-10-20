@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #7](#taocp-7---mmix-programming-fascicle-1-13-mmix-chapter-1-basic-concepts-13-mix)
+[TAOCP #8](#taocp-8---stacks-queues-and-deques-chapter-2-information-structures-section-21-22)
 
 ## All Meetups
 
@@ -404,8 +404,6 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
-
 #### Agenda
 
 **2:00 - 2:10** Meet and greet\
@@ -416,7 +414,9 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *2.2.2 Sequential Allocation* (pp.244-251)
 
 **3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.251-254), shoot the breeze
+**3:10 - 4:00**
+- *Exercises* (pp.251-254)
+- Shoot the breeze
 
 Arrays!
 
@@ -435,8 +435,6 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
-
 #### Agenda
 
 **2:00 - 2:10** Meet and greet\
@@ -454,13 +452,17 @@ Google Meet link will be updated here and sent to attendees before the meeting.
   - *2.2.1 Stacks, Queues, and Deques* (pp.238-242)
 
 **3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.236-237, pp.242-243), shoot the breeze
+**3:10 - 4:00**
+- *Exercises* (pp.236-237, pp.242-243)
+- Shoot the breeze
 
 Data structures - Yay!
 
-We begin with sequential arrangements of data known as lists or arrays. Three simple and pervasive data structures - stacks, queues and deques - are introduced.
+We begin to look at representing and manipulating tabular arrangements of data in programs. A table that is laid out in a linear manner is known as a list or array. Three simple and pervasive data structures - stacks, queues and deques - are introduced. We'll examine their structural differences and how it affects their application to different problems.
 
-We'll need to start using *The MMIX Supplement*. It will remain a companion to TAOCP Volumes 1-3 in all future meetups. It has **MMIX** variants of code in TAOCP.
+We'll also introduce *The MMIX Supplement*. We'll be using it as a companion text to TAOCP Volumes 1-3 for all future meetups. It has **MMIX** variants of code in TAOCP.
+
+After the break, we'll do some exercises.
 
 **Note on MMIX and MIX**
 
@@ -476,8 +478,6 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 **Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
