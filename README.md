@@ -271,7 +271,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #13 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
 
-**Date:** Saturday, 21 November 2020\
+**Date:** Saturday, 28 November 2020\
 **Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
@@ -309,7 +309,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #12 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
 
-**Date:** Saturday, 14 November 2020\
+**Date:** Saturday, 21 November 2020\
 **Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
