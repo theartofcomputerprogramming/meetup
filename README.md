@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #8](#taocp-8---stacks-queues-and-deques-chapter-2-information-structures-section-21-22)
+[TAOCP #9 (taocp-9---sequential-allocation-chapter-2-information-structures-section-222)
 
 ## All Meetups
 
@@ -271,8 +271,8 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #13 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
 
-**Date:** TBD\
-**Time:** TBD
+**Date:** Saturday, 21 November 2020\
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -284,14 +284,18 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
+
   - *5.2.1 Sorting by Insertion* (pp.399-404)
+  
     - *Straight insertion* (pp.399-404)
     - *Algorithm S (Straight insertion sort)* (pp.399-404)
     - *Program S (Straight insertion sort)* (pp.399-404)
     - *Binary insertion and two-way insertion* (pp.399-404)
 
 **3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze
+**3:10 - 4:00**
+- *Exercises* (pp.404-406)
+- Shoot the breeze
 
 Sorting!
 
@@ -305,12 +309,10 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #12 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
 
-**Date:** TBD\
-**Time:** TBD
+**Date:** Saturday, 14 November 2020\
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -318,13 +320,16 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
+
   - *Sorting by counting* (pp.399-404)
   - *Algorithm C (Comparison counting)* (pp.399-404)
   - *Program C (Comparison counting)* (pp.399-404)
   - *Algorithm D (Distribution counting)* (pp.399-404)
 
 **3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze
+**3:10 - 4:00**
+- *Exercises* (pp.404-406)
+- Shoot the breeze
 
 Sorting!
 
@@ -338,12 +343,10 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #11 - Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
 
-**Date:** TBD\
-**Time:** TBD
+**Date:** Saturday, 14 November 2020\
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
@@ -351,10 +354,13 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.2 Linear Lists* (pp.273-278)
+
   - *2.2.4 Circular Lists* (pp.273-278)
 
 **3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.278-280), shoot the breeze
+**3:10 - 4:00**
+- *Exercises* (pp.278-280)
+- Shoot the breeze
 
 Linked lists!
 
@@ -368,23 +374,25 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #10 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
 
-**Date:** TBD\
-**Time:** TBD
+**Date:** Saturday, 7 November 2020\
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
-- *2.2 Linear Lists* (pp.254-261)
+- *2.2 Linear Lists* (pp.254-268)
+
   - *2.2.3 Linked Allocation* (pp.254-261)
+  - *Topological sort* (pp.261-268)
 
 **3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.268-273), shoot the breeze
+**3:10 - 4:00**
+- *Exercises* (pp.268-273)
+- Shoot the breeze
 
 Linked lists!
 
