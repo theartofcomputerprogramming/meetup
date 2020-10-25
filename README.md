@@ -411,14 +411,20 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 - *2.2 Linear Lists* (pp.244-251)
 
-  - *2.2.2 Sequential Allocation* (pp.244-251)
+  - *2.2.2 Sequential Allocation* (pp.244-245)
+  - *2.2.2 Sequential Allocation* (pp.245-246)
+  - *2.2.2 Sequential Allocation* (pp.247-248)
+  - *Algorithms G, R* (pp.248-250)
+  - *2.2.2 Sequential Allocation* (pp.250-251)
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
 - *Exercises* (pp.251-254)
 - Shoot the breeze
 
-Arrays!
+Memory allocation schemes!
+
+
 
 **Note on MMIX and MIX**
 
