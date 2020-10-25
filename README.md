@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #9 (taocp-9---sequential-allocation-chapter-2-information-structures-section-222)
+[TAOCP #9] (taocp-9---sequential-allocation-chapter-2-information-structures-section-222)
 
 ## All Meetups
 
