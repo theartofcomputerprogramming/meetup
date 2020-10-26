@@ -517,6 +517,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
 - *Exercises* (pp.24-28, pp.43-51)
+- MMIX Simulator and Assembler
 - Shoot the breeze
 
 We begin to program the **MMIX** computer!
