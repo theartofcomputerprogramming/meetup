@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #9](#taocp-9---sequential-allocation-chapter-2-information-structures-section-222)
+[TAOCP #10](#taocp-10---linked-allocation-chapter-2-information-structures-section-223)
 
 ## All Meetups
 
@@ -374,10 +374,18 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #10 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
 
-**Date:** Saturday, 7 November 2020\
-**Time:** 2-4pm America/New_York
+Linked lists!
+
+We look at adding links to nodes in a list to allow more flexible memory allocation schemes. We discuss what would need to be done for insertions and deletions. We discuss tradeoffs between linked allocation and sequential allocation.
+
+Then we use linked lists in an algorithm for topological sorting to create a linear order on a set of items that only has a partial order. We'll work on some exercises as well.
+
+If time permits we'll go over the MMIX code for the topological sort algorithm.
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+**Date:** Saturday, 7 November 2020\
+**Time:** 2-4pm America/New_York
 
 #### Agenda
 
@@ -386,15 +394,18 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 - *2.2 Linear Lists* (pp.254-268)
 
-  - *2.2.3 Linked Allocation* (pp.254-261)
-  - *Topological sort* (pp.261-268)
+  - *2.2.3 Linked Allocation* (pp.254-256), MMIX Supplement (p.18)
+  - *2.2.3 Linked Allocation* (pp.256-258), MMIX Supplement (pp.18-19)
+  - *2.2.3 Linked Allocation* (pp.259-260), MMIX Supplement (p.19)
+  - *Topological sorting* (pp.261-263), MMIX Supplement (p.19)
+  - *Topological sorting* (pp.263-264), MMIX Supplement (p.19)
+  - *Algorithm T (Topological sort)* (pp.265-266), MMIX Supplement (p.20)
+  - *Program T (Topological sort)* (pp.266-268), MMIX Supplement (pp.20-22)
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
-- *Exercises* (pp.268-273)
+- *Exercises* (pp.268-273), MMIX Supplement (pp.22-25)
 - Shoot the breeze
-
-Linked lists!
 
 **Note on MMIX and MIX**
 
@@ -407,10 +418,14 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #9 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
 
-**Date:** Saturday, 31 October 2020\
-**Time:** 2-4pm America/New_York
+Memory allocation schemes!
+
+We've begun to look at lists of records that may grow and shrink. Now we consider how to manage these lists in memory. We'll look at a few algorithms for sequential allocation and work on some exercises
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+**Date:** Saturday, 31 October 2020\
+**Time:** 2-4pm America/New_York
 
 #### Agenda
 
@@ -429,10 +444,6 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 **3:10 - 4:00**
 - *Exercises* (pp.251-254)
 - Shoot the breeze
-
-Memory allocation schemes!
-
-
 
 **Note on MMIX and MIX**
 
