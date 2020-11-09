@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #10](#taocp-10---linked-allocation-chapter-2-information-structures-section-223)
+[TAOCP #11 - Polynomial Arithmetic and Circular Lists](#taocp-11---polynomial-arithmetic-and-circular-lists-chapter-2-information-structures-section-224)
 
 ## All Meetups
 
@@ -341,7 +341,21 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #11 - Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
+### TAOCP #11 - Polynomial Arithmetic and Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
+
+Circular lists!
+
+Linking the last node of a list to the first has advantages that we explore in this meetup. We see how insertion and deletion is affected. And consider how to properly handle an empty circular list.
+
+The problem for this section is of arithmetic on polynomials. We present algorithms for adding and multiplying polynomials in three variables, x, y and z. For example
+
+(x⁴ + 2x³y + 3x²y² + 4xy³ + 5y⁴) * (x² − 2xy + y²) = x⁶ - 6xy⁵ + 5y⁶
+
+We see why circular lists are good data structures to use for this problem.
+
+We'll work on some exercises too.
+
+After the main meetup session, we'll continue to record a walkthrough in the MMIX Visual Debugger of Program A for polynomial addition from The MMIX Supplement. Attendees will be welcome to stay on for as long as they like. This bonus segment will run for as long as it takes to complete the walkthrough including any discussion with attendees who remain present.
 
 **Date:** Saturday, 14 November 2020\
 **Time:** 2-4pm America/New_York
@@ -355,14 +369,20 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 - *2.2 Linear Lists* (pp.273-278)
 
-  - *2.2.4 Circular Lists* (pp.273-278)
+  - *2.2.4 Circular Lists* (pp.273-275)
+  - *Arithmetic on polynomials* (pp.275-276), MMIX Supplement (pp.25-26)
+  - *Algorithm A (Addition of polynomials)* (p.276)
+  - *Algorithm M (Multiplication of polynomials)* (p.277)
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
-- *Exercises* (pp.278-280)
+- *Exercises* (pp.278-280), MMIX Supplement (p.27)
 - Shoot the breeze
 
-Linked lists!
+**Bonus Segment**
+
+- *Program A (Addition of polynomials)* from MMIX Supplement (p.26)
+  - Stepthru in MMIX Visual Debugger
 
 **Note on MMIX and MIX**
 
@@ -372,15 +392,15 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #10 - Linked Allocation (Chapter 2, Information Structures: Section 2.2.3)
+### TAOCP #10 - Topological Sort and Linked Lists (Chapter 2, Information Structures: Section 2.2.3)
 
 Linked lists!
 
-We look at adding links to nodes in a list to allow more flexible memory allocation schemes. We discuss what would need to be done for insertions and deletions. We discuss tradeoffs between linked allocation and sequential allocation.
+We look at adding links to nodes in a list to allow more flexible memory allocation schemes. We discuss what would need to be done for insertions and deletions. We go over tradeoffs between linked allocation and sequential allocation.
 
 Then we use linked lists in an algorithm for topological sorting to create a linear order on a set of items that only has a partial order. We'll work on some exercises as well.
 
-If time permits we'll go over the MMIX code for the topological sort algorithm.
+After the main meetup session, we'll continue to record a demo and walkthrough of Program T for topological sorting in the MMIX Visual Debugger. Attendees will be welcome to stay on if they desire.
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -400,12 +420,16 @@ If time permits we'll go over the MMIX code for the topological sort algorithm.
   - *Topological sorting* (pp.261-263), MMIX Supplement (p.19)
   - *Topological sorting* (pp.263-264), MMIX Supplement (p.19)
   - *Algorithm T (Topological sort)* (pp.265-266), MMIX Supplement (p.20)
-  - *Program T (Topological sort)* (pp.266-268), MMIX Supplement (pp.20-22)
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
 - *Exercises* (pp.268-273), MMIX Supplement (pp.22-25)
 - Shoot the breeze
+
+**Bonus Segment**
+
+- *Program T (Topological sort)* (pp.266-268), MMIX Supplement (pp.20-22)
+  - Stepthru in MMIX Visual Debugger
 
 **Note on MMIX and MIX**
 
