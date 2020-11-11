@@ -231,25 +231,194 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #14 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #18 - Quicksort (Chapter 5, Sorting: Section 5.2.1)
 
-**Date:** TBD\
-**Time:** TBD
+Sorting!
+
+**Date:** Saturday, 5 December 2020\
+**Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Google Meet link will be updated here and sent to attendees before the meeting.
 
 #### Agenda
 
 **2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.2 Internal Sorting* (pp.80-85)
+
+  - *5.2.1 Sorting by Insertion* (pp.80-85)
+  - *Straight insertion* (p.80)
+  - *Algorithm S (Straight insertion sort)* (pp.80-81)
+  - *Binary insertion and two-way insertion* (pp.82-83)
+  - *Shell's method* (pp.83-84)
+  - *Algorithm D (Shellsort)* (pp.84-85)
+    
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.102-105), MMIX Supplement (pp.80-81)
+- Shoot the breeze
+
+**Bonus Segment**
+
+Stepthru in MMIX Visual Debugger
+
+- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
+- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #17 - Merge Exchange Sort (Chapter 5, Sorting: Section 5.2.1)
+
+Sorting!
+
+**Date:** Saturday, 5 December 2020\
+**Time:** 2-4pm America/New_York
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.2 Internal Sorting* (pp.80-85)
+
+  - *5.2.1 Sorting by Insertion* (pp.80-85)
+  - *Straight insertion* (p.80)
+  - *Algorithm S (Straight insertion sort)* (pp.80-81)
+  - *Binary insertion and two-way insertion* (pp.82-83)
+  - *Shell's method* (pp.83-84)
+  - *Algorithm D (Shellsort)* (pp.84-85)
+    
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.102-105), MMIX Supplement (pp.80-81)
+- Shoot the breeze
+
+**Bonus Segment**
+
+Stepthru in MMIX Visual Debugger
+
+- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
+- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #16 - Bubble Sort (Chapter 5, Sorting: Section 5.2.1)
+
+Sorting!
+
+**Date:** Saturday, 5 December 2020\
+**Time:** 2-4pm America/New_York
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.2 Internal Sorting* (pp.80-85)
+
+  - *5.2.1 Sorting by Insertion* (pp.80-85)
+  - *Straight insertion* (p.80)
+  - *Algorithm S (Straight insertion sort)* (pp.80-81)
+  - *Binary insertion and two-way insertion* (pp.82-83)
+  - *Shell's method* (pp.83-84)
+  - *Algorithm D (Shellsort)* (pp.84-85)
+    
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.102-105), MMIX Supplement (pp.80-81)
+- Shoot the breeze
+
+**Bonus Segment**
+
+Stepthru in MMIX Visual Debugger
+
+- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
+- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #15 - Multiple List Insertion (Chapter 5, Sorting: Section 5.2.1)
+
+Sorting!
+
+**Date:** Saturday, 5 December 2020\
+**Time:** 2-4pm America/New_York
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.2 Internal Sorting* (pp.80-85)
+
+  - *5.2.1 Sorting by Insertion* (pp.80-85)
+  - *Straight insertion* (p.80)
+  - *Algorithm S (Straight insertion sort)* (pp.80-81)
+  - *Binary insertion and two-way insertion* (pp.82-83)
+  - *Shell's method* (pp.83-84)
+  - *Algorithm D (Shellsort)* (pp.84-85)
+    
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.102-105), MMIX Supplement (pp.80-81)
+- Shoot the breeze
+
+**Bonus Segment**
+
+Stepthru in MMIX Visual Debugger
+
+- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
+- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #14 - List Insertion (Chapter 5, Sorting: Section 5.2.1)
+
+Sorting!
+
+**Date:** Saturday, 12 December 2020\
+**Time:** 2-4pm America/New_York
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
 - *5.2 Internal Sorting* (pp.399-404)
   - *5.2.1 Sorting by Insertion* (pp.399-404)
-    - *Shell's method* (pp.399-404)
-    - *Algorithm D (Shellsort)* (pp.399-404)
-    - *Program D (Shellsort)* (pp.399-404)
     - *List insertion* (pp.399-404)
     - *Algorithm L (List insertion)* (pp.399-404)
     - *Program L (List insertion)* (pp.399-404)
@@ -259,7 +428,12 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze
 
-Sorting!
+**Bonus Segment**
+
+Stepthru in MMIX Visual Debugger
+
+- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
+- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
 
 **Note on MMIX and MIX**
 
@@ -271,33 +445,38 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #13 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
 
-**Date:** Saturday, 28 November 2020\
+Sorting!
+
+**Date:** Saturday, 5 December 2020\
 **Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
-
 #### Agenda
 
 **2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
-- *5.2 Internal Sorting* (pp.399-404)
+- *5.2 Internal Sorting* (pp.80-85)
 
-  - *5.2.1 Sorting by Insertion* (pp.399-404)
-  
-    - *Straight insertion* (pp.399-404)
-    - *Algorithm S (Straight insertion sort)* (pp.399-404)
-    - *Program S (Straight insertion sort)* (pp.399-404)
-    - *Binary insertion and two-way insertion* (pp.399-404)
-
+  - *5.2.1 Sorting by Insertion* (pp.80-85)
+  - *Straight insertion* (p.80)
+  - *Algorithm S (Straight insertion sort)* (pp.80-81)
+  - *Binary insertion and two-way insertion* (pp.82-83)
+  - *Shell's method* (pp.83-84)
+  - *Algorithm D (Shellsort)* (pp.84-85)
+    
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
-- *Exercises* (pp.404-406)
+- *Exercises* (pp.102-105), MMIX Supplement (pp.80-81)
 - Shoot the breeze
 
-Sorting!
+**Bonus Segment**
+
+Stepthru in MMIX Visual Debugger
+
+- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
+- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
 
 **Note on MMIX and MIX**
 
@@ -307,7 +486,9 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #12 - Internal Sorting (Chapter 5, Sorting: Section 5.2)
+### TAOCP #12 - Sorting (Chapter 5, Sorting: Section 5.2)
+
+Sorting!
 
 **Date:** Saturday, 21 November 2020\
 **Time:** 2-4pm America/New_York
@@ -317,21 +498,25 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 #### Agenda
 
 **2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
-- *5.2 Internal Sorting* (pp.399-404)
+- *5.2 Internal Sorting* (pp.73-79)
 
-  - *Sorting by counting* (pp.399-404)
-  - *Algorithm C (Comparison counting)* (pp.399-404)
-  - *Program C (Comparison counting)* (pp.399-404)
-  - *Algorithm D (Distribution counting)* (pp.399-404)
+  - *5.2 Internal Sorting* (pp.73-75)
+  - *Sorting by counting* (pp.75-76)
+  - *Algorithm C (Comparison counting)* (pp.76-77)
+  - *Algorithm D (Distribution counting)* (pp.78-79)
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
-- *Exercises* (pp.404-406)
+- *Exercises* (pp.79-80), MMIX Supplement (p.75)
 - Shoot the breeze
 
-Sorting!
+**Bonus Segment**
+
+Stepthru in MMIX Visual Debugger
+
+- *Program C (Comparison counting)* from MMIX Supplement (pp.74-75)
 
 **Note on MMIX and MIX**
 
@@ -381,8 +566,9 @@ After the main meetup session, we'll continue to record a walkthrough in the MMI
 
 **Bonus Segment**
 
+Stepthru in MMIX Visual Debugger
+
 - *Program A (Addition of polynomials)* from MMIX Supplement (p.26)
-  - Stepthru in MMIX Visual Debugger
 
 **Note on MMIX and MIX**
 
