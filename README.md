@@ -24,12 +24,17 @@ Past and future meetups in reverse chronological order
 
 ### TAOCP #27 - Path Length In Trees (Chapter 2, Information Structures: Section 2.3.4.5)
 
-**Date:** TBD\
-**Time:** TBD
+Binary Trees!
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** TBD\
+**Time:** TBD
 
 #### Agenda
 
@@ -42,7 +47,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze
 
-Binary Trees!
 
 **Note on MMIX and MIX**
 
@@ -54,12 +58,17 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #26 - Other Representations Of Trees (Chapter 2, Information Structures: Section 2.3.3) 
 
-**Date:** TBD\
-**Time:** TBD
+Binary Trees!
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** TBD\
+**Time:** TBD
 
 #### Agenda
 
@@ -72,8 +81,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break<br>
 **3:10 - 4:00** *Exercises* (pp.359-362), shoot the breeze
 
-Binary Trees!
-
 **Note on MMIX and MIX**
 
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
@@ -84,12 +91,17 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #25 - Binary Tree Representation Of Trees (Chapter 2, Information Structures: Section 2.3.2)
 
-**Date:** TBD\
-**Time:** TBD
+Binary Trees!
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** TBD\
+**Time:** TBD
 
 #### Agenda
 
@@ -102,8 +114,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.346-348), shoot the breeze
 
-Binary Trees!
-
 **Note on MMIX and MIX**
 
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
@@ -114,12 +124,17 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #24 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
 
-**Date:** TBD\
-**Time:** TBD
+Binary Trees!
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** TBD\
+**Time:** TBD
 
 #### Agenda
 
@@ -132,8 +147,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.330-334), shoot the breeze
 
-Binary Trees!
-
 **Note on MMIX and MIX**
 
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
@@ -144,12 +157,17 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #23 - Trees (Chapter 2, Information Structures: Section 2.3)
 
-**Date:** TBD\
-**Time:** TBD
+Trees!
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** TBD\
+**Time:** TBD
 
 #### Agenda
 
@@ -161,8 +179,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.316-318), shoot the breeze
 
-Trees!
-
 **Note on MMIX and MIX**
 
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
@@ -173,12 +189,17 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #22 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
 
-**Date:** TBD<br>
-**Time:** TBD
+Matrices!
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** TBD<br>
+**Time:** TBD
 
 #### Agenda
 
@@ -191,8 +212,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.305-307), shoot the breeze
 
-Matrices!
-
 **Note on MMIX and MIX**
 
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
@@ -203,12 +222,17 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #21 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
 
-**Date:** TBD<br>
-**Time:** TBD
+Linked lists!
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-Google Meet link will be updated here and sent to attendees before the meeting.
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** TBD<br>
+**Time:** TBD
 
 #### Agenda
 
@@ -220,8 +244,6 @@ Google Meet link will be updated here and sent to attendees before the meeting.
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.297-298), shoot the breeze
-
-Linked lists!
 
 **Note on MMIX and MIX**
 
@@ -243,10 +265,15 @@ Our initial focus will be on sorting quantities of data that entirely fit in mem
 
 We look at two methods of sorting by counting in this meetup - comparison counting and distribution counting. An MMIX program for comparison counting will be demoed in the bonus segment.
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 21 November 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -292,10 +319,15 @@ Our initial focus will be on sorting quantities of data that entirely fit in mem
 
 We look at two methods of sorting by counting in this meetup - comparison counting and distribution counting. An MMIX program for comparison counting will be demoed in the bonus segment.
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 21 November 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -333,10 +365,15 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 Sorting!
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 5 December 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -376,10 +413,15 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 Sorting!
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 5 December 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -419,10 +461,15 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 Sorting!
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 5 December 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -462,10 +509,15 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 Sorting!
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 5 December 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -505,10 +557,15 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 Sorting!
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 12 December 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -545,10 +602,15 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 Sorting!
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 5 December 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -596,10 +658,15 @@ Our initial focus will be on sorting quantities of data that entirely fit in mem
 
 We look at two methods of sorting by counting in this meetup - comparison counting and distribution counting. An MMIX program for comparison counting will be demoed in the bonus segment.
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
 **Date:** Saturday, 21 November 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
@@ -649,10 +716,10 @@ We'll work on some exercises too.
 
 After the main meetup session, we'll continue to record a walkthrough in the MMIX Visual Debugger of Program A for polynomial addition from The MMIX Supplement. Attendees will be welcome to stay on for as long as they like. This bonus segment will run for as long as it takes to complete the walkthrough including any discussion with attendees who remain present.
 
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
 **Date:** Saturday, 14 November 2020\
 **Time:** 2-4pm America/New_York
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
 #### Agenda
 
