@@ -598,7 +598,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #13 - Insertion Sort (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #13 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
 
 Sorting!
 
@@ -609,7 +609,7 @@ Keep the conversation going!
 Facebook: https://www.facebook.com/groups/678335496099220<br>
 IRC ##taocp: https://webchat.freenode.net/##taocp
 
-**Date:** Saturday, 5 December 2020\
+**Date:** Saturday, 28 November 2020\
 **Time:** 2-4pm America/New_York
 
 #### Agenda
@@ -617,11 +617,11 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
-- *5.2 Internal Sorting* (pp.80-85)
+- *5.2.1 Sorting by Insertion* (pp.80-85)
 
-  - *5.2.1 Sorting by Insertion* (pp.80-85)
   - *Straight insertion* (p.80)
   - *Algorithm S (Straight insertion sort)* (pp.80-81)
+  - *Program S (Straight insertion sort)*, MMIX Supplement (p.76)
   - *Binary insertion and two-way insertion* (pp.82-83)
   - *Shell's method* (pp.83-84)
   - *Algorithm D (Shellsort)* (pp.84-85)
