@@ -553,7 +553,7 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #14 - List Insertion (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #14 - Exchange Sorting (Chapter 5, Sorting: Section 5.2.1)
 
 Sorting!
 
@@ -587,8 +587,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 Stepthru in MMIX Visual Debugger
 
-- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
-- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
+- *Exercise 5.2.2.12* implements Algorithm M (Merge exchange), MMIX Supplement (p.169)
 
 **Note on MMIX and MIX**
 
@@ -651,7 +650,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 Stepthru in MMIX Visual Debugger
 
-- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
+- *Program D (Shellsort)*, MMIX Supplement (pp.77-78)
 
 **Note on MMIX and MIX**
 
