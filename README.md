@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #12 - Sorting](#taocp-12---sorting-chapter-5-sorting-section-52)
+[TAOCP #13 - Shellsort](#taocp-13---shellsort-chapter-5-sorting-section-521)
 
 ## All Meetups
 
@@ -600,7 +600,21 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 ### TAOCP #13 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
 
-Sorting!
+Sorting by insertion!
+
+We'll begin with a quick introduction to the field of sorting and a mathematical definition of sorting using permutations that we missed covering in the previous meetup.
+
+Then we continue with another simple approach to sorting often used by card players when arranging a hand being dealt to them. It's also a natural choice when items arrive one by one and need to be kept in order. The technique presumes the list is already sorted and the new item can simply be inserted into its correct position. We look at couple algorithms to do this.
+
+First is Algorithm S (Straight insertion sort). It compares the new item successively with each item in the list moving the list till the correct position for the new item is found. We'll go over the MMIX Program S that implements this algorithm.
+
+The main cost in straight insertion sort is from possibly repeated movements of items in a sequential list (array). We discuss some ways to reduce this cost using binary insertion and two-way insertion.
+
+Shellsort is a kind of insertion sort that makes interesting choices for selecting the items of the list to compare. We'll study Algorithm D (Shellsort) and briefly discuss its performance. Knuth provides extensive analysis of Shellsort for interested readers.
+
+We'll work on some exercises.
+
+The bonus segment will have a demo of Program D (Shellsort) from The MMIX Supplement in the MMIX Visual Debugger.
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -616,6 +630,8 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5 Sorting* (pp.1-5)
 
 - *5.2.1 Sorting by Insertion* (pp.80-85)
 
@@ -635,7 +651,6 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 Stepthru in MMIX Visual Debugger
 
-- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
 - *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
 
 **Note on MMIX and MIX**
