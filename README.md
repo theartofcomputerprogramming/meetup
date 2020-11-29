@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #13 - Shellsort](#taocp-13---shellsort-chapter-5-sorting-section-521)
+[TAOCP #14 - Batcher Sort](#taocp-13---batcher-sort-chapter-5-sorting-section-522)
 
 ## All Meetups
 
@@ -553,9 +553,23 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #14 - Exchange Sorting (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #14 - Batcher Sort (Chapter 5, Sorting: Section 5.2.2)
 
-Sorting!
+Bubble sorting!
+
+We've explored two techniques for sorting - counting that counts smaller values to figure out the final position of a key - and insertion that maintains a sorted arrangement by inserting a new key into its correct position.
+
+We look at the category of sorting by exchanging in our third meetup on sorting.
+
+The first algorithm is bubblesort - it makes multiple passes through an array making bigger keys bubble up as high as possible.
+
+We'll discuss deficiencies of Algorithm B (Bubble sort) and how it may be improved.
+
+Then we look at Algorithm M (Merge exchange) due to Batcher that too falls under the approach of sorting by exchanging. It has particular appeal because it may be parallelized making it one of the fastest known general sorting methods.
+
+We'll work on some exercises.
+
+The bonus segment will demo a debugger stepthru of an MMIX program for Algorithm M (Merge exchange) from The MMIX Supplement.
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -564,7 +578,7 @@ Keep the conversation going!
 Facebook: https://www.facebook.com/groups/678335496099220<br>
 IRC ##taocp: https://webchat.freenode.net/##taocp
 
-**Date:** Saturday, 12 December 2020\
+**Date:** Saturday, 5 December 2020\
 **Time:** 2-4pm America/New_York
 
 #### Agenda
@@ -572,16 +586,19 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
-- *5.2 Internal Sorting* (pp.399-404)
-  - *5.2.1 Sorting by Insertion* (pp.399-404)
-    - *List insertion* (pp.399-404)
-    - *Algorithm L (List insertion)* (pp.399-404)
-    - *Program L (List insertion)* (pp.399-404)
-    - *Address calculation sorting* (pp.399-404)
-    - *Program M (Multiple list insertion* (pp.399-404)
+- *5.2.2 Sorting by Exchanging* (pp.105-113)
+  - *The bubble sort* (pp.105-107)
+  - *Algorithm B (Bubble sort)* (p.107)
+  - *Program B (Bubble sort)*, MMIX Supplement (p.81)
+  - *Analysis of the bubble sort* (pp.108-109), MMIX Supplement (p.82)
+  - *Refinements of the bubble sort* (pp.109-110)
+  - *Batcher's parallel method* (pp.110-111)
+  - *Algorithm M (Merge exchange)* (pp.111-113)
 
 **3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze
+**3:10 - 4:00**
+- *Exercises* (pp.134-138), MMIX Supplement (p.86)
+- Shoot the breeze
 
 **Bonus Segment**
 
@@ -630,13 +647,15 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
+- *Preface* (pp.v-vii)
+
 - *5 Sorting* (pp.1-5)
 
 - *5.2.1 Sorting by Insertion* (pp.80-85)
 
   - *Straight insertion* (p.80)
   - *Algorithm S (Straight insertion sort)* (pp.80-81)
-  - *Program S (Straight insertion sort)*, MMIX Supplement (p.76)
+  - *Program S (Straight insertion sort)*, MMIX Supplement (p.xi, p.76)
   - *Binary insertion and two-way insertion* (pp.82-83)
   - *Shell's method* (pp.83-84)
   - *Algorithm D (Shellsort)* (pp.84-85)
@@ -650,6 +669,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 Stepthru in MMIX Visual Debugger
 
+- *Program S (Straight insertion sort)*, MMIX Supplement (p.76)
 - *Program D (Shellsort)*, MMIX Supplement (pp.77-78)
 
 **Note on MMIX and MIX**
