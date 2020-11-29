@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #14 - Batcher Sort](#taocp-13---batcher-sort-chapter-5-sorting-section-522)
+[TAOCP #14 - Batcher Sort](#taocp-14---batcher-sort-chapter-5-sorting-section-522)
 
 ## All Meetups
 
