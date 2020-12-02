@@ -478,11 +478,11 @@ Sorting with links!
 
 We continue to look at the technique of sorting by insertion - by making a change to the data structure.
 
-We'll begin with a bit of theory about sorting. We'll discuss permutations and inversions because their combinatorial properties are useful for analyzing sorting algorithms
+We begin with a bit of theory about sorting. We discuss permutations and inversions because their combinatorial properties are useful for analyzing sorting algorithms
 
 We finish off section 5.2.1 Sorting by Insertion with couple algorithms that make use of an extra link field to impose a sort order on records.
 
-First is Algorithm L (List insertion) that is very similar to Algorithm S (Straight insertion sort) covered in TAOCP #13. We'll discuss its relative merits and how it may be enhanced.
+First is Algorithm L (List insertion) that is very similar to Algorithm S (Straight insertion sort) covered in TAOCP #13. We discuss its relative merits and how it may be enhanced.
 
 Finally we look at an enhancement that sorts keys into multiple lists corresponding to ranges of keys
 
@@ -505,15 +505,18 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
-- *5.2 Internal Sorting* (pp.80-85)
+- *5.1 Combinatorial Properties of Permutations* (pp.11-17)
+  - *5.1.1 Inversions* (pp.11-17)
 
-  - *5.2.1 Sorting by Insertion* (pp.80-85)
-  - *Straight insertion* (p.80)
-  - *Algorithm S (Straight insertion sort)* (pp.80-81)
-  - *Binary insertion and two-way insertion* (pp.82-83)
-  - *Shell's method* (pp.83-84)
-  - *Algorithm D (Shellsort)* (pp.84-85)
-    
+- *5.2.1 Sorting by Insertion* (pp.95-102)
+  - *List insertion* (pp.95-96)
+  - *Algorithm L (List insertion)* (pp.96-97)
+  - *Program L (List insertion)*, MMIX Supplement (pp.78-79)
+  - Enhancements to insertion sort (pp.97-98)
+  - *Address calculation sorting* (p.99)
+  - *Program M (Multiple list insertion)*, MMIX Supplement (pp.79-80)
+  - Analysis of Program M (Multiple list insertion) (pp.100-102)
+  
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
 - *Exercises* (pp.102-105), MMIX Supplement (pp.80-81)
@@ -523,8 +526,8 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 Stepthru in MMIX Visual Debugger
 
-- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
-- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
+- *Program L (List insertion)*, MMIX Supplement (pp.78-79)
+- *Program M (Multiple list insertion)*, MMIX Supplement (pp.79-80)
 
 **Note on MMIX and MIX**
 
