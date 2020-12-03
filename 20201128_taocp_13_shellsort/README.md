@@ -77,7 +77,7 @@ reading till 2:21
 reading till 2:43
 
 **Arthur O'Dwyer** 2:37 PM\
-I just googled up this manual on the LARC Scientific Compiler, since I didn't really understand that anecdote as well as I'd like to. http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2226-LARC-scientific-compiler.pdf\
+I just googled up this manual on the LARC Scientific Compiler, since I didn't really understand that anecdote as well as I'd like to. http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2226-LARC-scientific-compiler.pdf<br>
 I confirm that the note on the first page is written in Knuth's handwriting. :)
 
 **Arthur O'Dwyer** 2:40 PM\
