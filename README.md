@@ -415,7 +415,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 Bubble sorting!
 
-We've explored two techniques for sorting - counting that counts smaller values to figure out the final position of a key - and insertion that maintains a sorted arrangement by inserting a new key into its correct position.
+We've explored two techniques for sorting - counting smaller values to figure out the final position of a key - and insertion of a new key in its correct position in an already sorted sequence.
 
 We look at the category of sorting by exchanging in our fourth meetup on sorting.
 
@@ -423,7 +423,7 @@ The first algorithm is bubblesort - it makes multiple passes through an array ma
 
 We'll discuss deficiencies of Algorithm B (Bubble sort) and how it may be improved.
 
-Then we look at Algorithm M (Merge exchange) due to Batcher that too falls under the approach of sorting by exchanging. It has particular appeal because it may be parallelized making it one of the fastest known general sorting methods.
+Then we look at Algorithm M (Merge exchange) due to Batcher that too falls under the approach of sorting by exchanging. It has particular appeal because it may be parallelized making it one of the fastest known general sorting methods. Also its method of comparisons make it an example of data-oblivious algorithms as well as constant-time algorithms that are of interest to cryptography. Constant-time algorithms take the same amount of time for a given input size independent of the actual data values.
 
 We'll work on some exercises.
 
