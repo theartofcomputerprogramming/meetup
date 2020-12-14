@@ -16,9 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #14 - Link Order](#taocp-14---link-order-chapter-5-sorting-section-521)
-
-[TAOCP #15 - Batcher Sort](#taocp-15---batcher-sort-chapter-5-sorting-section-522)
+[TAOCP #16 - Quicksort](#taocp-16---quicksort-chapter-5-sorting-section-522)
 
 ## All Meetups
 
@@ -363,9 +361,21 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #16 - Quicksort (Chapter 5, Sorting: Section 5.2.1)
+### TAOCP #16 - Quicksort (Chapter 5, Sorting: Section 5.2.2)
 
-Sorting!
+Quicksort!
+
+We close out the section on Sorting by Exchanging with two fast algorithms.
+
+First we look at the famous quicksort algorithm invented by Tony Hoare. Quicksort works by partitioning the array around a pivot key. Keys smaller than the pivot are placed in one partition and larger keys in the other. This process is repeated with smaller and smaller partitions resulting in a completely sorted array.
+
+Quicksort naturally lends itself to a recursive formulation. And we'll see this in the MMIX implementation of Program Q (Quicksort).
+
+The second algorithm is Algorithm R (Radix exchange sort). It is similar to quicksort in separating keys into two groups. But the criteria is different. Keys are separated into two groups based on the most significant bit in the binary representation of a key. The process is repeated with the next most significant bit and so on. The MMIX code for Program R (Radix exchange sort) is also recursive.
+
+We'll work on some exercises.
+
+The bonus segment will demo a debugger stepthru of Program Q (Quicksort) from The MMIX Supplement.
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
@@ -382,26 +392,26 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
-- *5.2 Internal Sorting* (pp.80-85)
-
-  - *5.2.1 Sorting by Insertion* (pp.80-85)
-  - *Straight insertion* (p.80)
-  - *Algorithm S (Straight insertion sort)* (pp.80-81)
-  - *Binary insertion and two-way insertion* (pp.82-83)
-  - *Shell's method* (pp.83-84)
-  - *Algorithm D (Shellsort)* (pp.84-85)
+- *5.2.2 Sorting by Exchanging* (pp.113-128)
+  - *Quicksort* (pp.113-115)
+  - *Algorithm Q (Quicksort)* (pp.115-117)
+  - *Program Q (Quicksort)*, MMIX Supplement (pp.82-84)
+  - *Analysis of quicksort* (pp.118-122), MMIX Supplement (pp.84-85)
+  - *Radix exchange* (pp.122-123)
+  - *Algorithm R (Radix exchange sort)* (pp.123-125)
+  - *Program R (Radix exchange sort)*, MMIX Supplement (pp.85-86)
+  - Analysis of radix exchange sort (pp.126-128), MMIX Supplement (p.86)
     
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
-- *Exercises* (pp.102-105), MMIX Supplement (pp.80-81)
+- *Exercises* (pp.134-138), MMIX Supplement (p.86)
 - Shoot the breeze
 
 **Bonus Segment**
 
 Stepthru in MMIX Visual Debugger
 
-- *Program S (Straight insertion sort)* from MMIX Supplement (p.76)
-- *Program D (Shellsort)* from MMIX Supplement (pp.77-78)
+- *Program Q (Quicksort)*, MMIX Supplement (pp.82-84)
 
 **Note on MMIX and MIX**
 
