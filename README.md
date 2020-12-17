@@ -16,7 +16,8 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #16 - Quicksort](#taocp-16---quicksort-chapter-5-sorting-section-522)
+[TAOCP #16 - Quicksort](#taocp-16---quicksort-chapter-5-sorting-section-522)\
+Saturday, 19 December 2020, 2-4pm America/New_York
 
 ## Scheduled and Past Meetups
 
