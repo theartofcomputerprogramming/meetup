@@ -25,7 +25,17 @@ All scheduled meetups in reverse chronological order
 
 ### TAOCP #17 - Mergesort (Chapter 5, Sorting: Sections 5.2.3, 5.2.4)
 
-Mergesort!
+New Year! New sorting methods!
+
+We've studied algorithms that use the techniques of sorting by insertion and sorting by exchanging. We now look at two other approaches.
+
+Sorting by selection involves repeatedly selecting and separating the smallest key. We'll introduce the technique with Algorithm S (Straight selection sort) and discuss its refinements. Section 5.2.3 has other algorithms that we'll skip for now and return to after we have studied tree data structures in Volume 1.
+
+The next section 5.2.4 presents sorting by merging. We'll go over couple mergesort algorithms in this meetup and cover the rest in the next meetup. Mergesort is particularly useful for external sorting when it is infeasible to sort large amounts of data all in memory. It is the technique used by the GNU sort program.
+
+We'll do some exercises.
+
+The bonus segment will include a debugger stepthru of Program S (Straight selection sort) from The MMIX Supplement.
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
