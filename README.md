@@ -67,7 +67,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
-- *Exercises* (pp.177-179), MMIX Supplement (p.94)
+- *Exercises* (pp.166-168, 177-179), MMIX Supplement (pp.92, 94)
 - Shoot the breeze
 
 **Bonus Segment**
