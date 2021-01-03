@@ -16,12 +16,71 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #17 - Mergesort](#taocp-17---mergesort-chapter-5-sorting-sections-523-524)\
-Saturday, 2 January 2021, 2-4pm America/New_York
+[TAOCP #18 - Radix Sort](#taocp-18---radix-sort-chapter-5-sorting-section-525)\
+Saturday, 9 January 2021, 2-4pm America/New_York
 
 ## Scheduled and Past Meetups
 
 All scheduled meetups in reverse chronological order
+
+### TAOCP #18 - Radix Sort (Chapter 5, Sorting: Section 5.2.5)
+
+Sorting is sorted out! (for now...)
+
+We'll take a break from sorting after this meetup. We wrap up sorting by merging by questioning the need for twice the amount of memory as required for the array of keys. This motivates a variant of mergesort using link fields called Algorithm L (List merge sort). There is an interesting use of links serving dual purposes that is somewhat specific to the old MIX machine. As such we also need to look at the MMIX version of Algorithm L (List merge sort) in The MMIX Supplement. It, on the other hand, relies on the MMIX feature of an address being implicitly aligned to the word type of the instruction, e.g. `LDTU` ignores the low 2 bits of the address when loading a tetrabyte (4 bytes).
+
+The final section is on sorting by distribution. This technique expands on the basic sorting by counting method we covered in section 5.2. There is quite a bit of discussion of this approach and its applicability to various types of data. We go over Algorithm R (Radix list sort), its MMIX implementation and analysis.
+
+This meetup marks the end of our first pass through Volume 3 of TAOCP. The next few meetups will be on data structures from Volume 1. There is a lot to still learn about lists, arrays and trees from TAOCP. It will all stand us in good stead when we return to Volume 3 for more sorting (and searching) ...
+
+We'll do some exercises.
+
+The bonus segment will include a debugger stepthru of Program L (List merge sort) from The MMIX Supplement.
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 9 January 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.2.4 Sorting by Merging* (pp.163-166)
+  - List merge sort (pp.163-164)
+  - *Algorithm L (List merge sort)* (pp.164-165), MMIX Supplement (pp.89-90)
+  - *Program L (List merge sort)*, MMIX Supplement (pp.90-92)
+  - Analysis of Program L, MMIX Supplement (p.92)
+  
+- *5.2.5 Sorting by Distribution* (pp.168-177)
+  - Sorting by Distribution (pp.168-171)
+  - *Algorithm R (Radix list sort)* (pp.171-172)
+  - *Algorithm H (Hooking-up of queues)* (pp.172-173)
+  - *Program R (Radix list sort)*, MMIX Supplement (pp.93-94)
+  - Analysis of Algorithm R (pp.174-177), MMIX Supplement (pp.93-94)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.177-179), MMIX Supplement (p.94)
+- Shoot the breeze
+
+**Bonus Segment**
+
+Stepthru in MMIX Visual Debugger
+
+- *Program L (List merge sort)*, MMIX Supplement (pp.90-92)
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
 
 ### TAOCP #17 - Mergesort (Chapter 5, Sorting: Sections 5.2.3, 5.2.4)
 
@@ -878,58 +937,6 @@ It is my hope to build a permanent resource of our meeting recordings, notes and
 ## Future Meetups (Tentative)
 
 A very rough plan for future meetups. This is constantly changing. Descriptions and agenda are just placeholders for now.
-
-### TAOCP #18 - Radix Sort (Chapter 5, Sorting: Section 5.2)
-
-TAOCP Volume 3!
-
-We dip our toes in Volume 3 with an introduction to sorting. We consider broad categories of approaches to solving the problem of sorting items. TAOCP covers many sorting techniques in great depth. Fortunately some of the initial algorithms don't need data structures any more complex than an array or singly linked list.
-
-We should be able to spend about a dozen meetups on these first sorting algorithms. Afterwards we'll return to data structures in Volume 1 to learn more on lists and trees.
-
-Our initial focus will be on sorting quantities of data that entirely fit in memory. This is what TAOCP calls internal sorting.
-
-We look at two methods of sorting by counting in this meetup - comparison counting and distribution counting. An MMIX program for comparison counting will be demoed in the bonus segment.
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-#### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
-
-- *5.2 Internal Sorting* (pp.73-79)
-
-  - *5.2 Internal Sorting* (pp.73-75)
-  - *Sorting by counting* (pp.75-76)
-  - *Algorithm C (Comparison counting)* (p.76)
-  - *Program C (Comparison counting)* (pp.76-78), MMIX Supplement (pp.74-75)
-  - *Algorithm D (Distribution counting)* (pp.78-79)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00**
-- *Exercises* (pp.79-80), MMIX Supplement (p.75)
-- Shoot the breeze
-
-**Bonus Segment**
-
-Stepthru in MMIX Visual Debugger
-
-- *Program C (Comparison counting)*, MMIX Supplement (pp.74-75)
-
-**Note on MMIX and MIX**
-
-The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
-
-The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
 
 ### TAOCP #19 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
 
