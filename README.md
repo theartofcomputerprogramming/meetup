@@ -16,12 +16,70 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #18 - Radix Sort](#taocp-18---radix-sort-chapter-5-sorting-section-525)\
-Saturday, 9 January 2021, 2-4pm America/New_York
+[TAOCP #19 - Trees](#taocp-19---trees-chapter-2-information-structures-section-23)\
+Saturday, 16 January 2021, 2-4pm America/New_York
 
 ## Scheduled and Past Meetups
 
 All scheduled meetups in reverse chronological order
+
+### TAOCP #19 - Trees (Chapter 2, Information Structures: Section 2.3)
+
+Return to the forest!
+
+We're back in Volume 1 of TAOCP, Fundamental Algorithms. We'll try to cover most of what remains on data structures in Volume 1 before continuing with sorting and searching in Volume 3
+
+We begin with section 2.3 Trees that introduces the concept of trees. There's much terminology and examples of different kinds of trees.
+
+The next section 2.3.1 Traversing Binary Trees looks at the highly important category of binary trees. We consider the different ways to visit the nodes of a binary tree - inorder, preorder and postorder. We'll go over Algorithm T for inorder traversal of a binary tree. Then we look at Algorithm S that improves on Algorithm T by adding special links called threads to a basic binary tree turning it into a threaded binary tree.
+
+Knuth has published extensively on trees - and still does. Here's a preprint from just last year https://www-cs-faculty.stanford.edu/~knuth/papers/fibonacci-matchings.pdf - Trees have been a favorite topic for his annual Christmas Lectures.
+
+By the way, his most recent preprint was on New Year's Day just a few days ago! https://www-cs-faculty.stanford.edu/~knuth/papers/amazing.pdf
+
+I'm very excited to follow his development of the foundations of this fundamental data structure.
+
+We'll do some exercises.
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 16 January 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3 Trees* (pp.308-316)
+  - Trees and forests (pp.308-311)
+  - Binary trees and Lists (pp.312-316)
+
+- *2.3.1 Traversing Binary Trees* (pp.318-326)
+  - Preorder, inorder and postorder traversal (pp.318-320)
+  - *Algorithm T (Traverse binary tree in inorder)* (pp.320-321)
+  - Threaded tree representation (pp.322-323)
+  - *Algorithm S (Symmetric (inorder) successor in a threaded binary tree)* (pp.323-324), MMIX Supplement (p.37)
+  - *Program T (Traverse binary tree in inorder)* (pp.320-321), MMIX Supplement (pp.37-38)
+  - *Program S (Symmetric (inorder) successor in a threaded binary tree)* (pp.323-324), MMIX Supplement (p.38)
+  - Analysis of Programs T and S (p.326)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.316-318, 330-334), MMIX Supplement (p.39)
+- Shoot the breeze
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
 
 ### TAOCP #18 - Radix Sort (Chapter 5, Sorting: Section 5.2.5)
 
@@ -997,38 +1055,6 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.305-307), shoot the breeze
-
-**Note on MMIX and MIX**
-
-The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
-
-The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
-
-The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
-
-### TAOCP #21 - Trees (Chapter 2, Information Structures: Section 2.3)
-
-Trees!
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-#### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
-
-- *2.3 Trees* (pp.308-316)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.316-318), shoot the breeze
 
 **Note on MMIX and MIX**
 
