@@ -70,8 +70,6 @@ OL 1: output list 1
 OL 2: output list 2
 s|A: active output list, | marks current node at s
 t|I: inactive output list, | marks current node at t
-I: inactive output list
-|: current node in output list
 
 ------------------------------------------------------------
 
