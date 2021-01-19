@@ -27,7 +27,7 @@ All scheduled meetups in reverse chronological order
 
 Binary trees and proof by induction!
 
-We wrap up the introduction to binary trees and threaded trees with two algorithms. Algorithm I (Insertion into a threaded binary tree) shows how to construct a threaded tree. Algorithm C (Copy a binary tree) may be used to copy binary trees that are threaded, unthreaded or have threads only on one side.
+We wrap up the introduction to binary trees and threaded trees with two algorithms. Algorithm I (Insertion into a threaded binary tree) shows how to construct a threaded tree. Algorithm C (Copy a binary tree) may be used to copy binary trees that are threaded or unthreaded, or have threads only on one side.
 
 Section 2.3.1 has a number of exercises that flesh out many aspects of the material. We'll attempt a few.
 
