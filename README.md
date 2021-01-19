@@ -16,12 +16,59 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #19 - Trees](#taocp-19---trees-chapter-2-information-structures-section-23)\
-Saturday, 16 January 2021, 2-4pm America/New_York
+[TAOCP #20 - Binary Trees](#taocp-20---binary-trees-chapter-2-information-structures-section-231)\
+Saturday, 23 January 2021, 2-4pm America/New_York
 
 ## Scheduled and Past Meetups
 
 All scheduled meetups in reverse chronological order
+
+### TAOCP #20 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
+
+Binary trees and proof by induction!
+
+We wrap up the introduction to binary trees and threaded trees with two algorithms. Algorithm I (Insertion into a threaded binary tree) shows how to construct a threaded tree. Algorithm C (Copy a binary tree) may be used to copy binary trees that are threaded, unthreaded or have threads only on one side.
+
+Section 2.3.1 has a number of exercises that flesh out many aspects of the material. We'll attempt a few.
+
+But first we'll go over section 1.2.1 Mathematical Induction that is part of section 1.2 Mathematical Preliminaries. We've already seen the use of induction in a proof of Algorithm T (Traverse binary tree in inorder). And it's bound to be used often to prove properties of recursive data structures like trees and of algorithms on them. Knuth's presentation of induction is quite interesting and different from that typically given in purely mathematical texts.
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 23 January 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 1, Basic Concepts* and *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *1.2.1 Mathematical Induction* (pp.11-18)
+  - Algorithmic proof procedure (pp.11-13)
+  - *Algorithm I (Construct a proof)* (pp.11-12)
+  - *Algorithm E (Extended Euclid’s algorithm)* (pp.13-16)
+  - Inductive assertions (pp.16-18)
+
+- *2.3.1 Traversing Binary Trees* (pp.327-330)
+  - *Algorithm I (Insertion into a threaded binary tree)* (p.327)
+  - Similar trees and equivalent trees (pp.327-329)
+  - *Algorithm C (Copy a binary tree)* (pp.329-330)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.18-21, 330-334), MMIX Supplement (p.39)
+- Shoot the breeze
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
 
 ### TAOCP #19 - Trees (Chapter 2, Information Structures: Section 2.3)
 
@@ -79,7 +126,6 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
 
 The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
-
 
 ### TAOCP #18 - Radix Sort (Chapter 5, Sorting: Section 5.2.5)
 
@@ -1055,39 +1101,6 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.305-307), shoot the breeze
-
-**Note on MMIX and MIX**
-
-The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
-
-The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
-
-The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
-
-### TAOCP #22 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
-
-Binary Trees!
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-#### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
-
-- *2.3 Trees* (pp.308-330)
-  - *2.3.1 Traversing Binary Trees* (pp.318-330)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.330-334), shoot the breeze
 
 **Note on MMIX and MIX**
 
