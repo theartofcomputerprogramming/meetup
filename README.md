@@ -16,7 +16,7 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #21 - Derivatives](#taocp-20---derivatives-chapter-2-information-structures-section-232)\
+[TAOCP #21 - Derivatives](#taocp-21---derivatives-chapter-2-information-structures-section-232)\
 Saturday, 30 January 2021, 2-4pm America/New_York
 
 ## Scheduled and Past Meetups
