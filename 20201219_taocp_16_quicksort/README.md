@@ -25,7 +25,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Time:** 2-4pm America/New_York\
 **Location:** Google Meet online
 
-#### Agenda
+## Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
@@ -60,7 +60,6 @@ The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describin
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
 ## Chat Copy
-
 
 **Zartaj Majeed** 2:15 PM\
 reading till 2:21
