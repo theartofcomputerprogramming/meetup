@@ -1,0 +1,87 @@
+// diagram_2.3.2.4_threaded_binary_tree.neato.dot
+// dot -Tpdf -o diagram_2.3.2.4_threaded_binary_tree.neato.pdf diagram_2.3.2.4_threaded_binary_tree.neato.dot
+
+digraph {
+layout=neato
+// reflect y-axis to place origin at topleft instead of default bottomleft
+// allows easier association of nodes to expected position for a topdown structure like a tree, should help in computation of node positions for generating a tree
+scale="1,-1"
+// looks better with stretched edges, haven't played with interaction of scale and inputscale
+inputscale=0.72
+// curved edges go around nodes with splines=true otherwise edges may cross nodes
+splines=true
+
+/*
+subgraph header {
+  margin=1
+  style=invis
+  header [label="Graphviz Neato Flowchart" pos="0,0!" margin=1 shape=plaintext]
+}
+*/
+
+node [shape=circle]
+edge [arrowhead=open]
+
+{
+
+node [style=invis shape=point height=0 width=0]
+// uncomment to see invisible positioning nodes, also comment out above
+//node [shape=point height=0.1 width=0.1]
+
+// 20 is needed for thread destination
+20 [pos="2,0!"]
+// 01 is needed for thread destination
+01 [pos="0,1!"]
+}
+
+// the tree nodes
+11 [label=A, pos="1,1!"]
+31 [label=D, pos="3,1!"]
+12 [label=B, pos="1,2!"]
+22 [label=C, pos="2,2!"]
+32 [label=E, pos="3,2!"]
+42 [label=F, pos="4,2!"]
+52 [label=G, pos="5,2!"]
+23 [label=K, pos="2,3!"]
+33 [label=H, pos="3,3!"]
+43 [label=J, pos="4,3!"]
+
+// columns layout
+
+11 -> 12
+22 -> 23
+31 -> 32
+32 -> 33
+42 -> 43
+
+// rows layout
+
+11 -> 31
+12 -> 22
+32 -> 42
+42 -> 52
+
+// threads shown as dotted edges
+// ports are needed to prevent neato from combining two edges into one bidirectional edge
+// or to add separation between two edges meeting at the same node causing arrowsheads to overlap
+{
+edge [style=dotted]
+
+22 -> 11
+23 -> 12
+23 -> 22 [tailport=ne headport=se]
+12 -> 01
+
+31 -> 20
+33 -> 11 [headport=e]
+33 -> 32 [tailport=ne headport=se]
+43 -> 32 [headport=e]
+43 -> 42 [tailport=ne headport=se]
+52 -> 31
+52 -> 42 [tailport=sw headport=se]
+}
+
+label="Threaded binary tree (4) from TAOCP 2.3.2 Binary Tree Representation of Trees - graphviz neato layout\n\n\n\n"
+labelloc=t
+
+}
