@@ -86,7 +86,7 @@ Btw, in the "execution counts" column, I notice that C = C'+C'', and B=B'+B''. I
 
 **Zartaj Majeed** 3:18 PM\
 we're back
-GNU sort has this note in its TODO file about trying out Algorithm L (List merge sort): https://github.com/coreutils/coreutils/blob/master/TODO#:~:text=sort: Investigate better sorting algorithms; see Knuth vol. 3
+GNU sort has this note in its TODO file about trying out Algorithm L (List merge sort): https://github.com/coreutils/coreutils/blob/master/TODO#:~:text=sort:%20Investigate%20better%20sorting%20algorithms%3b%20see%20Knuth%20vol.%203
 
 **Arthur O'Dwyer** 3:19 PM\
 https://github.com/coreutils/coreutils/commit/93f9ffc6141ad028223a33e5ab0614aebbd4aa2e
