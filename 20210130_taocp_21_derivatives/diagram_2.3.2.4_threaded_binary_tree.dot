@@ -1,0 +1,124 @@
+// diagram_2.3.2.4_threaded_binary_tree.dot
+// dot -Tpdf -o diagram_2.3.2.4_threaded_binary_tree.pdf diagram_2.3.2.4_threaded_binary_tree.dot
+
+digraph {
+splines=false
+nodesep=0.5
+ranksep=0.9
+
+
+node [shape=circle]
+edge [arrowhead=open]
+
+{
+//node [label="\N" shape=plaintext]
+node [style=invis shape=point height=0 width=0]
+edge [style=invis]
+y_0 -> y_1 -> y_2 -> y_3
+}
+
+{
+node [style=invis shape=point height=0 width=0]
+//node [shape=point height=0.1 width=0.1]
+// 20 is needed for empty thread destination
+20
+// 01 is needed for empty thread destination
+01
+}
+
+11 [label=A]
+12 [label=B]
+22 [label=C]
+31 [label=D]
+32 [label=E]
+42 [label=F]
+52 [label=G]
+33 [label=H]
+43 [label=J]
+23 [label=K]
+
+{
+//node [label="\N" shape=plaintext]
+node [style=invis shape=point height=0 width=0]
+edge [style=invis]
+rank=same x_0 x_1 x_2 x_3 x_4 x_5
+x_0 -> x_1 -> x_2 -> x_3 -> x_4 -> x_5
+}
+
+{rank=same y_0 20}
+{rank=same y_1 01 11 31}
+{rank=same y_2 12 22 32 42 52}
+{rank=same y_3 23 33 43}
+
+// columns
+
+{
+// force column alignment with very high weight otherwise nodes can turn offcenter
+edge [weight=100]
+
+x_0 -> 01 [style=invis]
+x_1 -> 11 [style=invis]
+
+11 -> 12
+
+x_2 -> 20 [style=invis]
+20 -> 22 [style=invis]
+
+22 -> 23
+
+x_3 -> 31 [style=invis]
+
+31 -> 32
+32 -> 33
+
+x_4 -> 42 [style=invis]
+
+42 -> 43
+
+x_5 -> 52 [style=invis]
+
+}
+
+
+// rows
+
+{
+edge [weight=10]
+y_0 -> 20 [style=invis]
+y_1 -> 11 [style=invis]
+
+11 -> 31
+
+y_2 -> 12 [style=invis]
+
+12 -> 22
+
+32 -> 42
+42 -> 52
+}
+
+// threads
+
+{
+edge [style=dotted]
+22 -> 11
+23 -> 12
+// had to use tailport headport to prevent curved solid and dotted arrows
+23 -> 22 [tailport=ne headport=se]
+12 -> 01
+
+31 -> 20
+// headport here to move arrow away from the arrow of another edge to the same node
+33 -> 11 [headport=e]
+33 -> 32 [tailport=ne headport=se]
+43 -> 32 [headport=e]
+43 -> 42 [tailport=ne headport=se]
+52 -> 31
+52 -> 42 [tailport=sw]
+}
+
+label="Threaded binary tree (4) from TAOCP 2.3.2 Binary Tree Representation of Trees - graphviz dot layout\n"
+labelloc=t
+fontsize=24
+
+}
