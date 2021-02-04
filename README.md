@@ -16,12 +16,59 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #21 - Derivatives](#taocp-21---derivatives-chapter-2-information-structures-section-232)\
-Saturday, 30 January 2021, 2-4pm America/New_York
+[TAOCP #22 - Equivalence Relations](#taocp-22---equivalence-relations-chapter-2-information-structures-section-233)\
+Saturday, 6 February 2021, 2-4pm America/New_York
 
 ## Scheduled and Past Meetups
 
 All scheduled meetups in reverse chronological order
+
+### TAOCP #22 - Equivalence Relations (Chapter 2, Information Structures: Section 2.3.3)
+
+Trees in memory!
+
+We look at ways to represent a binary tree in memory in section 2.3.3 Other Representations of Trees.
+
+Knuth's fascinating coverage begins with the pros and cons of a few sequential representation techniques. We see one of these - postorder with degrees - applied to the bottom-up evaluation of functions in Algorithm F (Evaluate a locally defined function in a tree).
+
+Then we discuss linked representations. An application based on oriented trees is shown in Algorithm E (Process equivalence relations)
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 6 February 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3.3 Other Representations of Trees* (pp.348-355)
+  - Preorder sequential representation (pp.348-349)
+  - Reusing empty right-link fields (pp.349-350)
+  - Family order and level order (pp.350-351)
+  - *Algorithm F (Evaluate a locally defined function in a tree)* (p.351)
+  - Linked representations (pp.352-353)
+  - Equivalence relations (pp.353-354)
+  - *Algorithm E (Process equivalence relations)* (pp.354-355)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.359-362)
+- Shoot the breeze
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
 
 ### TAOCP #21 - Derivatives (Chapter 2, Information Structures: Section 2.3.2)
 
@@ -156,8 +203,8 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
   - *Algorithm T (Traverse binary tree in inorder)* (pp.320-321)
   - Threaded tree representation (pp.322-323)
   - *Algorithm S (Symmetric (inorder) successor in a threaded binary tree)* (pp.323-324), MMIX Supplement (p.37)
-  - *Program T (Traverse binary tree in inorder)* (pp.320-321), MMIX Supplement (pp.37-38)
-  - *Program S (Symmetric (inorder) successor in a threaded binary tree)* (pp.323-324), MMIX Supplement (p.38)
+  - *Program T (Traverse binary tree in inorder)*, MMIX Supplement (pp.37-38)
+  - *Program S (Symmetric (inorder) successor in a threaded binary tree)*, MMIX Supplement (p.38)
   - Analysis of Programs T and S (p.326)
 
 **3:00 - 3:10** Break\
