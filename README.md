@@ -16,12 +16,64 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #22 - Equivalence Relations](#taocp-22---equivalence-relations-chapter-2-information-structures-section-233)\
-Saturday, 6 February 2021, 2-4pm America/New_York
+[TAOCP #23 - Polynomials As Trees](#taocp-23---polynomials-as-trees-chapter-2-information-structures-sections-233-2345)\
+Saturday, 13 February 2021, 2-4pm America/New_York
 
 ## Scheduled and Past Meetups
 
 All scheduled meetups in reverse chronological order
+
+### TAOCP #23 - Polynomials As Trees (Chapter 2, Information Structures: Sections 2.3.3, 2.3.4.5)
+
+Trees above! Trees to the left! Trees to the right! Trees below????
+
+We examine more complex representations of trees. A particular doubly linked ring structure is applied to the problem of arithmetic on polynomials.
+
+We have previously seen algorithms for polynomial addition and multiplication using circular lists. Those however were limited to polynomials in three or four variables.
+
+We close out section 2.3.3 Other Representations of Trees with Algorithm A (Addition of polynomials) that works for polynomials in any number of variables. The algorithm illustrates traversal, insertion, and deletion in a four-way-linked tree.
+
+Then we jump to section 2.3.4.5 Path length. We look at extended binary trees that insure every node of the original tree has two children. This is used to establish some results on path lengths in binary trees that are generalized to ternary, quaternary and higher-order trees.
+
+Finally we consider associating weights with the nodes of a tree and look at Huffman's method for finding a tree with minimum weighted path length.
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 13 February 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3.3 Other Representations of Trees* (pp.355-359)
+  - Ring structures (pp.355-357)
+  - *Algorithm A (Addition of polynomials)* (pp.357-359), MMIX Supplement (pp.43-44)
+
+- *2.3.4.5 Path length* (pp.399-404)
+  - Extended binary tree (pp.399-400)
+  - Internal and external path lengths (p.400)
+  - Complete binary trees and higher-order trees (pp.401-402)
+  - Huffman's method for weighted path lengths (pp.402-404)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.359-362, 404-406)
+- Shoot the breeze
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
 
 ### TAOCP #22 - Equivalence Relations (Chapter 2, Information Structures: Section 2.3.3)
 
@@ -1192,73 +1244,6 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.305-307), shoot the breeze
-
-**Note on MMIX and MIX**
-
-The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
-
-The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
-
-The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
-
-### TAOCP #24 - Other Representations Of Trees (Chapter 2, Information Structures: Section 2.3.3) 
-
-Binary Trees!
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-#### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
-
-- *2.3 Trees* (pp.348-359)
-  - *2.3.3 Other Representations of Trees* (pp.348-359)
-
-**3:00 - 3:10** Break<br>
-**3:10 - 4:00** *Exercises* (pp.359-362), shoot the breeze
-
-**Note on MMIX and MIX**
-
-The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
-
-The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
-
-The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
-
-### TAOCP #25 - Path Length In Trees (Chapter 2, Information Structures: Section 2.3.4.5)
-
-Binary Trees!
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-#### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
-
-- *2.3 Trees* (pp.399-404)
-  - *2.3.4.5 Path Length* (pp.399-404)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.404-406), shoot the breeze
-
 
 **Note on MMIX and MIX**
 
