@@ -127,8 +127,8 @@ let's discuss a little earlier - say at 4:10
 
 **Arthur O'Dwyer** 4:08 PM\
 Algorithm S ("find successor in order") isn't really a counterpart to Algorithm T ("traverse all nodes in order"); it's a counterpart to *one small piece of* Algorithm T.\
-There is an "Algorithm S-prime" for use with non-threaded trees:\
-- Is RLINK(P) non-null? If so, set Q to RLINK(P), and then as long as LLINK(Q) is non-null, set Q to LLINK(Q).\
+There is an "Algorithm S-prime" for use with non-threaded trees:
+- Is RLINK(P) non-null? If so, set Q to RLINK(P), and then as long as LLINK(Q) is non-null, set Q to LLINK(Q).
 - Otherwise, you're out of luck, give up.
 
 **Arthur O'Dwyer** 4:13 PM\
