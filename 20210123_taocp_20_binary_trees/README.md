@@ -97,7 +97,7 @@ P(n) = (1-a)^n >= 1-na
 P(N) =>  (1-a)^n > 1 - na
 
 **Arthur O'Dwyer** 2:58 PM\
-So we're multiplying the LHS by (1-a), which is to say we're subtracting LHS\*a from the LHS. But on the right we're subtracting a, which is to say 1*a. And 1 >= LHS, so 1*a >= LHS\*a, so the amount we're subtracting from the RHS is *no less than* the amount we're subtracting from the LHS.
+So we're multiplying the LHS by (1-a), which is to say we're subtracting LHS\*a from the LHS. But on the right we're subtracting a, which is to say 1\*a. And 1 >= LHS, so 1\*a >= LHS\*a, so the amount we're subtracting from the RHS is *no less than* the amount we're subtracting from the LHS.
 
 **Michael Zalewski** 2:58 PM\
 (1-a)^n(1-a) > (1 - na)( 1 - a)\
@@ -134,11 +134,11 @@ how to find the the preorder successor of P
 preorder is node - left child - right child
 
 **Arthur O'Dwyer** 3:36 PM\
-- If P has a left child, that's P\*.\
-- Else if P has a right child, that's P\*.\
-- Else let Q = P's right thread; then if Q has a right child, that's P\*.\
-- Else let Q = Q's right thread; then if Q has a right child, that's P\*.\
-- Else repeat that very last step.\
+- If P has a left child, that's P\*.
+- Else if P has a right child, that's P\*.
+- Else let Q = P's right thread; then if Q has a right child, that's P\*.
+- Else let Q = Q's right thread; then if Q has a right child, that's P\*.
+- Else repeat that very last step.
 (I think.)
 
 **Zartaj Majeed** 3:39 PM\
