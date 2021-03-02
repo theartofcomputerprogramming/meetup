@@ -16,12 +16,166 @@ Anyone may join from anywhere. No programming knowledge is required.
 
 ## Next Meetup
 
-[TAOCP #23 - Polynomials As Trees](#taocp-23---polynomials-as-trees-chapter-2-information-structures-sections-233-2345)\
-Saturday, 13 February 2021, 2-4pm America/New_York
+[TAOCP #26 - Stackless Garbage Collection](#taocp-26---stackless-garbage-collection-chapter-2-information-structures-sections-235)\
+Saturday, 6 March 2021, 2-4pm America/New_York
 
 ## Scheduled and Past Meetups
 
 All scheduled meetups in reverse chronological order
+
+### TAOCP #26 - Stackless Garbage Collection (Chapter 2, Information Structures: Sections 2.3.5)
+
+No stacks of trash here!
+
+We close section 2.3.5 Lists and Garbage Collection with Algorithm E (Marking) credited to Schorr and Waite, also to Deutsch.
+
+We'll actually begin with an exercise from an earlier section on binary tree traversal. Exercise 2.3.1.21 asks for an algorithm to traverse an unthreaded binary tree in inorder but not use a stack. A solution is provided by Knuth. The key idea used to solve this problem is also used in the Schorr-Waite algorithm.
+
+We continue our discussion of garbage collection with Algorithm C (Marking). It combines ideas from the first two algorithms seen in our last meetup. It uses a fixed stack size to avoid the problem of running out of stack space during garbage collection.
+
+Next we cover Algorithm D (Marking). It uses links in List header nodes to maintain a stack.
+
+Finally we cover Algorithm E (Marking) that manages to avoid a stack altogether. It is often called the Schorr-Waite algorithm.
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 6 March 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3.1 Traversing Binary Trees*
+  - *Exercise 2.3.1.21* Inorder traversal of an unthreaded binary tree without a stack (p.332)
+  - *Answer 2.3.1.21* (p.567)
+
+- *2.3.5 Lists and Garbage Collection* (pp.416-421)
+  - *Algorithm C (Marking)* (pp.416-417)
+  - *Algorithm D (Marking)* (p.417)
+  - *Algorithm E (Marking)* (pp.418-419)
+  - Analysis of garbage collection algorithms (pp.420-421)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.422-423)
+- Shoot the breeze
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #25 - Garbage Collection (Chapter 2, Information Structures: Sections 2.3.5)
+
+So you think you know lists?
+
+We've now covered nearly all sections on trees in Chapter 2 - the remaining sections have important mathematical results on free trees and oriented trees but are marked optional by Knuth. We'll postpone studying these in detail till we actually need the material - possibly in Volume 3 for searching, certainly for many of the combinatorial algorithms in Volume 4.
+
+So we shift from trees to a specialized data structure with a deceptively ordinary name - List.
+
+A List in Knuth's parlance is related to both trees and linked lists. It is a recursive data structure that can contain itself. Different lists may overlap each other.
+
+We'll see what Lists are good for and how to represent them in memory.
+
+Then we consider the problem of managing memory for List objects. Approaches such as reference counting and garbage collection are discussed.
+
+We look at two algorithms for garbage collection.
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 27 February 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- Review *2.3 Trees* (pp.315-316)
+  - Lists (pp.315-316)
+
+- *2.3.5 Lists and Garbage Collection* (pp.408-416)
+  - Data structures for Lists (pp.408-411)
+  - Operations on Lists (pp.411-413), MMIX Supplement (pp.44-45)
+  - Garbage collection (pp.413-415)
+  - *Algorithm A (Marking)* (p.415)
+  - *Algorithm B (Marking)* (pp.415-416)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.422-423)
+- Shoot the breeze
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #24 - Huffman Trees (Chapter 2, Information Structures: Sections 2.3.4.5)
+
+We look at the concept of path length in trees in section 2.3.4.5 that Knuth considers "of great importance in the analysis of algorithms, since this quantity is often directly related to the execution time".
+
+We look at extended binary trees that insure every node of the original tree has two children. This is used to establish some short results on path lengths in binary trees that are generalized to ternary, quaternary and higher-order trees.
+
+Finally we consider associating weights with the nodes of a tree and look at Huffman's method for finding a tree with minimum weighted path length.
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 20 February 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.3.4.5 Path length* (pp.399-404)
+  - Extended binary tree (pp.399-400)
+  - Internal and external path lengths (p.400)
+  - Complete binary trees and higher-order trees (pp.401-402)
+  - Huffman's method for weighted path lengths (pp.402-404)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.404-406)
+- Shoot the breeze
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
 ### TAOCP #23 - Polynomials As Trees (Chapter 2, Information Structures: Sections 2.3.3, 2.3.4.5)
 
@@ -75,6 +229,8 @@ The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to 
 
 The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
 
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
 ### TAOCP #22 - Equivalence Relations (Chapter 2, Information Structures: Section 2.3.3)
 
 Trees in memory!
@@ -122,6 +278,8 @@ The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to 
 
 The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
 
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
 ### TAOCP #21 - Derivatives (Chapter 2, Information Structures: Section 2.3.2)
 
 Calculus with trees!
@@ -165,6 +323,8 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
 
 The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
 ### TAOCP #20 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
 
@@ -212,6 +372,8 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
 
 The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
 ### TAOCP #19 - Trees (Chapter 2, Information Structures: Section 2.3)
 
@@ -269,6 +431,8 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
 
 The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
 ### TAOCP #18 - Radix Sort (Chapter 5, Sorting: Section 5.2.5)
 
@@ -328,6 +492,8 @@ Stepthru in MMIX Visual Debugger
 The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
 
 The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
 ### TAOCP #17 - Mergesort (Chapter 5, Sorting: Sections 5.2.3, 5.2.4)
 
