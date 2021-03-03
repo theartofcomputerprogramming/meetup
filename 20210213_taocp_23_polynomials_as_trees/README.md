@@ -157,6 +157,6 @@ Funnily the page also says "In Chapter 8 we will consider another format for pol
 
 **Arthur O'Dwyer** 4:13 PM\
 3 + xx + xyz + zzz + 3xzzz\
-+ xy - xx - xyz - zzz + 3xzzz\
+\+ xy - xx - xyz - zzz + 3xzzz\
 should have produced "3 + xy + 6xzzz", I guess
 
