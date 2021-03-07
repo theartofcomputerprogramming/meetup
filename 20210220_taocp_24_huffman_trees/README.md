@@ -1,4 +1,4 @@
-### TAOCP #24 - Huffman Trees (Chapter 2, Information Structures: Sections 2.3.4.5)
+# TAOCP #24 - Huffman Trees (Chapter 2, Information Structures: Sections 2.3.4.5)
 
 We look at the concept of path length in trees in section 2.3.4.5 that Knuth considers "of great importance in the analysis of algorithms, since this quantity is often directly related to the execution time".
 
@@ -19,12 +19,13 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Time:** 2-4pm America/New_York\
 **Location:** Google Meet online
 
-#### Agenda
+## Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
 
 - *2.3.4.5 Path length* (pp.399-404)
+
   - Extended binary tree (pp.399-400)
   - Internal and external path lengths (p.400)
   - Complete binary trees and higher-order trees (pp.401-402)
