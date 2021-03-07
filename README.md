@@ -1351,7 +1351,49 @@ It is my hope to build a permanent resource of our meeting recordings, notes and
 
 A very rough plan for future meetups. This is constantly changing. Descriptions and agenda are just placeholders for now.
 
-### TAOCP #19 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
+### TAOCP #27 - COBOL?!? (Chapter 2, Information Structures: Sections 2.4)
+
+COBOL?!?
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 13 March 2021\
+**Time:** 2-4pm America/New_York
+
+#### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.4 Multilinked Structures* (pp.424-433)
+  - COBOL variables, records and levels (pp.424-425)
+  - Operations on and data structures for COBOL records (pp.426-427)
+  - *Algorithm A (Build Data Table)* (pp.427-429)
+  - *Algorithm B (Check a qualified reference)* (pp.429-430)
+  - *Algorithm C (Find CORRESPONDING pairs)* (pp.430-431)
+  - Analysis of the algorithms and data structures (pp.432-433)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.433-434)
+- Shoot the breeze
+
+**Note on MMIX and MIX**
+
+The **MMIX** is a hypothetical computer designed by Knuth. It is a successor to **MIX** which is still referred to in all printings of Vols. 1-3 of TAOCP. **MMIX** is significantly different from **MIX**. In order to use **MMIX** instead of **MIX** now means having to supplement TAOCP with two primary sources.
+
+The first supplement is *Fascicle 1, MMIX*, a booklet written by Knuth describing the computer and its assembly programming language. It replaces Sections 1.3 and 1.4 of *Chapter 1, Basic Concepts*. The section numbers in the fascicle have a prime (') suffix to distinguish them from the originals, e.g. fascicle section 1.3.1' replaces TAOCP section 1.3.1.
+
+The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
+
+### TAOCP #30 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
 
 Linked lists!
 
@@ -1386,7 +1428,7 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX** versions of all programs and content in TAOCP that currently refer to the older **MIX** computer. It uses the same section numbers as in TAOCP with page references and text snippets from TAOCP to help sync the **MMIX** version of the content with its location in TAOCP.
 
-### TAOCP #20 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
+### TAOCP #31 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
 
 Matrices!
 
