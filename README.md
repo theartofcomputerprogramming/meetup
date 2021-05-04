@@ -35,15 +35,15 @@ All scheduled meetups in reverse chronological order
 
 AKA Two-dimensional Array!
 
-Wow - we are nearly done with Volume 1 of TAOCP!
+Wow - we are nearly done with *Volume 1* of TAOCP!
 
 True - we didn't read it cover to cover or do all exercises. Yet we read almost all non-optional sections - exceptions being some of the mathematical preliminaries. We covered all **MMIX** instructions needed for application programming. We wrote C and C++ programs for many algorithms. We did a few exercises.
 
-Soon we'll pick off the sections from Volume 3 on internal sorting that were deferred till we had covered trees
+Soon we'll pick off the sections from *Volume 3* on internal sorting that were deferred till we had covered trees
 
-Afterwards we'll continue with external sorting in Volume 3
+Afterwards we'll continue with external sorting in *Volume 3*
 
-So here's the final section from Volume 1 - on two-dimensional arrays or matrices
+So here's the final section from *Volume 1* - on two-dimensional arrays or matrices
 
 We see techniques for representing a matrix using sequential and linked allocation
 
@@ -133,7 +133,7 @@ Also we cover the **TRIP** and **RESUME** instructions that allow Unix-like sign
 
 We then return to *Volume 1, Fundamental Algorithms* where we find the Knuth elevator simulation problem in section 2.2.5 on doubly linked lists
 
-We've come across this data structure in past meetups on later sections of Volume 1. Here they're used in one of the longest programs in TAOCP - a simulation of the elevator in the Math building at Caltech.
+We've come across this data structure in past meetups on later sections of *Volume 1*. Here they're used in one of the longest programs in TAOCP - a simulation of the elevator in the Math building at Caltech.
 
 While the program is meant to be "the simplest set of rules that explain all the phenomena observed during several hours of experimentation by the author", Knuth has some doubts about its utility since "it may be simpler just to try using the elevator several times instead of writing a computer program"
 
@@ -180,7 +180,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
   - MMIX Supplement (p.36)
 - Shoot the breeze
 
-## TAOCP #30 - MMIX Coroutines (Fascicle 1, MMIX: Sections 1.4.1', 1.4.2') (Chapter 1, Basic Concepts: 1.4.1, 1.4.2)
+## TAOCP #30 - MMIX Coroutines (Fascicle 1, MMIX: Sections 1.4.1', 1.4.2')
 
 Coroutines!
 
@@ -240,13 +240,13 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 
 You know where to find me, buddy!
 
-We continue to look at methods for allocating variable-size blocks of memory in section 2.5 Dynamic Storage Allocation
+We continue to look at methods for allocating variable-size blocks of memory in section 2.5 *Dynamic Storage Allocation*
 
 The main remaining technique is the buddy system that improves the process of coalescing freed blocks of memory
 
 Knuth spends considerable time to explain and analyze the expected behavior of the various algorithms in this section. This includes programs to simulate an application requesting and releasing memory. The results of the simulations are discussed leading Knuth to recommend certain methods over others.
 
-Finally we wrap up Chapter 2 with section 2.6 History and Bibliography. It has extensive references that places the topics on trees, lists and memory allocation that we covered in historical context and offers threads for future investigation and discussion
+Finally we wrap up *Chapter 2* with section 2.6 *History and Bibliography*. It has extensive references that places the topics on trees, lists and memory allocation that we covered in historical context and offers threads for future investigation and discussion
 
 We'll do some exercises
 
@@ -296,7 +296,7 @@ Reservation covers algorithms for selecting a block of memory to fulfill a reque
 
 We'll go over algorithms for reservation that include first-fit, best-fit - and next-fit which is an exercise
 
-Two liberation algorithms are covered - Algorithm B (Liberation with sorted list) and the more efficient Algorithm C (Liberation with boundary tags) that avoids the cost of searching the heap
+Two liberation algorithms are covered - *Algorithm B (Liberation with sorted list)* and the more efficient *Algorithm C (Liberation with boundary tags)* that avoids the cost of searching the heap
 
 We'll do some exercises
 
@@ -337,17 +337,17 @@ It shouldn't be much of a surprise that Knuth finds applications of complex mult
 
 We learn how hierarchical data is supported in COBOL internally and in external files.
 
-A COBOL variable has an associated level number that allows elementary items to be grouped like "DAY OF DATE OF SALES".
+A COBOL variable has an associated level number that allows elementary items to be grouped like **DAY OF DATE OF SALES**.
 
 A tree-like data structure with parent, sibling and child links plus couple more links is used to represent the various relationships
 
-We look at algorithms to support statements like "MOVE CORRESPONDING DATE OF SALES TO DATE OF PURCHASES".
+We look at algorithms to support statements like **MOVE CORRESPONDING DATE OF SALES TO DATE OF PURCHASES**.
 
 Specifically three algorithms are covered for use in a COBOL compiler to solve the following problems:
 
 1. Generate data tables from a hierarchical description of names and level numbers
 2. Look up data items corresponding to valid qualified references
-3. Find all corresponding pairs of items for a CORRESPONDING statement
+3. Find all corresponding pairs of items for a **CORRESPONDING** statement
 
 We'll do some exercises
 
