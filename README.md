@@ -1514,9 +1514,7 @@ It is my hope to build a permanent resource of our meeting recordings, notes and
 
 A very rough plan for future meetups. This is constantly changing. Descriptions and agenda are just placeholders for now.
 
-## TAOCP #27 - COBOL?!? (Chapter 2, Information Structures: Sections 2.4)
-
-COBOL?!?
+## TAOCP #34 - Heapsort (Chapter 5, Sorting: Section 5.2.3)
 
 We'll do some exercises
 
@@ -1527,73 +1525,26 @@ Keep the conversation going!
 Facebook: https://www.facebook.com/groups/678335496099220<br>
 IRC ##taocp: https://webchat.freenode.net/##taocp
 
-**Date:** Saturday, 13 March 2021\
+**Date:** Saturday, 15 May 2021\
 **Time:** 2-4pm America/New_York
 
 ### Agenda
 
 **2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
-- *2.4 Multilinked Structures* (pp.424-433)
-  - COBOL variables, records and levels (pp.424-425)
-  - Operations on and data structures for COBOL records (pp.426-427)
-  - *Algorithm A (Build Data Table)* (pp.427-429)
-  - *Algorithm B (Check a qualified reference)* (pp.429-430)
-  - *Algorithm C (Find CORRESPONDING pairs)* (pp.430-431)
-  - Analysis of the algorithms and data structures (pp.432-433)
+- *5.2.3 Sorting by Selection* (pp.141-148)
+  - *Tree selection* (pp.141-142)
+  - *Exercise 5.2.3.10* (p.156)
+  - Top-down tree selection (pp.142-144)
+  - *Heapsort* (pp.144-145)
+  - *Algorithm H (Heapsort)*, *Fig 26* (pp.145-146)
+  - *Program H (Heapsort)*, *Table 2* (pp.146-147), MMIX Supplement (pp.87-88)
+  - Analysis of heapsort (pp.147-148), MMIX Supplement (pp.88-89)
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
-- *Exercises* (pp.433-434)
+- *Exercises*
+  - Volume 3 (pp.155-158)
+  - MMIX Supplement (p.89)
 - Shoot the breeze
-
-## TAOCP #30 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
-
-Linked lists!
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
-
-- *2.2 Linear Lists* (pp.280-296)
-  - *2.2.5 Doubly Linked Lists* (pp.280-296)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.297-298), shoot the breeze
-
-## TAOCP #31 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
-
-Matrices!
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
-
-- *2.2 Linear Lists* (pp.298-305)
-  - *2.2.6 Arrays and Orthogonal Lists* (pp.298-305)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00** *Exercises* (pp.305-307), shoot the breeze
