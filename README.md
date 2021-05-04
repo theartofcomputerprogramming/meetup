@@ -4,8 +4,8 @@ https://www.meetup.com/theartofcomputerprogramming
 
 ## Next Meetup
 
-[TAOCP #26 - Stackless Garbage Collection](#taocp-26---stackless-garbage-collection-chapter-2-information-structures-sections-235)\
-Saturday, 6 March 2021, 2-4pm America/New_York
+[TAOCP #33 - The Matrix](#taocp-33---the-matrix-chapter-2-information-structures-section-226)\
+Saturday, 8 May 2021, 2-4pm America/New_York
 
 ## Description
 
@@ -31,7 +31,355 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 All scheduled meetups in reverse chronological order
 
-### TAOCP #26 - Stackless Garbage Collection (Chapter 2, Information Structures: Sections 2.3.5)
+## TAOCP #33 - The Matrix (Chapter 2, Information Structures: Section 2.2.6)
+
+AKA Two-dimensional Array!
+
+Wow - we are nearly done with Volume 1 of TAOCP!
+
+True - we didn't read it cover to cover or do all exercises. Yet we read almost all non-optional sections - exceptions being some of the mathematical preliminaries. We covered all **MMIX** instructions needed for application programming. We wrote C and C++ programs for many algorithms. We did a few exercises.
+
+Soon we'll pick off the sections from Volume 3 on internal sorting that were deferred till we had covered trees
+
+Afterwards we'll continue with external sorting in Volume 3
+
+So here's the final section from Volume 1 - on two-dimensional arrays or matrices
+
+We see techniques for representing a matrix using sequential and linked allocation
+
+Knuth gives an algorithm for pivoting a matrix around an element as an example of how a linked representation may be used for efficient transformations of sparse matrices
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 8 May 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.2.6 Arrays and Orthogonal Lists* (pp.298-305)
+  - *Sequential Allocation* (pp.298-300)
+  - Triangular matrices (pp.300-301)
+  - *Linked Allocation*, sparse matrices (pp.301-302), MMIX Supplement (p.36)
+  - Pivot step operation (pp.302-303)
+  - *Algorithm S (Pivot step in a sparse matrix)* (pp.304-305), MMIX Supplement (p.36)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 1 (pp.305-307)
+  - MMIX Supplement (p.37)
+- Shoot the breeze
+
+## TAOCP #32 - Coroutines For Elevator Simulation (Chapter 2, Information Structures: Section 2.2.5)
+
+The Sims - Elevator Edition!
+
+We continue with the elevator simulation problem in section 2.2.5 on doubly linked lists
+
+We go over the coroutines that simulate the elevator and passengers. We see how doubly linked lists are used for efficient queues. And how everything is tied together through a controller/scheduler routine.
+
+Finally we cover **MMIX** code for the elevator simulation program from the MMIX Supplement
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 1 May 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.2.5. Doubly Linked Lists* (pp.283-296)
+  - *Coroutine U (Users)* (pp.283-284)
+  - *Coroutine E (Elevator)* (pp.284-285)
+  - *Subroutine D (DECISION subroutine)*, *Table 1* (pp.286-287)
+  - WAIT, ELEVATOR, QUEUE doubly linked lists, *Fig 12* (pp.287-288), MMIX Supplement (p.28)
+  - Elevator simulation program (pp.288-296), MMIX Supplement (pp.28-35)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 1 (pp.297-298)
+  - MMIX Supplement (p.36)
+- Shoot the breeze
+
+## TAOCP #31 - Knuth Elevator Problem (Fascicle 1, MMIX: Sections 1.3.1', 1.4.2') (Chapter 2, Information Structures: Section 2.2.5)
+
+Going up!
+
+We continue with the introduction to coroutines in **MMIX** after the detailed review of subroutines in **TAOCP #30**
+
+We learn how to use **MMIX** instructions to achieve coroutine linkage in section 1.4.2' from *Fascicle 1, MMIX*. A problem of decoding a string serves as a concrete yet simple application of coroutines using the **GO** instruction.
+
+Also we cover the **TRIP** and **RESUME** instructions that allow Unix-like signal-handling - they may be used for a kind of dynamic dispatch that can be useful with coroutines
+
+We then return to *Volume 1, Fundamental Algorithms* where we find the Knuth elevator simulation problem in section 2.2.5 on doubly linked lists
+
+We've come across this data structure in past meetups on later sections of Volume 1. Here they're used in one of the longest programs in TAOCP - a simulation of the elevator in the Math building at Caltech.
+
+While the program is meant to be "the simplest set of rules that explain all the phenomena observed during several hours of experimentation by the author", Knuth has some doubts about its utility since "it may be simpler just to try using the elevator several times instead of writing a computer program"
+
+It is however a great application of doubly-linked lists used to implement multiple queues. It also demonstrates concurrency using coroutines to simulate the independent behavior of the elevator and passengers.
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 24 April 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*) and *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *1.4.2' Coroutines* (pp.66-72)
+  - Coroutine linkage, a decoding problem for coroutines (pp.66-68)
+  - MMIX coroutines program (pp.68-70)
+  - *Multipass algorithms* (pp.70-72)
+
+- *1.3.1' Description of MMIX* (pp.18-19)
+  - *Interrupts* (pp.18-19)
+
+- *2.2.5. Doubly Linked Lists* (pp.280-288)
+  - Doubly Linked Lists (pp.280-281)
+  - Elevator simulation (pp.282-283), MMIX Supplement (pp.27-28)
+  - *Coroutine U (Users)* (pp.283-284)
+  - *Coroutine E (Elevator)* (pp.284-285)
+  - *Subroutine D (DECISION subroutine)*, *Table 1* (pp.286-287)
+  - WAIT, ELEVATOR, QUEUE doubly linked lists, *Fig 12* (pp.287-288), MMIX Supplement (p.28)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Fascicle 1 (pp.72-73)
+  - Volume 1 (pp.297-298)
+  - MMIX Supplement (p.36)
+- Shoot the breeze
+
+## TAOCP #30 - MMIX Coroutines (Fascicle 1, MMIX: Sections 1.4.1', 1.4.2') (Chapter 1, Basic Concepts: 1.4.1, 1.4.2)
+
+Coroutines!
+
+We cover some advanced features of Knuth's **MMIX** computer that are needed for the last couple sections on lists that we had skipped earlier.
+
+The main feature covered in this meetup is coroutines
+
+Knuth describes the difference between subroutines and coroutines as
+
+"Subroutines are special cases of more general program components, called coroutines. In contrast to the unsymmetric relationship between a main routine and a subroutine, there is complete symmetry between coroutines, which call on each other."
+
+We have seen plenty of examples of subroutines in the meetups on **MMIX** programming but it's worthwhile to go over them in a bit more detail as covered in section 1.4.1' from *Fascicle 1*. Most of this material will be review.
+
+Section 1.4.1' ends with Knuth's early thoughts on writing longer complex programs. He describes a hybrid process that mixes a top-down and bottom-up approach that lets a programmer iteratively refine and expand the program.
+
+We go on to coroutines in section 1.4.2' where we learn how to use **MMIX** instructions to achieve coroutine linkage. We consider a simple problem of decoding a string. We'll go over the **MMIX** code that uses coroutines to solve the problem.
+
+This should prepare us for the elevator simulation problem that Knuth uses as an application of doubly-linked lists and solves with coroutines in section 2.2.5 of *Volume 1*
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 17 April 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
+
+- *1.4.1' Subroutines* (pp.52-65)
+  - Subroutines and linkage (pp.52-53)
+  - Parameters and calling sequences (pp.53-56)
+  - Multiple entrances and exits (pp.56-57)
+  - *Using a memory stack* (pp.57-58)
+  - *Using the register stack* (p.58-61)
+  - *Strategic considerations* (pp.62-65)
+
+- 1.4.2' Coroutines (pp.66-72)
+  - Coroutine linkage, a decoding problem for coroutines (pp.66-68)
+  - MMIX coroutines program (pp.68-70)
+  - *Multipass algorithms* (pp.70-72)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Fascicle 1 (pp.65-66, 72-73)
+- Shoot the breeze
+
+## TAOCP #29 - The Buddy System (Chapter 2, Information Structures: Sections 2.5, 2.6)
+
+You know where to find me, buddy!
+
+We continue to look at methods for allocating variable-size blocks of memory in section 2.5 Dynamic Storage Allocation
+
+The main remaining technique is the buddy system that improves the process of coalescing freed blocks of memory
+
+Knuth spends considerable time to explain and analyze the expected behavior of the various algorithms in this section. This includes programs to simulate an application requesting and releasing memory. The results of the simulations are discussed leading Knuth to recommend certain methods over others.
+
+Finally we wrap up Chapter 2 with section 2.6 History and Bibliography. It has extensive references that places the topics on trees, lists and memory allocation that we covered in historical context and offers threads for future investigation and discussion
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 27 March 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.5 Dynamic Storage Allocation* (pp.442-452)
+  - *C. The "buddy system"* (pp.442-443)
+  - *Algorithm R (Buddy system reservation)* (p.443)
+  - *Algorithm S (Buddy system liberation)* (pp.443-444)
+  - *D. Comparison of the methods* (p.444-445)
+  - Monte Carlo simulation program (pp.445-446)
+  - Almost-last-in-first-out simulation (pp.446-448)
+  - Results and recommendations (pp.449-450), MMIX Supplement (p.46)
+  - *E. Distributed fit* (pp.450-451)
+  - *F. Overflow*, *G. For further reading* (pp.451-452)
+
+- *2.6 History and Bibliography* (pp.457-465)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 1 (pp.452-456)
+- Shoot the breeze
+
+## TAOCP #28 - Memory Allocation (Chapter 2, Information Structures: Section 2.5)
+
+Heap memory!
+
+We look at how to allocate variable-size blocks of memory in section 2.5 Dynamic Storage Allocation
+
+Knuth covers two aspects of managing a pool of memory, or a heap - reservation and liberation
+
+Reservation covers algorithms for selecting a block of memory to fulfill a requested size. Liberation refers to returning blocks of memory that are no longer in use to the pool
+
+We'll go over algorithms for reservation that include first-fit, best-fit - and next-fit which is an exercise
+
+Two liberation algorithms are covered - Algorithm B (Liberation with sorted list) and the more efficient Algorithm C (Liberation with boundary tags) that avoids the cost of searching the heap
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 20 March 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- 2.5 Dynamic Storage Allocation (pp.435-442)
+  - *Reservation* (pp.435-437)
+  - *Algorithm A (First-fit method)* (pp.437-438)
+  - *Liberation* (pp.438-439)
+  - *Algorithm B (Liberation with sorted list)* (p.440)
+  - Avoid searching the heap (pp.440-441)
+  - *Algorithm C (Liberation with boundary tags)* (pp.441-442)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 1 (pp.452-456)
+- Shoot the breeze
+
+## TAOCP #27 - COBOL?!? (Chapter 2, Information Structures: Section 2.4)
+
+Compiling COBOL!
+
+It shouldn't be much of a surprise that Knuth finds applications of complex multilinked structures in compilers for COBOL - a language designed for processing structured data in files.
+
+We learn how hierarchical data is supported in COBOL internally and in external files.
+
+A COBOL variable has an associated level number that allows elementary items to be grouped like "DAY OF DATE OF SALES".
+
+A tree-like data structure with parent, sibling and child links plus couple more links is used to represent the various relationships
+
+We look at algorithms to support statements like "MOVE CORRESPONDING DATE OF SALES TO DATE OF PURCHASES".
+
+Specifically three algorithms are covered for use in a COBOL compiler to solve the following problems:
+
+1. Generate data tables from a hierarchical description of names and level numbers
+2. Look up data items corresponding to valid qualified references
+3. Find all corresponding pairs of items for a CORRESPONDING statement
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 13 March 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
+
+- *2.4 Multilinked Structures* (pp.424-433)
+  - COBOL variables, records and levels (pp.424-425)
+  - Operations on and data structures for COBOL records (pp.426-427)
+  - *Algorithm A (Build Data Table)* (pp.427-429)
+  - *Algorithm B (Check a qualified reference)* (pp.429-430)
+  - *Algorithm C (Find CORRESPONDING pairs)* (pp.430-431)
+  - Analysis of the algorithms and data structures (pp.432-433)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises* (pp.433-434)
+- Shoot the breeze
+
+## TAOCP #26 - Stackless Garbage Collection (Chapter 2, Information Structures: Section 2.3.5)
 
 No stacks of trash here!
 
@@ -57,7 +405,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 6 March 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -77,7 +425,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.422-423)
 - Shoot the breeze
 
-### TAOCP #25 - Garbage Collection (Chapter 2, Information Structures: Sections 2.3.5)
+## TAOCP #25 - Garbage Collection (Chapter 2, Information Structures: Section 2.3.5)
 
 So you think you know lists?
 
@@ -105,7 +453,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 27 February 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -125,7 +473,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.422-423)
 - Shoot the breeze
 
-### TAOCP #24 - Huffman Trees (Chapter 2, Information Structures: Sections 2.3.4.5)
+## TAOCP #24 - Huffman Trees (Chapter 2, Information Structures: Section 2.3.4.5)
 
 We look at the concept of path length in trees in section 2.3.4.5 that Knuth considers "of great importance in the analysis of algorithms, since this quantity is often directly related to the execution time".
 
@@ -145,7 +493,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 20 February 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -161,7 +509,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.404-406)
 - Shoot the breeze
 
-### TAOCP #23 - Polynomials As Trees (Chapter 2, Information Structures: Sections 2.3.3, 2.3.4.5)
+## TAOCP #23 - Polynomials As Trees (Chapter 2, Information Structures: Sections 2.3.3, 2.3.4.5)
 
 Trees above! Trees to the left! Trees to the right! Trees below????
 
@@ -187,7 +535,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 13 February 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -207,7 +555,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.359-362, 404-406)
 - Shoot the breeze
 
-### TAOCP #22 - Equivalence Relations (Chapter 2, Information Structures: Section 2.3.3)
+## TAOCP #22 - Equivalence Relations (Chapter 2, Information Structures: Section 2.3.3)
 
 Trees in memory!
 
@@ -229,7 +577,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 6 February 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -248,7 +596,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.359-362)
 - Shoot the breeze
 
-### TAOCP #21 - Derivatives (Chapter 2, Information Structures: Section 2.3.2)
+## TAOCP #21 - Derivatives (Chapter 2, Information Structures: Section 2.3.2)
 
 Calculus with trees!
 
@@ -268,7 +616,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 30 January 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -286,7 +634,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.346-348), MMIX Supplement (p.43)
 - Shoot the breeze
 
-### TAOCP #20 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
+## TAOCP #20 - Binary Trees (Chapter 2, Information Structures: Section 2.3.1)
 
 Binary trees and proof by induction!
 
@@ -306,7 +654,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 23 January 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 1, Basic Concepts* and *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -327,7 +675,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.18-21, 330-334), MMIX Supplement (p.39)
 - Shoot the breeze
 
-### TAOCP #19 - Trees (Chapter 2, Information Structures: Section 2.3)
+## TAOCP #19 - Trees (Chapter 2, Information Structures: Section 2.3)
 
 Return to the forest!
 
@@ -355,7 +703,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 16 January 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -378,7 +726,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.316-318, 330-334), MMIX Supplement (p.39)
 - Shoot the breeze
 
-### TAOCP #18 - Radix Sort (Chapter 5, Sorting: Section 5.2.5)
+## TAOCP #18 - Radix Sort (Chapter 5, Sorting: Section 5.2.5)
 
 Sorting is sorted out! (for now...)
 
@@ -402,7 +750,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 9 January 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
@@ -431,7 +779,7 @@ Stepthru in MMIX Visual Debugger
 
 - *Program L (List merge sort)*, MMIX Supplement (pp.90-92)
 
-### TAOCP #17 - Mergesort (Chapter 5, Sorting: Sections 5.2.3, 5.2.4)
+## TAOCP #17 - Mergesort (Chapter 5, Sorting: Sections 5.2.3, 5.2.4)
 
 New Year! New sorting methods!
 
@@ -455,7 +803,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 2 January 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
@@ -483,7 +831,7 @@ Stepthru in MMIX Visual Debugger
 
 - *Program S (Straight selection sort)*, MMIX Supplement (p.87)
 
-### TAOCP #16 - Quicksort (Chapter 5, Sorting: Section 5.2.2)
+## TAOCP #16 - Quicksort (Chapter 5, Sorting: Section 5.2.2)
 
 Quicksort!
 
@@ -509,7 +857,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 19 December 2020\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
@@ -535,7 +883,7 @@ Stepthru in MMIX Visual Debugger
 
 - *Program Q (Quicksort)*, MMIX Supplement (pp.82-84)
 
-### TAOCP #15 - Batcher Sort (Chapter 5, Sorting: Section 5.2.2)
+## TAOCP #15 - Batcher Sort (Chapter 5, Sorting: Section 5.2.2)
 
 Bubble sorting!
 
@@ -563,7 +911,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 12 December 2020\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
@@ -588,7 +936,7 @@ Stepthru in MMIX Visual Debugger
 
 - *Exercise 5.2.2.12* implements Algorithm M (Merge exchange), MMIX Supplement (p.169)
 
-### TAOCP #14 - Link Order (Chapter 5, Sorting: Section 5.2.1)
+## TAOCP #14 - Link Order (Chapter 5, Sorting: Section 5.2.1)
 
 Sorting with links!
 
@@ -616,7 +964,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 5 December 2020\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
@@ -645,7 +993,7 @@ Stepthru in MMIX Visual Debugger
 - *Program L (List insertion)*, MMIX Supplement (pp.78-79)
 - *Program M (Multiple list insertion)*, MMIX Supplement (pp.79-80)
 
-### TAOCP #13 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
+## TAOCP #13 - Shellsort (Chapter 5, Sorting: Section 5.2.1)
 
 Sorting by insertion!
 
@@ -673,7 +1021,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 28 November 2020\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
@@ -703,7 +1051,7 @@ Stepthru in MMIX Visual Debugger
 - *Program S (Straight insertion sort)*, MMIX Supplement (p.76)
 - *Program D (Shellsort)*, MMIX Supplement (pp.77-78)
 
-### TAOCP #12 - Sorting (Chapter 5, Sorting: Section 5.2)
+## TAOCP #12 - Sorting (Chapter 5, Sorting: Section 5.2)
 
 TAOCP Volume 3!
 
@@ -725,7 +1073,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 21 November 2020\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
@@ -749,7 +1097,7 @@ Stepthru in MMIX Visual Debugger
 
 - *Program C (Comparison counting)*, MMIX Supplement (pp.74-75)
 
-### TAOCP #11 - Polynomial Arithmetic and Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
+## TAOCP #11 - Polynomial Arithmetic and Circular Lists (Chapter 2, Information Structures: Section 2.2.4) 
 
 Circular lists!
 
@@ -770,7 +1118,7 @@ After the main meetup session, we'll continue to record a walkthrough in the MMI
 **Date:** Saturday, 14 November 2020\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -793,7 +1141,7 @@ Stepthru in MMIX Visual Debugger
 
 - *Program A (Addition of polynomials)* from MMIX Supplement (p.26)
 
-### TAOCP #10 - Topological Sort and Linked Lists (Chapter 2, Information Structures: Section 2.2.3)
+## TAOCP #10 - Topological Sort and Linked Lists (Chapter 2, Information Structures: Section 2.2.3)
 
 Linked lists!
 
@@ -808,7 +1156,7 @@ After the main meetup session, we'll continue to record a demo and walkthrough o
 **Date:** Saturday, 7 November 2020\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -832,7 +1180,7 @@ After the main meetup session, we'll continue to record a demo and walkthrough o
 - *Program T (Topological sort)* (pp.266-268), MMIX Supplement (pp.20-22)
   - Stepthru in MMIX Visual Debugger
 
-### TAOCP #9 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
+## TAOCP #9 - Sequential Allocation (Chapter 2, Information Structures: Section 2.2.2)
 
 Memory allocation schemes!
 
@@ -843,7 +1191,7 @@ We've begun to look at lists of records that may grow and shrink. Now we conside
 **Date:** Saturday, 31 October 2020\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -861,14 +1209,14 @@ We've begun to look at lists of records that may grow and shrink. Now we conside
 - *Exercises* (pp.251-254)
 - Shoot the breeze
 
-### TAOCP #8 - Stacks, Queues and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
+## TAOCP #8 - Stacks, Queues and Deques (Chapter 2, Information Structures: Section 2.1-2.2)
 
 **Date:** Saturday, 24 October 2020\
 **Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -897,14 +1245,14 @@ We'll also introduce *The MMIX Supplement*. We'll be using it as a companion tex
 
 After the break, we'll do some exercises.
 
-### TAOCP #7 - MMIX Programming (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+## TAOCP #7 - MMIX Programming (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 17 October 2020\
 **Time:** 2-4pm America/New_York
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
@@ -949,7 +1297,7 @@ After the break, we'll do some exercises.
 
 Exercises are posted at https://github.com/theartofcomputerprogramming/exercises/tree/master/fasc_1_mmix_chap_1_basic_concepts/sec_1.3.2_the_mmix_assembly_language - anyone may contribute solutions or partial work to the repo at any time.
 
-### TAOCP #6 - MMIX Branching (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+## TAOCP #6 - MMIX Branching (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 10 October 2020\
 **Time:** 2-4pm America/New_York
@@ -958,7 +1306,7 @@ Exercises are posted at https://github.com/theartofcomputerprogramming/exercises
 
 Google Meet link will be updated here and sent to attendees before the meeting.
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
@@ -989,7 +1337,7 @@ After the break, we'll work on exercises on the new instructions and those from 
 
 Exercises are posted at https://github.com/theartofcomputerprogramming/exercises/tree/master/fasc_1_mmix_chap_1_basic_concepts/sec_1.3.1_description_of_mmix - anyone may contribute solutions or partial work to the repo at any time.
 
-### TAOCP #5 - MMIX Problem Fest (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+## TAOCP #5 - MMIX Problem Fest (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 3 October 2020\
 **Time:** 2-4pm America/New_York
@@ -998,7 +1346,7 @@ Exercises are posted at https://github.com/theartofcomputerprogramming/exercises
 
 Google Meet link will be updated here and sent to attendees before the meeting.
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Work on *Exercises* (pp.24-28) for topics from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
@@ -1027,7 +1375,7 @@ We're dedicating the full two hours to solving exercises from *Fascicle 1, MMIX*
 
 It's better not to look at the answers to exercises. Instead members are encouraged to ask questions and enter comments into the shared doc or the chat panel. Every note that reflects genuine individual thought could be useful to people who come across it in the future.
 
-### TAOCP #4 - Basic MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+## TAOCP #4 - Basic MMIX Instructions (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 26 September 2020\
 **Time:** 2-4pm America/New_York
@@ -1036,7 +1384,7 @@ It's better not to look at the answers to exercises. Instead members are encoura
 
 Google Meet link will be updated here and sent to attendees before the meeting.
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
@@ -1063,7 +1411,7 @@ We'll start with instructions for simple arithmetic. We'll learn how to compare 
 
 After the break, we'll use the free and open source MMIX Visual Debugger https://mmix.cs.hm.edu/mmixvd introduced in TAOCP Meetup #3 for hands-on practice with the instructions we have learnt so far. We'll work on some exercises too.
 
-### TAOCP #3 - Introduction to MMIX (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
+## TAOCP #3 - Introduction to MMIX (Fascicle 1, 1.3' MMIX) (Chapter 1, Basic Concepts: 1.3 MIX)
 
 **Date:** Saturday, 19 September 2020<br>
 **Time:** 2-4pm America/New_York
@@ -1072,7 +1420,7 @@ After the break, we'll use the free and open source MMIX Visual Debugger https:/
 
 Google Meet link will be updated here and sent to attendees before the meeting.
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages at a time from *Fascicle 1, MMIX* (corresponding to *Chapter 1, Basic Concepts*)
@@ -1099,7 +1447,7 @@ In this first meetup on MMIX, we learn how data is represented and stored in MMI
 
 We'll begin to use some invaluable tools for working with MMIX in the second half of the meetup. We'll see how to use the MMIX Visual Debugger GUI https://mmix.cs.hm.edu/mmixvd to edit, run and step through MMIX assembly language programs. The MMIX simulator and assembler https://mmix.cs.hm.edu/src are commandline tools that will be demoed in upcoming meetups. All these tools are free and open source.
 
-### TAOCP #2 - Algorithms (Chapter 1, Basic Concepts: Section 1.1)
+## TAOCP #2 - Algorithms (Chapter 1, Basic Concepts: Section 1.1)
 
 **Date:** Saturday, 12 September 2020<br>
 **Time:** 2-4pm America/New_York
@@ -1108,7 +1456,7 @@ We'll begin to use some invaluable tools for working with MMIX in the second hal
 
 Google Meet link will be updated here and sent to attendees before the meeting.
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages at a time from *Volume 1, Fundamental Algorithms*: *Chapter 1, Basic Concepts*
@@ -1123,7 +1471,7 @@ Well - We begin reading TAOCP in earnest today!
 
 As its title suggests, TAOCP is about three things - "Art", "Computers" and "Programming". Knuth spoke at length on "Art" in his Turing Award lecture https://dl.acm.org/doi/pdf/10.1145/1283920.1283929. Today we look at the foundation of "Programming" that is built upon the concept of an algorithm. And we'll spend time on "Computers" in the coming sessions.
 
-### TAOCP #1 - Inaugural Meeting
+## TAOCP #1 - Inaugural Meeting
 
 **Date:** Saturday, 5 September 2020<br>
 **Time:** 2-4pm America/New_York
@@ -1132,7 +1480,7 @@ As its title suggests, TAOCP is about three things - "Art", "Computers" and "Pro
 
 Google Meet link will be updated here and sent to attendees before the meeting.
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet<br>
 **2:10 - 3:00** Read and discuss couple pages at a time of *Volume 1, Fundamental Algorithms*
@@ -1166,7 +1514,7 @@ It is my hope to build a permanent resource of our meeting recordings, notes and
 
 A very rough plan for future meetups. This is constantly changing. Descriptions and agenda are just placeholders for now.
 
-### TAOCP #27 - COBOL?!? (Chapter 2, Information Structures: Sections 2.4)
+## TAOCP #27 - COBOL?!? (Chapter 2, Information Structures: Sections 2.4)
 
 COBOL?!?
 
@@ -1182,7 +1530,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 13 March 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -1200,7 +1548,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 - *Exercises* (pp.433-434)
 - Shoot the breeze
 
-### TAOCP #30 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
+## TAOCP #30 - Doubly Linked Lists (Chapter 2, Information Structures: Section 2.2.5)
 
 Linked lists!
 
@@ -1214,7 +1562,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 1 TBD 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
@@ -1225,7 +1573,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **3:00 - 3:10** Break\
 **3:10 - 4:00** *Exercises* (pp.297-298), shoot the breeze
 
-### TAOCP #31 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
+## TAOCP #31 - Multidimensional Arrays (Chapter 2, Information Structures: Section 2.2.6) 
 
 Matrices!
 
@@ -1239,7 +1587,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **Date:** Saturday, 1 TBD 2021\
 **Time:** 2-4pm America/New_York
 
-#### Agenda
+### Agenda
 
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 2, Information Structures* (along with *MMIX Supplement*)
