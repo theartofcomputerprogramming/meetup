@@ -33,13 +33,15 @@ All scheduled meetups in reverse chronological order
 
 ## TAOCP #34 - Heapsort (Chapter 5, Sorting: Section 5.2.3)
 
-Trees for sorting!
+Winner winner chicken dinner!
 
-We begin see the broad applicability of tree data structures for solving large categories of problems in our return to *Volume 3, Sorting and Searching*
+We begin see the broad applicability of tree data structures to solving large categories of problems in our return to *Volume 3, Sorting and Searching*
 
 We develop heapsort as an example of selection by sorting in section 5.2.3. Tree selection is a popular elimination scheme for sports tournaments. Normally tournaments are only concerned with the single ultimate winner - the person that rises to the root of the selection tree. But the principle may be repeated with tweaks to obtain an efficient way to rank all participants exploiting information retained in the tree structure from every comparison.
 
-We look at Algorithm H (Heapsort) and its **MMIX** implementation. Time permitting we'll go over the mathematical analysis of a portion of heapsort - though Knuth marks it as optional.
+We look at Algorithm H (Heapsort) and its **MMIX** implementation
+
+Time permitting we'll go over the mathematical analysis of a portion of heapsort - though Knuth marks it as optional
 
 We'll do some exercises
 
