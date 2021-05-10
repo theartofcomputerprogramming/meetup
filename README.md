@@ -35,7 +35,7 @@ All scheduled meetups in reverse chronological order
 
 Winner winner chicken dinner!
 
-We begin see the broad applicability of tree data structures to solving large categories of problems in our return to *Volume 3, Sorting and Searching*
+We begin to see the broad applicability of tree data structures to solving large categories of problems in our return to *Volume 3, Sorting and Searching*
 
 We develop heapsort as an example of selection by sorting in section 5.2.3. Tree selection is a popular elimination scheme for sports tournaments. Normally tournaments are only concerned with the single ultimate winner - the person that rises to the root of the selection tree. But the principle may be repeated with tweaks to obtain an efficient way to rank all participants exploiting information retained in the tree structure from every comparison.
 
