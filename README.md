@@ -4,8 +4,8 @@ https://www.meetup.com/theartofcomputerprogramming
 
 ## Next Meetup
 
-[TAOCP #33 - The Matrix](#taocp-33---the-matrix-chapter-2-information-structures-section-226)\
-Saturday, 8 May 2021, 2-4pm America/New_York
+[TAOCP #34 - Heapsort](#taocp-34---heapsort-chapter-5-sorting-section-523)\
+Saturday, 15 May 2021, 2-4pm America/New_York
 
 ## Description
 
@@ -30,6 +30,42 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 ## Scheduled and Past Meetups
 
 All scheduled meetups in reverse chronological order
+
+## TAOCP #34 - Heapsort (Chapter 5, Sorting: Section 5.2.3)
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 15 May 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.2.3 Sorting by Selection* (pp.141-148, 152-155)
+  - *Tree selection* (pp.141-142)
+  - *Exercise 5.2.3.10* (p.156)
+  - Top-down tree selection, Fig 23, 24, 25 (pp.142-144)
+  - *Heapsort* (pp.144-145)
+  - *Algorithm H (Heapsort)*, *Fig 26* (pp.145-146)
+  - *Program H (Heapsort)*, *Table 2* (pp.146-147), MMIX Supplement (pp.87-88)
+  - Timing Program H (pp.147-148), MMIX Supplement (pp.88-89)
+  - Analysis of heapsort, Theorem H (pp.152-155)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 3 (pp.155-158)
+  - MMIX Supplement (p.89)
+- Shoot the breeze
 
 ## TAOCP #33 - The Matrix (Chapter 2, Information Structures: Section 2.2.6)
 
@@ -1514,7 +1550,8 @@ It is my hope to build a permanent resource of our meeting recordings, notes and
 
 A very rough plan for future meetups. This is constantly changing. Descriptions and agenda are just placeholders for now.
 
-## TAOCP #34 - Heapsort (Chapter 5, Sorting: Section 5.2.3)
+
+## TAOCP #35 - Priority Queues (Chapter 5, Sorting: Section 5.2.3)
 
 We'll do some exercises
 
@@ -1525,7 +1562,7 @@ Keep the conversation going!
 Facebook: https://www.facebook.com/groups/678335496099220<br>
 IRC ##taocp: https://webchat.freenode.net/##taocp
 
-**Date:** Saturday, 15 May 2021\
+**Date:** Saturday, 22 May 2021\
 **Time:** 2-4pm America/New_York
 
 ### Agenda
@@ -1533,7 +1570,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **2:00 - 2:10** Meet and greet\
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
-- *5.2.3 Sorting by Selection* (pp.141-148)
+- *5.2.3 Sorting by Selection* (pp.148-152)
   - *Tree selection* (pp.141-142)
   - *Exercise 5.2.3.10* (p.156)
   - Top-down tree selection (pp.142-144)
