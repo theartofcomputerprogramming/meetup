@@ -33,6 +33,14 @@ All scheduled meetups in reverse chronological order
 
 ## TAOCP #34 - Heapsort (Chapter 5, Sorting: Section 5.2.3)
 
+Trees for sorting!
+
+We begin see the broad applicability of tree data structures for solving large categories of problems in our return to *Volume 3, Sorting and Searching*
+
+We develop heapsort as an example of selection by sorting in section 5.2.3. Tree selection is a popular elimination scheme for sports tournaments. Normally tournaments are only concerned with the single ultimate winner - the person that rises to the root of the selection tree. But the principle may be repeated with tweaks to obtain an efficient way to rank all participants exploiting information retained in the tree structure from every comparison.
+
+We look at Algorithm H (Heapsort) and its **MMIX** implementation. Time permitting we'll go over the mathematical analysis of a portion of heapsort - though Knuth marks it as optional.
+
 We'll do some exercises
 
 **This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
@@ -58,7 +66,7 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
   - *Algorithm H (Heapsort)*, *Fig 26* (pp.145-146)
   - *Program H (Heapsort)*, *Table 2* (pp.146-147), MMIX Supplement (pp.87-88)
   - Timing Program H (pp.147-148), MMIX Supplement (pp.88-89)
-  - Analysis of heapsort, Theorem H (pp.152-155)
+  - *Analysis of heapsort*, *Theorem H* (pp.152-155)
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
@@ -1562,7 +1570,7 @@ Keep the conversation going!
 Facebook: https://www.facebook.com/groups/678335496099220<br>
 IRC ##taocp: https://webchat.freenode.net/##taocp
 
-**Date:** Saturday, 22 May 2021\
+**Date:** Saturday, 1 TBD 2021\
 **Time:** 2-4pm America/New_York
 
 ### Agenda
@@ -1571,13 +1579,6 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
 **2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
 
 - *5.2.3 Sorting by Selection* (pp.148-152)
-  - *Tree selection* (pp.141-142)
-  - *Exercise 5.2.3.10* (p.156)
-  - Top-down tree selection (pp.142-144)
-  - *Heapsort* (pp.144-145)
-  - *Algorithm H (Heapsort)*, *Fig 26* (pp.145-146)
-  - *Program H (Heapsort)*, *Table 2* (pp.146-147), MMIX Supplement (pp.87-88)
-  - Analysis of heapsort (pp.147-148), MMIX Supplement (pp.88-89)
 
 **3:00 - 3:10** Break\
 **3:10 - 4:00**
@@ -1585,3 +1586,88 @@ IRC ##taocp: https://webchat.freenode.net/##taocp
   - Volume 3 (pp.155-158)
   - MMIX Supplement (p.89)
 - Shoot the breeze
+
+## TAOCP #36 - Merge Insertion Sort (Chapter 5, Sorting: Section 5.3.1)
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 1 TBD 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.3.1 Minimum-Comparison Sorting* (pp.180-193)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 3 (pp.155-158)
+  - MMIX Supplement (p.89)
+- Shoot the breeze
+
+## TAOCP #37 - Binary Merge (Chapter 5, Sorting: Section 5.3.2)
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 1 TBD 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.3.2 Minimum-Comparison Merging* (pp.197-204)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 3 (pp.155-158)
+  - MMIX Supplement (p.89)
+- Shoot the breeze
+
+## TAOCP #38 - Alice at Wimbledon? (Chapter 5, Sorting: Section 5.3.3)
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 1 TBD 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.3.3 Minimum-Comparison Selection* (pp.207-216)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 3 (pp.155-158)
+  - MMIX Supplement (p.89)
+- Shoot the breeze
+
