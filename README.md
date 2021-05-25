@@ -2,10 +2,15 @@
 
 https://www.meetup.com/theartofcomputerprogramming
 
-## Next Meetup
+## Next TAOCP Meetup
 
-[TAOCP #34 - Heapsort](#taocp-34---heapsort-chapter-5-sorting-section-523)\
-Saturday, 15 May 2021, 2-4pm America/New_York
+[TAOCP #36 - Merge Insertion Sort](#taocp-36---merge-insertion-sort-chapter-5-sorting-section-531)\
+Saturday, 29 May 2021, 2-4pm America/New_York
+
+## Next Papers Meetup
+
+[Papers #1 - Binomial Heaps, Jean Vuillemin, 1978](#papers-1---binomial-heaps-jean-vuillemin-1978)\
+Saturday, 26 May 2021, 2-4pm America/New_York
 
 ## Description
 
@@ -31,15 +36,187 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 
 All scheduled meetups in reverse chronological order
 
+## TAOCP #36 - Merge Insertion Sort (Chapter 5, Sorting: Section 5.3.1)
+
+It's The Best Sort, Don - The Best!
+
+Knuth - "Of course there is no best possible way to sort"
+
+What Knuth offers instead are three sections on minimizing the number of comparisons while sorting, merging or selecting
+
+We look at the first section under 5.3 Optimum Sorting in this meetup - 5.3.1 Minimum-Comparison Sorting
+
+We introduce comparison trees to establish a theoretical framework for analyzing comparison-based sorting techniques
+
+Then we consider two problems - finding comparison trees that minimize the maximum number of comparisons made - similarly those that minimize the average number of comparisons
+
+More concretely we learn merge insertion sort that came about as a generalization of a solution to the question - "What is the best way to sort five elements? Can five elements be sorted using only seven comparisons?"
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 29 May 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.3. Optimum Sorting*/*5.3.1 Minimum-Comparison Sorting* (pp.180-187, 192-193)
+  - Binary comparison tree (pp.180-182)
+  - *The best worst case* (pp.182-184)
+  - *Merge insertion* (pp.184-185)
+  - Analysis of merge insertion sort (pp.185-187)
+  - *The average number of comparisons* (pp.192-193)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 3 (pp.193-197)
+  - MMIX Supplement (p.94)
+- Shoot the breeze
+
+## Papers #1 - Binomial Heaps, Jean Vuillemin, 1978
+
+**Title:** A Data Structure for Manipulating Priority Queues\
+**Authors:** Jean Vuillemin\
+**Year:** 1978\
+**Length:** 6 pages\
+**Citation:** Communications of the ACM, April 1978, 309-315\
+**Paper:** https://dl.acm.org/doi/abs/10.1145/359460.359478
+
+Welcome to our first TAOCP Papers meetup!
+
+TAOCP Papers is an irregular series of meetups on papers on algorithms and data structures related to *TAOCP*
+
+These could be papers mentioned in *TAOCP* - like today's selection - or papers that expand on a topic Knuth has covered in *TAOCP*
+
+The Papers meetup will typically be scheduled on weekdays at 7p New York time - the format is much the same as the main TAOCP meetup - we'll read a bit and discuss - and repeat
+
+It's expected the portions we discuss at a time will be much smaller than couple pages since papers tend to be more dense than a text like *TAOCP* - it's quite possible some papers may need more than one session
+
+Our regular Saturday afternoon TAOCP meetup continues with no change
+
+Today's paper on binomial heaps - called binomial queues in the paper - is one of the "new ways to represent priority queues" that Knuth mentions in *5.2.3 Sorting by Selection*
+
+Along with Fibonacci heaps they are implemented in Knuth's Stanford GraphBase library for graph algorithms development
+
+Supplementary Resources:
+
+- Binomial heaps are based on binomial trees which are covered in *7.2.1.3 Generating all combinations, TAOCP Volume 4A, Combinatorial Algorithms, Part 1*
+
+- Binomial heaps are the subject of a lecture on 15 Apr 2021 in CS166, Data Structures, Spring 2021 at Stanford - accompanied by an excellent set of slides at https://web.stanford.edu/class/cs166
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Wednesday, 26 May 2021\
+**Time:** 7-9pm America/New_York
+
+### Agenda
+
+**7:00 - 7:10** Meet and greet\
+**7:10 - 8:00** Read and discuss a bit at a time
+
+- A Data Structure for Manipulating Priority Queues (pp.309-314)
+  - *1 Introduction* (p.309)
+  - INSERT, DELETE, MIN, UPDATE, UNION operations (pp.309-310)
+  - *2 Binomial Trees and Forests*, *Fig 1, 2, 3* (pp.310-311)
+  - *3 Binomial Queues* (p.311)
+  - UNION algorithm, *Fig 4, 5* (p.311)
+  - INSERT algorithm (pp.311-312)
+  - DELETE algorithm, *Fig 6, 7* (p.312)
+
+**8:00 - 8:10** Break\
+**8:10 - 9:00** Continue reading and discussing
+- UPDATE algorithm (pp.312-313)
+- *4 Implementation of Binomial Forests as Binary Trees*, *Fig 8* (p.313)
+- UNION pseudocode (pp.313-314)
+- DELETE/EXTRACTMIN pseudocode (p.314)
+
+## TAOCP #35 - Priority Queues (Chapter 5, Sorting: Section 5.2.3)
+
+Top Of The Heap!
+
+We saw in TAOCP #34 how a heap - a tree with of keys *K_1, ..., K_N* with the heap condition
+
+--------------------- *K_⌊j/2⌋ >= K_j for 1 <= ⌊j/2⌋ < j <= N* -------------------
+
+may be used to sort the keys in a guaranteed worst case time of O(N * log(N))
+
+This time we look at priority queues - another application where heaps shine
+
+Priority queues are convenient data structures for whenever data arrives in an unpredictable way but has to be processed in a known priority order. Priority may be time or distance or some measure of the importance of the key. This implies data once stored must be retrieved in order of its priority.
+
+A heap may be used as the base data structure for a priority queue - thus providing insertion and deletion in *O(log n)* time
+
+We look at leftist trees as another representation for priority queues - these offer constant time insertion and deletion at the cost of increased memory
+
+Knuth compares these two choices and a balanced tree representation - and lists a bunch of alternatives found up through the 1990s
+
+He concludes by saying
+
+-------------- "Many new ways to represent priority queues have been discovered since ... Programmers now have a large menu of options to ponder, besides simple lists, heaps, leftist or balanced trees ... Not all of these methods will survive the test of time" --------------
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 22 May 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.2.3 Sorting by Selection* (pp.148-152)
+  - *Largest in, first out* (pp.148-149)
+  - *A linked representation for priority queues* (pp.149-150)
+  - *Comparison of priority queue techniques*, *Fig 27* (pp.150-152)
+
+- *5.2.3 Exercises* - *Sorting by Selection* (pp.155-158)
+  - *Exercise 15* - Prime numbers table without division (p.156)
+  - *Exercise 16* - Add a key to a heap (p.156)
+  - *Exercise 29* - Polynomial multiplication (p.157)
+  - *Exercise 31* - Priority deque (p.157)
+  - *Exercise 33* - Merge leftist tree priority queues (p.157)
+  - *Exercise 36* - LRU page replacement (p.158)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 3 (pp.155-158)
+  - MMIX Supplement (p.89)
+- Shoot the breeze
+- 
 ## TAOCP #34 - Heapsort (Chapter 5, Sorting: Section 5.2.3)
 
-Trees for sorting!
+Winner winner chicken dinner!
 
-We begin see the broad applicability of tree data structures for solving large categories of problems in our return to *Volume 3, Sorting and Searching*
+We begin to see the broad applicability of tree data structures to solving large categories of problems in our return to *Volume 3, Sorting and Searching*
 
 We develop heapsort as an example of selection by sorting in section 5.2.3. Tree selection is a popular elimination scheme for sports tournaments. Normally tournaments are only concerned with the single ultimate winner - the person that rises to the root of the selection tree. But the principle may be repeated with tweaks to obtain an efficient way to rank all participants exploiting information retained in the tree structure from every comparison.
 
-We look at Algorithm H (Heapsort) and its **MMIX** implementation. Time permitting we'll go over the mathematical analysis of a portion of heapsort - though Knuth marks it as optional.
+We look at Algorithm H (Heapsort) and its **MMIX** implementation
+
+Time permitting we'll go over the mathematical analysis of a portion of heapsort - though Knuth marks it as optional
 
 We'll do some exercises
 
@@ -1557,63 +1734,6 @@ It is my hope to build a permanent resource of our meeting recordings, notes and
 ## Future Meetups (Tentative)
 
 A very rough plan for future meetups. This is constantly changing. Descriptions and agenda are just placeholders for now.
-
-
-## TAOCP #35 - Priority Queues (Chapter 5, Sorting: Section 5.2.3)
-
-We'll do some exercises
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
-
-- *5.2.3 Sorting by Selection* (pp.148-152)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00**
-- *Exercises*
-  - Volume 3 (pp.155-158)
-  - MMIX Supplement (p.89)
-- Shoot the breeze
-
-## TAOCP #36 - Merge Insertion Sort (Chapter 5, Sorting: Section 5.3.1)
-
-We'll do some exercises
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
-
-- *5.3.1 Minimum-Comparison Sorting* (pp.180-193)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00**
-- *Exercises*
-  - Volume 3 (pp.155-158)
-  - MMIX Supplement (p.89)
-- Shoot the breeze
 
 ## TAOCP #37 - Binary Merge (Chapter 5, Sorting: Section 5.3.2)
 
