@@ -10,7 +10,7 @@ Saturday, 5 Jun 2021, 2-4pm America/New_York
 ## Next Papers Meetup
 
 [Papers #1 - Binomial Heaps, Jean Vuillemin, 1978](#papers-1---binomial-heaps-jean-vuillemin-1978)\
-Saturday, 26 May 2021, 2-4pm America/New_York
+Wednesday, 26 May 2021, 7-9pm America/New_York
 
 ## Description
 
