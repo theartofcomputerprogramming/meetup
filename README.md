@@ -4,8 +4,8 @@ https://www.meetup.com/theartofcomputerprogramming
 
 ## Next TAOCP Meetup
 
-[TAOCP #36 - Merge Insertion Sort](#taocp-36---merge-insertion-sort-chapter-5-sorting-section-531)\
-Saturday, 29 May 2021, 2-4pm America/New_York
+[TAOCP #37 - Binary Merge](#taocp-37---binary-merge-chapter-5-sorting-section-532)\
+Saturday, 5 Jun 2021, 2-4pm America/New_York
 
 ## Next Papers Meetup
 
@@ -35,6 +35,54 @@ The second supplement is *The MMIX Supplement* by Martin Ruckert that has **MMIX
 ## Scheduled and Past Meetups
 
 All scheduled meetups in reverse chronological order
+
+## TAOCP #37 - Binary Merge (Chapter 5, Sorting: Section 5.3.2)
+
+Caution Short Merge Ahead!
+
+We're looking at optimum sorting. After analyzing what it means to minimize comparisons for sorting, Knuth turns to the related question of how to most efficiently merge two sorted sets in *5.3.2 Minimum-Comparison Merging*. This is an optional starred section so expect a bit more math than usual.
+
+We go over couple theorems on the minimum number of comparisons needed for merging from Graham/Karp, Hwang/Lim and Stockmeyer/Yao
+
+We learn the proof technique of an adversary to establish these results
+
+The constrained adversaries approach leads to *Algorithm H (Binary merge)* also from Hwang and Lim that takes its name from an application of binary search
+
+We'll do some exercises
+
+**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
+
+Keep the conversation going!
+
+Facebook: https://www.facebook.com/groups/678335496099220<br>
+IRC ##taocp: https://webchat.freenode.net/##taocp
+
+**Date:** Saturday, 5 Jun 2021\
+**Time:** 2-4pm America/New_York
+
+### Agenda
+
+**2:00 - 2:10** Meet and greet\
+**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
+
+- *5.3.2 Minimum-Comparison Merging* (197-204)
+  - What is the best way to merge two ordered sets? (197)
+  - *Theorem M* (198)
+  - *Constructing lower bounds*, constrained adversaries (198-199)
+  - An adversary for merging, Strategy A (199)
+  - All strategies (199)
+  - Constraints on the strategies (200)
+  - Lower bounds on merging from the adversary, *Table 1* (200-202)
+  - *Theorem K* (202)
+  - *Upper bounds on merging* (202-203)
+  - *Algorithm H (Binary merging)*, *Table 2* (203)
+  - Analysis of Algorithm H (204)
+
+**3:00 - 3:10** Break\
+**3:10 - 4:00**
+- *Exercises*
+  - Volume 3 (205-207)
+- Shoot the breeze
 
 ## TAOCP #36 - Merge Insertion Sort (Chapter 5, Sorting: Section 5.3.1)
 
@@ -1734,34 +1782,6 @@ It is my hope to build a permanent resource of our meeting recordings, notes and
 ## Future Meetups (Tentative)
 
 A very rough plan for future meetups. This is constantly changing. Descriptions and agenda are just placeholders for now.
-
-## TAOCP #37 - Binary Merge (Chapter 5, Sorting: Section 5.3.2)
-
-We'll do some exercises
-
-**This event will be recorded and posted to YouTube as a public video at https://www.youtube.com/channel/UCHOHy9Rjl3MlEfZ2HI0AD3g**
-
-Keep the conversation going!
-
-Facebook: https://www.facebook.com/groups/678335496099220<br>
-IRC ##taocp: https://webchat.freenode.net/##taocp
-
-**Date:** Saturday, 1 TBD 2021\
-**Time:** 2-4pm America/New_York
-
-### Agenda
-
-**2:00 - 2:10** Meet and greet\
-**2:10 - 3:00** Read and discuss couple pages at a time from *Chapter 5, Sorting* (along with *MMIX Supplement*)
-
-- *5.3.2 Minimum-Comparison Merging* (pp.197-204)
-
-**3:00 - 3:10** Break\
-**3:10 - 4:00**
-- *Exercises*
-  - Volume 3 (pp.155-158)
-  - MMIX Supplement (p.89)
-- Shoot the breeze
 
 ## TAOCP #38 - Alice at Wimbledon? (Chapter 5, Sorting: Section 5.3.3)
 
